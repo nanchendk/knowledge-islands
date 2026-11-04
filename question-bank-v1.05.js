@@ -1,4 +1,4 @@
-/* V1.05 題庫：示範性章節配置，非特定學校正式段考範圍；教科書版本與進度須另行核對。 */
+/* 原創練習題，部分章節仍待逐題核對正式段考範圍。 */
 const questionBankV105=[
   {
     "subject": "國文",
@@ -62,6 +62,81 @@ const questionBankV105=[
         ],
         "answer": 1,
         "explanation": "結構相似的語句連續排列，是排比。"
+      },
+      {
+        "id": "G7S1-國文-EX1",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「絡繹不絕」形容什麼？",
+        "options": [
+          "人車往來接連不斷",
+          "事情全部結束",
+          "說話簡短"
+        ],
+        "answer": 0,
+        "explanation": "絡繹不絕表示往來不斷。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-國文-EX2",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「針砭時弊」的「砭」讀音為？",
+        "options": [
+          "ㄅㄧㄢ",
+          "ㄆㄧㄢ",
+          "ㄅㄧㄥ"
+        ],
+        "answer": 0,
+        "explanation": "砭讀作ㄅㄧㄢ，針砭比喻指出缺失。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-國文-EX3",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「烘焙」的「焙」讀音為？",
+        "options": [
+          "ㄆㄟˊ",
+          "ㄅㄟˋ",
+          "ㄅㄟ"
+        ],
+        "answer": 1,
+        "explanation": "焙讀作ㄅㄟˋ。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-國文-EX4",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "「惱羞成怒」的意思是？",
+        "options": [
+          "因羞愧而發怒",
+          "因高興而大笑",
+          "因疲倦而睡著"
+        ],
+        "answer": 0,
+        "explanation": "惱羞成怒指因羞愧而生氣。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-國文-EX5",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "閱讀文章時，要判斷作者的主要觀點，最適合先找？",
+        "options": [
+          "全文中心思想與反覆強調的重點",
+          "每一個標點符號",
+          "字數最多的段落"
+        ],
+        "answer": 0,
+        "explanation": "主旨需綜合全文脈絡判斷。",
+        "scopeStatus": "provisional"
       }
     ]
   },
@@ -127,6 +202,81 @@ const questionBankV105=[
         ],
         "answer": 1,
         "explanation": "第三人稱單數現在式否定用 doesn't + 原形動詞。"
+      },
+      {
+        "id": "G7S1-英文-EX1",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ your brother play basketball?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 1,
+        "explanation": "一般動詞現在簡單式，第三人稱單數疑問句用 Does。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-EX2",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My sister ___ TV after dinner.",
+        "options": [
+          "watch",
+          "watches",
+          "watching"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數動詞加 -es。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-EX3",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "We ___ have classes on Sunday.",
+        "options": [
+          "don't",
+          "doesn't",
+          "isn't"
+        ],
+        "answer": 0,
+        "explanation": "主詞 We 的一般動詞否定用 don't。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-EX4",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "Which is correct?",
+        "options": [
+          "Does he likes music?",
+          "Does he like music?",
+          "Do he like music?"
+        ],
+        "answer": 1,
+        "explanation": "助動詞 Does 後接原形動詞 like。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-EX5",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "A: What time is it? B: ___",
+        "options": [
+          "It's seven thirty.",
+          "I'm thirteen.",
+          "It's Monday."
+        ],
+        "answer": 0,
+        "explanation": "詢問時間用 It's + 時間回答。",
+        "scopeStatus": "provisional"
       }
     ]
   },
@@ -192,6 +342,81 @@ const questionBankV105=[
         ],
         "answer": 1,
         "explanation": "距離是 |5−(-3)|=8。"
+      },
+      {
+        "id": "G7S1-數學-EX1",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "(-2)×(-6) = ?",
+        "options": [
+          "-12",
+          "12",
+          "8"
+        ],
+        "answer": 1,
+        "explanation": "負數乘負數為正數。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-EX2",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "24 ÷ (-3) = ?",
+        "options": [
+          "8",
+          "-8",
+          "-21"
+        ],
+        "answer": 1,
+        "explanation": "正數除以負數為負數。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-EX3",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "2³ × 2² = ?",
+        "options": [
+          "2⁵",
+          "2⁶",
+          "4⁵"
+        ],
+        "answer": 0,
+        "explanation": "同底數冪相乘，指數相加。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-EX4",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "(-3)² 等於？",
+        "options": [
+          "-9",
+          "9",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "括號內的 -3 平方得到 9。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-EX5",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "12 與 18 的最大公因數為？",
+        "options": [
+          "3",
+          "6",
+          "36"
+        ],
+        "answer": 1,
+        "explanation": "12 與 18 的共同因數最大為 6。",
+        "scopeStatus": "provisional"
       }
     ]
   },
@@ -257,6 +482,81 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "酵素活性會受溫度與 pH 影響。"
+      },
+      {
+        "id": "G7S1-生物-EX1",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "消化作用的主要功能是？",
+        "options": [
+          "將大分子養分分解成可吸收的小分子",
+          "把養分全部變成氧氣",
+          "增加食物體積"
+        ],
+        "answer": 0,
+        "explanation": "消化把較大的養分分解為可吸收的小分子。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-生物-EX2",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "植物蒸散作用主要透過葉片哪個構造？",
+        "options": [
+          "氣孔",
+          "葉脈中的木質部",
+          "角質層下的細胞核"
+        ],
+        "answer": 0,
+        "explanation": "水蒸氣主要經氣孔散失。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-生物-EX3",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "人體運送氧氣主要依靠血液中的？",
+        "options": [
+          "紅血球",
+          "血小板",
+          "血漿中的葡萄糖"
+        ],
+        "answer": 0,
+        "explanation": "紅血球中的血紅素有助於運送氧氣。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-生物-EX4",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "下列哪個器官主要負責氣體交換？",
+        "options": [
+          "肺泡",
+          "食道",
+          "胃"
+        ],
+        "answer": 0,
+        "explanation": "肺泡壁薄，利於氧氣與二氧化碳交換。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-生物-EX5",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "植物的木質部主要運輸？",
+        "options": [
+          "水和無機鹽",
+          "葡萄糖與蔗糖",
+          "氧氣與二氧化碳"
+        ],
+        "answer": 0,
+        "explanation": "木質部主要向上輸送水和無機鹽。",
+        "scopeStatus": "provisional"
       }
     ]
   },
@@ -452,6 +752,81 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "荷蘭東印度公司在今臺南一帶建立據點。"
+      },
+      {
+        "id": "G7S1-歷史-EX1",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "歷史研究中，第一手史料通常指？",
+        "options": [
+          "事件當時留下的記錄或物件",
+          "多年後的小說改編",
+          "未註明來源的傳聞"
+        ],
+        "answer": 0,
+        "explanation": "第一手史料是研究事件當時留下的材料。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-歷史-EX2",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "臺灣史前時代的人類活動，可從何者了解？",
+        "options": [
+          "遺址出土的器物",
+          "現代網路留言",
+          "天氣預報"
+        ],
+        "answer": 0,
+        "explanation": "考古遺物可提供生活方式線索。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-歷史-EX3",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "大航海時代歐洲商人關注亞洲的重要商品包括？",
+        "options": [
+          "香料",
+          "塑膠玩具",
+          "手機"
+        ],
+        "answer": 0,
+        "explanation": "香料是當時重要的遠距貿易商品。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-歷史-EX4",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "荷蘭東印度公司在臺灣的活動與哪項目的密切相關？",
+        "options": [
+          "貿易據點經營",
+          "發展太空科技",
+          "興建高速鐵路"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭人將臺灣作為東亞貿易網絡的一環。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-歷史-EX5",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "考察歷史事件先後順序，最適合使用？",
+        "options": [
+          "時間軸",
+          "等高線圖",
+          "元素週期表"
+        ],
+        "answer": 0,
+        "explanation": "時間軸能呈現事件的時間順序。",
+        "scopeStatus": "provisional"
       }
     ]
   },
@@ -517,6 +892,81 @@ const questionBankV105=[
         ],
         "answer": 1,
         "explanation": "相同高差在較短水平距離內發生，坡度較陡。"
+      },
+      {
+        "id": "G7S1-地理-EX1",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "臺灣位於哪個半球？",
+        "options": [
+          "北半球、東半球",
+          "南半球、西半球",
+          "南半球、東半球"
+        ],
+        "answer": 0,
+        "explanation": "臺灣位於赤道以北、本初經線以東。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-地理-EX2",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "臺灣地形主要以哪一類面積較廣？",
+        "options": [
+          "山地與丘陵",
+          "平原",
+          "沙漠"
+        ],
+        "answer": 0,
+        "explanation": "臺灣多山，山地丘陵面積較廣。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-地理-EX3",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "地圖上的指北針主要協助判讀？",
+        "options": [
+          "方向",
+          "人口密度",
+          "降雨量"
+        ],
+        "answer": 0,
+        "explanation": "指北針標示方向。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-地理-EX4",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "海拔高度指的是相對於何種基準的高度？",
+        "options": [
+          "平均海平面",
+          "最近一棟房屋",
+          "河川最深處"
+        ],
+        "answer": 0,
+        "explanation": "海拔通常以平均海平面為基準。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-地理-EX5",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "臺灣西部平原較多，主要與何者有關？",
+        "options": [
+          "河川沖積作用",
+          "火山遍布全島",
+          "終年積雪"
+        ],
+        "answer": 0,
+        "explanation": "河川搬運沉積物，形成沖積平原。",
+        "scopeStatus": "provisional"
       }
     ]
   },
@@ -582,6 +1032,81 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "應尊重彼此權利，透過理性溝通與合法程序處理。"
+      },
+      {
+        "id": "G7S1-公民-EX1",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "在民主社會中，公共議題可以透過什麼方式討論？",
+        "options": [
+          "理性溝通與參與",
+          "禁止不同意見",
+          "以暴力決定"
+        ],
+        "answer": 0,
+        "explanation": "民主社會重視理性討論與多元參與。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-公民-EX2",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "個人資料應如何處理較妥當？",
+        "options": [
+          "尊重隱私並避免任意公開",
+          "全部張貼網路",
+          "未經同意轉傳"
+        ],
+        "answer": 0,
+        "explanation": "個人隱私與資料應受尊重。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-公民-EX3",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "家庭成員共同分擔家務，最符合？",
+        "options": [
+          "責任分工與合作",
+          "只有一人負責所有事情",
+          "忽視彼此需求"
+        ],
+        "answer": 0,
+        "explanation": "共同分工有助於家庭合作。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-公民-EX4",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "發現同學遭受霸凌，較合適的做法是？",
+        "options": [
+          "尋求師長協助並支持受害者",
+          "加入嘲笑",
+          "錄影散布"
+        ],
+        "answer": 0,
+        "explanation": "應保護受害者並尋求可信任成人協助。",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-公民-EX5",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "法律規範的功能之一是？",
+        "options": [
+          "維持社會秩序與保障權利",
+          "讓所有人想做什麼就做什麼",
+          "取消所有責任"
+        ],
+        "answer": 0,
+        "explanation": "法律兼具保障權利與維護秩序的功能。",
+        "scopeStatus": "provisional"
       }
     ]
   }
