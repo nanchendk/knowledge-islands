@@ -1111,3 +1111,25 @@ const questionBankV105=[
     ]
   }
 ];
+
+/* 擴充練習池：每島100題，含原創母題及情境/選項變化題。
+   變化題不是100個獨立知識點；僅供反覆練習，不宣稱已對應正式段考。 */
+const practiceBankV105=questionBankV105.map((subject,si)=>{
+ const base=subject.items, pool=[];
+ const frames=[
+  q=>q, q=>"基礎複習："+q, q=>"段考暖身："+q,
+  q=>"觀念確認："+q, q=>"請選出正確答案："+q,
+  q=>"練習題："+q, q=>"學習檢核："+q,
+  q=>"本題重點："+q, q=>"挑戰題："+q,
+  q=>"再次確認："+q, q=>"易錯觀念："+q,
+  q=>"考前自測："+q, q=>"重點練習："+q
+ ];
+ for(let k=0;k<100;k++){
+  const source=base[k%base.length],round=Math.floor(k/base.length);
+  const shift=(k*7+si)%source.options.length;
+  const options=source.options.map((_,j)=>source.options[(j+shift)%source.options.length]);
+  const answer=(source.answer-shift+source.options.length)%source.options.length;
+  pool.push({...source,id:source.id+"-V"+(round+1),question:frames[round%frames.length](source.question),options,answer,variationOf:round===0?null:source.id,verifiedForExam:false});
+ }
+ return {...subject,items:pool,baseQuestionCount:base.length,generatedVariantCount:100-base.length};
+});
