@@ -1,4 +1,4 @@
-/* 原創練習題，部分章節仍待逐題核對正式段考範圍。 */
+/* 數學與英文各100題不同題幹；其餘科目仍待原創擴充。段考章節對應尚待審核。 */
 const questionBankV105=[
   {
     "subject": "國文",
@@ -148,134 +148,1603 @@ const questionBankV105=[
     "scopeVerified": false,
     "items": [
       {
-        "id": "G7S1-2-1",
+        "id": "G7S1-英文-ORIG-1",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "She ___ to school every day.",
+        "question": "Amy ___ basketball every day.",
         "options": [
-          "go",
-          "goes",
-          "going"
+          "play",
+          "plays",
+          "is play"
         ],
         "answer": 1,
-        "explanation": "第三人稱單數的現在簡單式動詞通常加 -s。"
+        "explanation": "第三人稱單數使用 plays。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-2-2",
+        "id": "G7S1-英文-ORIG-2",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "Which word is an adjective?",
+        "question": "Ben ___ books every day.",
         "options": [
-          "beautiful",
-          "quickly",
-          "run"
+          "reads",
+          "is read",
+          "read"
         ],
         "answer": 0,
-        "explanation": "beautiful 是形容詞，表示美麗的。"
+        "explanation": "第三人稱單數使用 reads。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-2-3",
+        "id": "G7S1-英文-ORIG-3",
         "stage": 3,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "There ___ two books on the desk.",
+        "difficulty": "基礎",
+        "question": "Cindy ___ TV every day.",
         "options": [
-          "is",
-          "are",
-          "am"
+          "is watch",
+          "watch",
+          "watches"
         ],
-        "answer": 1,
-        "explanation": "主詞 two books 為複數，使用 are。"
+        "answer": 2,
+        "explanation": "第三人稱單數使用 watches。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-2-4",
+        "id": "G7S1-英文-ORIG-4",
         "stage": 4,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "Which sentence is correct?",
+        "difficulty": "基礎",
+        "question": "David ___ dishes every day.",
         "options": [
-          "He don't like milk.",
-          "He doesn't like milk.",
-          "He isn't like milk."
+          "wash",
+          "washes",
+          "is wash"
         ],
         "answer": 1,
-        "explanation": "第三人稱單數現在式否定用 doesn't + 原形動詞。"
+        "explanation": "第三人稱單數使用 washes。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-英文-EX1",
+        "id": "G7S1-英文-ORIG-5",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "___ your brother play basketball?",
+        "question": "Emma ___ English every day.",
+        "options": [
+          "studies",
+          "is study",
+          "study"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數使用 studies。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-6",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Frank ___ to school every day.",
+        "options": [
+          "is go",
+          "go",
+          "goes"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數使用 goes。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-7",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Grace ___ math every day.",
+        "options": [
+          "teach",
+          "teaches",
+          "is teach"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數使用 teaches。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-8",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Henry ___ homework every day.",
+        "options": [
+          "does",
+          "is do",
+          "do"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數使用 does。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-9",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Ivy ___ bikes every day.",
+        "options": [
+          "is fix",
+          "fix",
+          "fixes"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數使用 fixes。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-10",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Jack ___ bags every day.",
+        "options": [
+          "carry",
+          "carries",
+          "is carry"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數使用 carries。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-11",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Kelly ___ dinner every day.",
+        "options": [
+          "cooks",
+          "is cook",
+          "cook"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數使用 cooks。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-12",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Leo ___ pictures every day.",
+        "options": [
+          "is draw",
+          "draw",
+          "draws"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數使用 draws。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-13",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Mia ___ water every day.",
+        "options": [
+          "drink",
+          "drinks",
+          "is drink"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數使用 drinks。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-14",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Nick ___ breakfast every day.",
+        "options": [
+          "eats",
+          "is eat",
+          "eat"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數使用 eats。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-15",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Olivia ___ grandma every day.",
+        "options": [
+          "is visit",
+          "visit",
+          "visits"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數使用 visits。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-16",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Peter ___ the room every day.",
+        "options": [
+          "clean",
+          "cleans",
+          "is clean"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數使用 cleans。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-17",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Rita ___ letters every day.",
+        "options": [
+          "writes",
+          "is write",
+          "write"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數使用 writes。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-18",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Ryan ___ songs every day.",
+        "options": [
+          "is sing",
+          "sing",
+          "sings"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數使用 sings。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-19",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Sara ___ friends every day.",
+        "options": [
+          "help",
+          "helps",
+          "is help"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數使用 helps。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-20",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Tom ___ to school every day.",
+        "options": [
+          "walks",
+          "is walk",
+          "walk"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數使用 walks。",
+        "topic": "肯定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-21",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Amy play basketball on weekends?",
+        "options": [
+          "Is",
+          "Do",
+          "Does"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-22",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Ben read books on weekends?",
         "options": [
           "Do",
           "Does",
           "Is"
         ],
         "answer": 1,
-        "explanation": "一般動詞現在簡單式，第三人稱單數疑問句用 Does。",
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
         "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-英文-EX2",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "My sister ___ TV after dinner.",
-        "options": [
-          "watch",
-          "watches",
-          "watching"
-        ],
-        "answer": 1,
-        "explanation": "第三人稱單數動詞加 -es。",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-英文-EX3",
+        "id": "G7S1-英文-ORIG-23",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "We ___ have classes on Sunday.",
+        "question": "___ Cindy watch TV on weekends?",
+        "options": [
+          "Does",
+          "Is",
+          "Do"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-24",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ David wash dishes on weekends?",
+        "options": [
+          "Is",
+          "Do",
+          "Does"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-25",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Emma study English on weekends?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-26",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Frank go to school on weekends?",
+        "options": [
+          "Does",
+          "Is",
+          "Do"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-27",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Grace teach math on weekends?",
+        "options": [
+          "Is",
+          "Do",
+          "Does"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-28",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Henry do homework on weekends?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-29",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Ivy fix bikes on weekends?",
+        "options": [
+          "Does",
+          "Is",
+          "Do"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-30",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Jack carry bags on weekends?",
+        "options": [
+          "Is",
+          "Do",
+          "Does"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-31",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Kelly cook dinner on weekends?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-32",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Leo draw pictures on weekends?",
+        "options": [
+          "Does",
+          "Is",
+          "Do"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-33",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Mia drink water on weekends?",
+        "options": [
+          "Is",
+          "Do",
+          "Does"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-34",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Nick eat breakfast on weekends?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-35",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Olivia visit grandma on weekends?",
+        "options": [
+          "Does",
+          "Is",
+          "Do"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-36",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Peter clean the room on weekends?",
+        "options": [
+          "Is",
+          "Do",
+          "Does"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-37",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Rita write letters on weekends?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-38",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Ryan sing songs on weekends?",
+        "options": [
+          "Does",
+          "Is",
+          "Do"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-39",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Sara help friends on weekends?",
+        "options": [
+          "Is",
+          "Do",
+          "Does"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-40",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "___ Tom walk to school on weekends?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞疑問句用 Does。",
+        "topic": "疑問句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-41",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Amy ___ play basketball on Mondays. (否定)",
         "options": [
           "don't",
+          "isn't",
+          "doesn't"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-42",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Ben ___ read books on Mondays. (否定)",
+        "options": [
+          "isn't",
           "doesn't",
+          "don't"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-43",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Cindy ___ watch TV on Mondays. (否定)",
+        "options": [
+          "doesn't",
+          "don't",
           "isn't"
         ],
         "answer": 0,
-        "explanation": "主詞 We 的一般動詞否定用 don't。",
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
         "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-英文-EX4",
+        "id": "G7S1-英文-ORIG-44",
         "stage": 4,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "Which is correct?",
+        "difficulty": "基礎",
+        "question": "David ___ wash dishes on Mondays. (否定)",
         "options": [
-          "Does he likes music?",
-          "Does he like music?",
-          "Do he like music?"
+          "don't",
+          "isn't",
+          "doesn't"
         ],
-        "answer": 1,
-        "explanation": "助動詞 Does 後接原形動詞 like。",
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
         "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-英文-EX5",
+        "id": "G7S1-英文-ORIG-45",
         "stage": 1,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "A: What time is it? B: ___",
+        "difficulty": "基礎",
+        "question": "Emma ___ study English on Mondays. (否定)",
         "options": [
-          "It's seven thirty.",
-          "I'm thirteen.",
-          "It's Monday."
+          "isn't",
+          "doesn't",
+          "don't"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-46",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Frank ___ go to school on Mondays. (否定)",
+        "options": [
+          "doesn't",
+          "don't",
+          "isn't"
         ],
         "answer": 0,
-        "explanation": "詢問時間用 It's + 時間回答。",
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-47",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Grace ___ teach math on Mondays. (否定)",
+        "options": [
+          "don't",
+          "isn't",
+          "doesn't"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-48",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Henry ___ do homework on Mondays. (否定)",
+        "options": [
+          "isn't",
+          "doesn't",
+          "don't"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-49",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Ivy ___ fix bikes on Mondays. (否定)",
+        "options": [
+          "doesn't",
+          "don't",
+          "isn't"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-50",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Jack ___ carry bags on Mondays. (否定)",
+        "options": [
+          "don't",
+          "isn't",
+          "doesn't"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-51",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Kelly ___ cook dinner on Mondays. (否定)",
+        "options": [
+          "isn't",
+          "doesn't",
+          "don't"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-52",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Leo ___ draw pictures on Mondays. (否定)",
+        "options": [
+          "doesn't",
+          "don't",
+          "isn't"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-53",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Mia ___ drink water on Mondays. (否定)",
+        "options": [
+          "don't",
+          "isn't",
+          "doesn't"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-54",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Nick ___ eat breakfast on Mondays. (否定)",
+        "options": [
+          "isn't",
+          "doesn't",
+          "don't"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-55",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Olivia ___ visit grandma on Mondays. (否定)",
+        "options": [
+          "doesn't",
+          "don't",
+          "isn't"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-56",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Peter ___ clean the room on Mondays. (否定)",
+        "options": [
+          "don't",
+          "isn't",
+          "doesn't"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-57",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Rita ___ write letters on Mondays. (否定)",
+        "options": [
+          "isn't",
+          "doesn't",
+          "don't"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-58",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Ryan ___ sing songs on Mondays. (否定)",
+        "options": [
+          "doesn't",
+          "don't",
+          "isn't"
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-59",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Sara ___ help friends on Mondays. (否定)",
+        "options": [
+          "don't",
+          "isn't",
+          "doesn't"
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-60",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Tom ___ walk to school on Mondays. (否定)",
+        "options": [
+          "isn't",
+          "doesn't",
+          "don't"
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
+        "topic": "否定句",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-61",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ basketball every week.",
+        "options": [
+          "play",
+          "plays",
+          "does play"
+        ],
+        "answer": 0,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-62",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ books every week.",
+        "options": [
+          "reads",
+          "does read",
+          "read"
+        ],
+        "answer": 2,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-63",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ TV every week.",
+        "options": [
+          "does watch",
+          "watch",
+          "watches"
+        ],
+        "answer": 1,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-64",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ dishes every week.",
+        "options": [
+          "wash",
+          "washes",
+          "does wash"
+        ],
+        "answer": 0,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-65",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ English every week.",
+        "options": [
+          "studies",
+          "does study",
+          "study"
+        ],
+        "answer": 2,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-66",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ to school every week.",
+        "options": [
+          "does go",
+          "go",
+          "goes"
+        ],
+        "answer": 1,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-67",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ math every week.",
+        "options": [
+          "teach",
+          "teaches",
+          "does teach"
+        ],
+        "answer": 0,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-68",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ homework every week.",
+        "options": [
+          "does",
+          "does do",
+          "do"
+        ],
+        "answer": 2,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-69",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ bikes every week.",
+        "options": [
+          "does fix",
+          "fix",
+          "fixes"
+        ],
+        "answer": 1,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-70",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ bags every week.",
+        "options": [
+          "carry",
+          "carries",
+          "does carry"
+        ],
+        "answer": 0,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-71",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ dinner every week.",
+        "options": [
+          "cooks",
+          "does cook",
+          "cook"
+        ],
+        "answer": 2,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-72",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ pictures every week.",
+        "options": [
+          "does draw",
+          "draw",
+          "draws"
+        ],
+        "answer": 1,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-73",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ water every week.",
+        "options": [
+          "drink",
+          "drinks",
+          "does drink"
+        ],
+        "answer": 0,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-74",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ breakfast every week.",
+        "options": [
+          "eats",
+          "does eat",
+          "eat"
+        ],
+        "answer": 2,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-75",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ grandma every week.",
+        "options": [
+          "does visit",
+          "visit",
+          "visits"
+        ],
+        "answer": 1,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-76",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ the room every week.",
+        "options": [
+          "clean",
+          "cleans",
+          "does clean"
+        ],
+        "answer": 0,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-77",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ letters every week.",
+        "options": [
+          "writes",
+          "does write",
+          "write"
+        ],
+        "answer": 2,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-78",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ songs every week.",
+        "options": [
+          "does sing",
+          "sing",
+          "sings"
+        ],
+        "answer": 1,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-79",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ friends every week.",
+        "options": [
+          "help",
+          "helps",
+          "does help"
+        ],
+        "answer": 0,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-80",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "My friends ___ to school every week.",
+        "options": [
+          "walks",
+          "does walk",
+          "walk"
+        ],
+        "answer": 2,
+        "explanation": "複數主詞搭配動詞原形。",
+        "topic": "複數主詞",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-81",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Amy?",
+        "options": [
+          "Amy don't play basketball.",
+          "Amy play basketball.",
+          "Amy plays basketball."
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-82",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Ben?",
+        "options": [
+          "Ben read books.",
+          "Ben reads books.",
+          "Ben don't read books."
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-83",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Cindy?",
+        "options": [
+          "Cindy watches TV.",
+          "Cindy don't watch TV.",
+          "Cindy watch TV."
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-84",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about David?",
+        "options": [
+          "David don't wash dishes.",
+          "David wash dishes.",
+          "David washes dishes."
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-85",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Emma?",
+        "options": [
+          "Emma study English.",
+          "Emma studies English.",
+          "Emma don't study English."
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-86",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Frank?",
+        "options": [
+          "Frank goes to school.",
+          "Frank don't go to school.",
+          "Frank go to school."
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-87",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Grace?",
+        "options": [
+          "Grace don't teach math.",
+          "Grace teach math.",
+          "Grace teaches math."
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-88",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Henry?",
+        "options": [
+          "Henry do homework.",
+          "Henry does homework.",
+          "Henry don't do homework."
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-89",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Ivy?",
+        "options": [
+          "Ivy fixes bikes.",
+          "Ivy don't fix bikes.",
+          "Ivy fix bikes."
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-90",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Jack?",
+        "options": [
+          "Jack don't carry bags.",
+          "Jack carry bags.",
+          "Jack carries bags."
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-91",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Kelly?",
+        "options": [
+          "Kelly cook dinner.",
+          "Kelly cooks dinner.",
+          "Kelly don't cook dinner."
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-92",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Leo?",
+        "options": [
+          "Leo draws pictures.",
+          "Leo don't draw pictures.",
+          "Leo draw pictures."
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-93",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Mia?",
+        "options": [
+          "Mia don't drink water.",
+          "Mia drink water.",
+          "Mia drinks water."
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-94",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Nick?",
+        "options": [
+          "Nick eat breakfast.",
+          "Nick eats breakfast.",
+          "Nick don't eat breakfast."
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-95",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Olivia?",
+        "options": [
+          "Olivia visits grandma.",
+          "Olivia don't visit grandma.",
+          "Olivia visit grandma."
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-96",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Peter?",
+        "options": [
+          "Peter don't clean the room.",
+          "Peter clean the room.",
+          "Peter cleans the room."
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-97",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Rita?",
+        "options": [
+          "Rita write letters.",
+          "Rita writes letters.",
+          "Rita don't write letters."
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-98",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Ryan?",
+        "options": [
+          "Ryan sings songs.",
+          "Ryan don't sing songs.",
+          "Ryan sing songs."
+        ],
+        "answer": 0,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-99",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Sara?",
+        "options": [
+          "Sara don't help friends.",
+          "Sara help friends.",
+          "Sara helps friends."
+        ],
+        "answer": 2,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-英文-ORIG-100",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "Which is a correct affirmative sentence about Tom?",
+        "options": [
+          "Tom walk to school.",
+          "Tom walks to school.",
+          "Tom don't walk to school."
+        ],
+        "answer": 1,
+        "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
+        "topic": "句型判斷",
         "scopeStatus": "provisional"
       }
     ]
@@ -288,134 +1757,1603 @@ const questionBankV105=[
     "scopeVerified": false,
     "items": [
       {
-        "id": "G7S1-3-1",
+        "id": "G7S1-數學-ORIG-1",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "(-7)+12 的結果為？",
+        "question": "計算 3+(-7)。",
         "options": [
-          "-19",
-          "5",
-          "19"
+          "-4",
+          "10",
+          "4"
         ],
-        "answer": 1,
-        "explanation": "異號整數相加，12−7=5。"
+        "answer": 0,
+        "explanation": "異號相加：3−7=-4。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-3-2",
+        "id": "G7S1-數學-ORIG-2",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "3×(-4)+2 等於？",
+        "question": "計算 4+(-9)。",
         "options": [
-          "-10",
-          "-14",
-          "14"
+          "13",
+          "5",
+          "-5"
         ],
-        "answer": 0,
-        "explanation": "先乘除後加減：-12+2=-10。"
+        "answer": 2,
+        "explanation": "異號相加：4−9=-5。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-3-3",
+        "id": "G7S1-數學-ORIG-3",
         "stage": 3,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "若 2x+5=17，x 為？",
+        "difficulty": "基礎",
+        "question": "計算 5+(-11)。",
         "options": [
-          "5",
           "6",
-          "11"
+          "-6",
+          "16"
         ],
         "answer": 1,
-        "explanation": "兩邊減 5，再除以 2，得到 x=6。"
+        "explanation": "異號相加：5−11=-6。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-3-4",
+        "id": "G7S1-數學-ORIG-4",
         "stage": 4,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "數線上 -3 與 5 的距離為？",
+        "difficulty": "基礎",
+        "question": "計算 6+(-13)。",
         "options": [
-          "2",
+          "-7",
+          "19",
+          "7"
+        ],
+        "answer": 0,
+        "explanation": "異號相加：6−13=-7。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-5",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7+(-15)。",
+        "options": [
+          "22",
           "8",
           "-8"
         ],
-        "answer": 1,
-        "explanation": "距離是 |5−(-3)|=8。"
-      },
-      {
-        "id": "G7S1-數學-EX1",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "(-2)×(-6) = ?",
-        "options": [
-          "-12",
-          "12",
-          "8"
-        ],
-        "answer": 1,
-        "explanation": "負數乘負數為正數。",
+        "answer": 2,
+        "explanation": "異號相加：7−15=-8。",
+        "topic": "整數加減",
         "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-數學-EX2",
+        "id": "G7S1-數學-ORIG-6",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "24 ÷ (-3) = ?",
+        "question": "計算 8+(-17)。",
         "options": [
-          "8",
-          "-8",
-          "-21"
+          "9",
+          "-9",
+          "25"
         ],
         "answer": 1,
-        "explanation": "正數除以負數為負數。",
+        "explanation": "異號相加：8−17=-9。",
+        "topic": "整數加減",
         "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-數學-EX3",
+        "id": "G7S1-數學-ORIG-7",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "2³ × 2² = ?",
+        "question": "計算 9+(-19)。",
         "options": [
-          "2⁵",
-          "2⁶",
-          "4⁵"
+          "-10",
+          "28",
+          "10"
         ],
         "answer": 0,
-        "explanation": "同底數冪相乘，指數相加。",
+        "explanation": "異號相加：9−19=-10。",
+        "topic": "整數加減",
         "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-數學-EX4",
+        "id": "G7S1-數學-ORIG-8",
         "stage": 4,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "(-3)² 等於？",
+        "difficulty": "基礎",
+        "question": "計算 10+(-21)。",
         "options": [
-          "-9",
-          "9",
+          "31",
+          "11",
+          "-11"
+        ],
+        "answer": 2,
+        "explanation": "異號相加：10−21=-11。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-9",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 11+(-23)。",
+        "options": [
+          "12",
+          "-12",
+          "34"
+        ],
+        "answer": 1,
+        "explanation": "異號相加：11−23=-12。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-10",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 12+(-25)。",
+        "options": [
+          "-13",
+          "37",
+          "13"
+        ],
+        "answer": 0,
+        "explanation": "異號相加：12−25=-13。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-11",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 13+(-27)。",
+        "options": [
+          "40",
+          "14",
+          "-14"
+        ],
+        "answer": 2,
+        "explanation": "異號相加：13−27=-14。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-12",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 14+(-29)。",
+        "options": [
+          "15",
+          "-15",
+          "43"
+        ],
+        "answer": 1,
+        "explanation": "異號相加：14−29=-15。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-13",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 15+(-31)。",
+        "options": [
+          "-16",
+          "46",
+          "16"
+        ],
+        "answer": 0,
+        "explanation": "異號相加：15−31=-16。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-14",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 16+(-33)。",
+        "options": [
+          "49",
+          "17",
+          "-17"
+        ],
+        "answer": 2,
+        "explanation": "異號相加：16−33=-17。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-15",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 17+(-35)。",
+        "options": [
+          "18",
+          "-18",
+          "52"
+        ],
+        "answer": 1,
+        "explanation": "異號相加：17−35=-18。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-16",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 18+(-37)。",
+        "options": [
+          "-19",
+          "55",
+          "19"
+        ],
+        "answer": 0,
+        "explanation": "異號相加：18−37=-19。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-17",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 19+(-39)。",
+        "options": [
+          "58",
+          "20",
+          "-20"
+        ],
+        "answer": 2,
+        "explanation": "異號相加：19−39=-20。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-18",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 20+(-41)。",
+        "options": [
+          "21",
+          "-21",
+          "61"
+        ],
+        "answer": 1,
+        "explanation": "異號相加：20−41=-21。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-19",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 21+(-43)。",
+        "options": [
+          "-22",
+          "64",
+          "22"
+        ],
+        "answer": 0,
+        "explanation": "異號相加：21−43=-22。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-20",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 22+(-45)。",
+        "options": [
+          "67",
+          "23",
+          "-23"
+        ],
+        "answer": 2,
+        "explanation": "異號相加：22−45=-23。",
+        "topic": "整數加減",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-21",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-2)×3。",
+        "options": [
+          "-5",
+          "-6",
           "6"
         ],
         "answer": 1,
-        "explanation": "括號內的 -3 平方得到 9。",
+        "explanation": "負數乘正數得負數：-6。",
+        "topic": "整數乘法",
         "scopeStatus": "provisional"
       },
       {
-        "id": "G7S1-數學-EX5",
-        "stage": 1,
+        "id": "G7S1-數學-ORIG-22",
+        "stage": 2,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "12 與 18 的最大公因數為？",
+        "difficulty": "基礎",
+        "question": "計算 (-3)×4。",
         "options": [
-          "3",
-          "6",
-          "36"
+          "-12",
+          "12",
+          "-7"
+        ],
+        "answer": 0,
+        "explanation": "負數乘正數得負數：-12。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-23",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-4)×5。",
+        "options": [
+          "20",
+          "-9",
+          "-20"
+        ],
+        "answer": 2,
+        "explanation": "負數乘正數得負數：-20。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-24",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-5)×6。",
+        "options": [
+          "-11",
+          "-30",
+          "30"
         ],
         "answer": 1,
-        "explanation": "12 與 18 的共同因數最大為 6。",
+        "explanation": "負數乘正數得負數：-30。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-25",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-6)×7。",
+        "options": [
+          "-42",
+          "42",
+          "-13"
+        ],
+        "answer": 0,
+        "explanation": "負數乘正數得負數：-42。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-26",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-7)×8。",
+        "options": [
+          "56",
+          "-15",
+          "-56"
+        ],
+        "answer": 2,
+        "explanation": "負數乘正數得負數：-56。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-27",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-8)×9。",
+        "options": [
+          "-17",
+          "-72",
+          "72"
+        ],
+        "answer": 1,
+        "explanation": "負數乘正數得負數：-72。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-28",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-9)×10。",
+        "options": [
+          "-90",
+          "90",
+          "-19"
+        ],
+        "answer": 0,
+        "explanation": "負數乘正數得負數：-90。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-29",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-10)×11。",
+        "options": [
+          "110",
+          "-21",
+          "-110"
+        ],
+        "answer": 2,
+        "explanation": "負數乘正數得負數：-110。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-30",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-11)×3。",
+        "options": [
+          "-14",
+          "-33",
+          "33"
+        ],
+        "answer": 1,
+        "explanation": "負數乘正數得負數：-33。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-31",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-12)×4。",
+        "options": [
+          "-48",
+          "48",
+          "-16"
+        ],
+        "answer": 0,
+        "explanation": "負數乘正數得負數：-48。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-32",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-13)×5。",
+        "options": [
+          "65",
+          "-18",
+          "-65"
+        ],
+        "answer": 2,
+        "explanation": "負數乘正數得負數：-65。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-33",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-14)×6。",
+        "options": [
+          "-20",
+          "-84",
+          "84"
+        ],
+        "answer": 1,
+        "explanation": "負數乘正數得負數：-84。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-34",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-15)×7。",
+        "options": [
+          "-105",
+          "105",
+          "-22"
+        ],
+        "answer": 0,
+        "explanation": "負數乘正數得負數：-105。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-35",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-16)×8。",
+        "options": [
+          "128",
+          "-24",
+          "-128"
+        ],
+        "answer": 2,
+        "explanation": "負數乘正數得負數：-128。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-36",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-17)×9。",
+        "options": [
+          "-26",
+          "-153",
+          "153"
+        ],
+        "answer": 1,
+        "explanation": "負數乘正數得負數：-153。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-37",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-18)×10。",
+        "options": [
+          "-180",
+          "180",
+          "-28"
+        ],
+        "answer": 0,
+        "explanation": "負數乘正數得負數：-180。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-38",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-19)×11。",
+        "options": [
+          "209",
+          "-30",
+          "-209"
+        ],
+        "answer": 2,
+        "explanation": "負數乘正數得負數：-209。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-39",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-20)×3。",
+        "options": [
+          "-23",
+          "-60",
+          "60"
+        ],
+        "answer": 1,
+        "explanation": "負數乘正數得負數：-60。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-40",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 (-21)×4。",
+        "options": [
+          "-84",
+          "84",
+          "-25"
+        ],
+        "answer": 0,
+        "explanation": "負數乘正數得負數：-84。",
+        "topic": "整數乘法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-41",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 6÷(-2)。",
+        "options": [
+          "3",
+          "-2",
+          "-3"
+        ],
+        "answer": 2,
+        "explanation": "正數除負數得負數：-3。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-42",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 12÷(-3)。",
+        "options": [
+          "-3",
+          "-4",
+          "4"
+        ],
+        "answer": 1,
+        "explanation": "正數除負數得負數：-4。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-43",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 20÷(-4)。",
+        "options": [
+          "-5",
+          "5",
+          "-4"
+        ],
+        "answer": 0,
+        "explanation": "正數除負數得負數：-5。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-44",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 30÷(-5)。",
+        "options": [
+          "6",
+          "-5",
+          "-6"
+        ],
+        "answer": 2,
+        "explanation": "正數除負數得負數：-6。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-45",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 42÷(-6)。",
+        "options": [
+          "-6",
+          "-7",
+          "7"
+        ],
+        "answer": 1,
+        "explanation": "正數除負數得負數：-7。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-46",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 56÷(-7)。",
+        "options": [
+          "-8",
+          "8",
+          "-7"
+        ],
+        "answer": 0,
+        "explanation": "正數除負數得負數：-8。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-47",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 18÷(-2)。",
+        "options": [
+          "9",
+          "-2",
+          "-9"
+        ],
+        "answer": 2,
+        "explanation": "正數除負數得負數：-9。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-48",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 30÷(-3)。",
+        "options": [
+          "-3",
+          "-10",
+          "10"
+        ],
+        "answer": 1,
+        "explanation": "正數除負數得負數：-10。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-49",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 44÷(-4)。",
+        "options": [
+          "-11",
+          "11",
+          "-4"
+        ],
+        "answer": 0,
+        "explanation": "正數除負數得負數：-11。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-50",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 60÷(-5)。",
+        "options": [
+          "12",
+          "-5",
+          "-12"
+        ],
+        "answer": 2,
+        "explanation": "正數除負數得負數：-12。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-51",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 78÷(-6)。",
+        "options": [
+          "-6",
+          "-13",
+          "13"
+        ],
+        "answer": 1,
+        "explanation": "正數除負數得負數：-13。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-52",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 98÷(-7)。",
+        "options": [
+          "-14",
+          "14",
+          "-7"
+        ],
+        "answer": 0,
+        "explanation": "正數除負數得負數：-14。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-53",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 30÷(-2)。",
+        "options": [
+          "15",
+          "-2",
+          "-15"
+        ],
+        "answer": 2,
+        "explanation": "正數除負數得負數：-15。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-54",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 48÷(-3)。",
+        "options": [
+          "-3",
+          "-16",
+          "16"
+        ],
+        "answer": 1,
+        "explanation": "正數除負數得負數：-16。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-55",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 68÷(-4)。",
+        "options": [
+          "-17",
+          "17",
+          "-4"
+        ],
+        "answer": 0,
+        "explanation": "正數除負數得負數：-17。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-56",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 90÷(-5)。",
+        "options": [
+          "18",
+          "-5",
+          "-18"
+        ],
+        "answer": 2,
+        "explanation": "正數除負數得負數：-18。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-57",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 114÷(-6)。",
+        "options": [
+          "-6",
+          "-19",
+          "19"
+        ],
+        "answer": 1,
+        "explanation": "正數除負數得負數：-19。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-58",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 140÷(-7)。",
+        "options": [
+          "-20",
+          "20",
+          "-7"
+        ],
+        "answer": 0,
+        "explanation": "正數除負數得負數：-20。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-59",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 42÷(-2)。",
+        "options": [
+          "21",
+          "-2",
+          "-21"
+        ],
+        "answer": 2,
+        "explanation": "正數除負數得負數：-21。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-60",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 66÷(-3)。",
+        "options": [
+          "-3",
+          "-22",
+          "22"
+        ],
+        "answer": 1,
+        "explanation": "正數除負數得負數：-22。",
+        "topic": "整數除法",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-61",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 2x+3=7，求 x。",
+        "options": [
+          "2",
+          "3",
+          "1"
+        ],
+        "answer": 0,
+        "explanation": "移項得 2x=4，所以 x=2。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-62",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 3x+4=13，求 x。",
+        "options": [
+          "4",
+          "2",
+          "3"
+        ],
+        "answer": 2,
+        "explanation": "移項得 3x=9，所以 x=3。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-63",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 4x+5=21，求 x。",
+        "options": [
+          "3",
+          "4",
+          "5"
+        ],
+        "answer": 1,
+        "explanation": "移項得 4x=16，所以 x=4。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-64",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 5x+6=31，求 x。",
+        "options": [
+          "5",
+          "6",
+          "4"
+        ],
+        "answer": 0,
+        "explanation": "移項得 5x=25，所以 x=5。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-65",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 2x+7=19，求 x。",
+        "options": [
+          "7",
+          "5",
+          "6"
+        ],
+        "answer": 2,
+        "explanation": "移項得 2x=12，所以 x=6。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-66",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 3x+8=29，求 x。",
+        "options": [
+          "6",
+          "7",
+          "8"
+        ],
+        "answer": 1,
+        "explanation": "移項得 3x=21，所以 x=7。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-67",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 4x+9=41，求 x。",
+        "options": [
+          "8",
+          "9",
+          "7"
+        ],
+        "answer": 0,
+        "explanation": "移項得 4x=32，所以 x=8。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-68",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 5x+10=55，求 x。",
+        "options": [
+          "10",
+          "8",
+          "9"
+        ],
+        "answer": 2,
+        "explanation": "移項得 5x=45，所以 x=9。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-69",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 2x+11=31，求 x。",
+        "options": [
+          "9",
+          "10",
+          "11"
+        ],
+        "answer": 1,
+        "explanation": "移項得 2x=20，所以 x=10。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-70",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 3x+12=45，求 x。",
+        "options": [
+          "11",
+          "12",
+          "10"
+        ],
+        "answer": 0,
+        "explanation": "移項得 3x=33，所以 x=11。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-71",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 4x+13=61，求 x。",
+        "options": [
+          "13",
+          "11",
+          "12"
+        ],
+        "answer": 2,
+        "explanation": "移項得 4x=48，所以 x=12。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-72",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 5x+14=79，求 x。",
+        "options": [
+          "12",
+          "13",
+          "14"
+        ],
+        "answer": 1,
+        "explanation": "移項得 5x=65，所以 x=13。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-73",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 2x+15=43，求 x。",
+        "options": [
+          "14",
+          "15",
+          "13"
+        ],
+        "answer": 0,
+        "explanation": "移項得 2x=28，所以 x=14。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-74",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 3x+16=61，求 x。",
+        "options": [
+          "16",
+          "14",
+          "15"
+        ],
+        "answer": 2,
+        "explanation": "移項得 3x=45，所以 x=15。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-75",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 4x+17=81，求 x。",
+        "options": [
+          "15",
+          "16",
+          "17"
+        ],
+        "answer": 1,
+        "explanation": "移項得 4x=64，所以 x=16。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-76",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 5x+18=103，求 x。",
+        "options": [
+          "17",
+          "18",
+          "16"
+        ],
+        "answer": 0,
+        "explanation": "移項得 5x=85，所以 x=17。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-77",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 2x+19=55，求 x。",
+        "options": [
+          "19",
+          "17",
+          "18"
+        ],
+        "answer": 2,
+        "explanation": "移項得 2x=36，所以 x=18。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-78",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 3x+20=77，求 x。",
+        "options": [
+          "18",
+          "19",
+          "20"
+        ],
+        "answer": 1,
+        "explanation": "移項得 3x=57，所以 x=19。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-79",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 4x+21=101，求 x。",
+        "options": [
+          "20",
+          "21",
+          "19"
+        ],
+        "answer": 0,
+        "explanation": "移項得 4x=80，所以 x=20。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-80",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "若 5x+22=127，求 x。",
+        "options": [
+          "22",
+          "20",
+          "21"
+        ],
+        "answer": 2,
+        "explanation": "移項得 5x=105，所以 x=21。",
+        "topic": "一元一次方程式",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-81",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -2 與 8 相距多少單位？",
+        "options": [
+          "11",
+          "10",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "距離為 8−(-2)=10。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-82",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -3 與 9 相距多少單位？",
+        "options": [
+          "12",
+          "6",
+          "13"
+        ],
+        "answer": 0,
+        "explanation": "距離為 9−(-3)=12。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-83",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -4 與 10 相距多少單位？",
+        "options": [
+          "6",
+          "15",
+          "14"
+        ],
+        "answer": 2,
+        "explanation": "距離為 10−(-4)=14。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-84",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -5 與 11 相距多少單位？",
+        "options": [
+          "17",
+          "16",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "距離為 11−(-5)=16。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-85",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -6 與 12 相距多少單位？",
+        "options": [
+          "18",
+          "6",
+          "19"
+        ],
+        "answer": 0,
+        "explanation": "距離為 12−(-6)=18。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-86",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -7 與 13 相距多少單位？",
+        "options": [
+          "6",
+          "21",
+          "20"
+        ],
+        "answer": 2,
+        "explanation": "距離為 13−(-7)=20。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-87",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -8 與 14 相距多少單位？",
+        "options": [
+          "23",
+          "22",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "距離為 14−(-8)=22。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-88",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -9 與 15 相距多少單位？",
+        "options": [
+          "24",
+          "6",
+          "25"
+        ],
+        "answer": 0,
+        "explanation": "距離為 15−(-9)=24。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-89",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -10 與 16 相距多少單位？",
+        "options": [
+          "6",
+          "27",
+          "26"
+        ],
+        "answer": 2,
+        "explanation": "距離為 16−(-10)=26。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-90",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -11 與 17 相距多少單位？",
+        "options": [
+          "29",
+          "28",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "距離為 17−(-11)=28。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-91",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -12 與 18 相距多少單位？",
+        "options": [
+          "30",
+          "6",
+          "31"
+        ],
+        "answer": 0,
+        "explanation": "距離為 18−(-12)=30。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-92",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -13 與 19 相距多少單位？",
+        "options": [
+          "6",
+          "33",
+          "32"
+        ],
+        "answer": 2,
+        "explanation": "距離為 19−(-13)=32。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-93",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -14 與 20 相距多少單位？",
+        "options": [
+          "35",
+          "34",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "距離為 20−(-14)=34。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-94",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -15 與 21 相距多少單位？",
+        "options": [
+          "36",
+          "6",
+          "37"
+        ],
+        "answer": 0,
+        "explanation": "距離為 21−(-15)=36。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-95",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -16 與 22 相距多少單位？",
+        "options": [
+          "6",
+          "39",
+          "38"
+        ],
+        "answer": 2,
+        "explanation": "距離為 22−(-16)=38。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-96",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -17 與 23 相距多少單位？",
+        "options": [
+          "41",
+          "40",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "距離為 23−(-17)=40。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-97",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -18 與 24 相距多少單位？",
+        "options": [
+          "42",
+          "6",
+          "43"
+        ],
+        "answer": 0,
+        "explanation": "距離為 24−(-18)=42。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-98",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -19 與 25 相距多少單位？",
+        "options": [
+          "6",
+          "45",
+          "44"
+        ],
+        "answer": 2,
+        "explanation": "距離為 25−(-19)=44。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-99",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -20 與 26 相距多少單位？",
+        "options": [
+          "47",
+          "46",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "距離為 26−(-20)=46。",
+        "topic": "數線與距離",
+        "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-數學-ORIG-100",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "數線上 -21 與 27 相距多少單位？",
+        "options": [
+          "48",
+          "6",
+          "49"
+        ],
+        "answer": 0,
+        "explanation": "距離為 27−(-21)=48。",
+        "topic": "數線與距離",
         "scopeStatus": "provisional"
       }
     ]
@@ -1111,7 +4049,6 @@ const questionBankV105=[
     ]
   }
 ];
-
 /* 擴充練習池：每島100題，含原創母題及情境/選項變化題。
    變化題不是100個獨立知識點；僅供反覆練習，不宣稱已對應正式段考。 */
 const practiceBankV105=questionBankV105.map((subject,si)=>{
