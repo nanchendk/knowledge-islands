@@ -1,0 +1,73 @@
+{
+  "version": "1.05",
+  "grade": 7,
+  "semester": 1,
+  "exam": 2,
+  "status": "user_provided_provisional",
+  "updated": "2026-11-04",
+  "subjects": [
+    {
+      "subject": "國文",
+      "publisher": "康軒",
+      "units": [
+        "第4課",
+        "第5課",
+        "第6課"
+      ],
+      "additional_raw": "自2，語二上",
+      "needs_clarification": true
+    },
+    {
+      "subject": "數學",
+      "publisher": "康軒",
+      "units": [
+        "第二單元"
+      ]
+    },
+    {
+      "subject": "英文",
+      "publisher": "康軒",
+      "units": [
+        "第3課",
+        "第4課"
+      ]
+    },
+    {
+      "subject": "歷史",
+      "publisher": "翰林",
+      "units": [
+        "第3章",
+        "第4章"
+      ]
+    },
+    {
+      "subject": "地理",
+      "publisher": "翰林",
+      "units": [
+        "第3章",
+        "第4章"
+      ]
+    },
+    {
+      "subject": "公民",
+      "publisher": "翰林",
+      "units": [
+        "第3章",
+        "第4章"
+      ]
+    },
+    {
+      "subject": "生物",
+      "publisher": "康軒",
+      "units": [
+        "第1章至第4章（待確認起點）"
+      ],
+      "needs_clarification": true
+    }
+  ],
+  "excluded_from_exam": [
+    "理化",
+    "地科"
+  ],
+  "notes": "教科書版本依使用者圖片；段考範圍依使用者口述，未與學校正式公告核對。現有36題為示範題，尚未完成逐題範圍對應。"
+}
