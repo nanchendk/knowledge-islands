@@ -1,4 +1,4 @@
-/* 數學與英文各100題不同題幹；其餘科目仍待原創擴充。段考章節對應尚待審核。 */
+/* 七上第二次段考題庫：數學100題已改為分數四則運算；章節仍待正式教材核對。 */
 const questionBankV105=[
   {
     "subject": "國文",
@@ -1751,1610 +1751,1710 @@ const questionBankV105=[
   },
   {
     "subject": "數學",
-    "unit": "整數運算與一元一次方程式",
+    "unit": "第二單元：分數的運算（待與康軒七上版本目錄核對）",
     "grade": 7,
     "semester": 1,
     "scopeVerified": false,
     "items": [
       {
-        "id": "G7S1-數學-ORIG-1",
+        "id": "G7S1-數學-CH2-001",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "計算 3+(-7)。",
+        "question": "計算 1/2 + 2/3，結果為何？",
         "options": [
-          "-4",
-          "10",
-          "4"
+          "7/6",
+          "3/5",
+          "1/6"
         ],
         "answer": 0,
-        "explanation": "異號相加：3−7=-4。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
+        "explanation": "先通分：(1×3+2×2)/(2×3)=7/6。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-2",
+        "id": "G7S1-數學-CH2-002",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "計算 4+(-9)。",
+        "question": "計算 2/3 + 3/4，結果為何？",
         "options": [
-          "13",
+          "5/7",
+          "1/12",
+          "17/12"
+        ],
+        "answer": 2,
+        "explanation": "先通分：(2×4+3×3)/(3×4)=17/12。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-003",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 3/4 + 4/5，結果為何？",
+        "options": [
+          "1/20",
+          "31/20",
+          "7/9"
+        ],
+        "answer": 1,
+        "explanation": "先通分：(3×5+4×4)/(4×5)=31/20。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-004",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 4/5 + 5/6，結果為何？",
+        "options": [
+          "49/30",
+          "9/11",
+          "1/30"
+        ],
+        "answer": 0,
+        "explanation": "先通分：(4×6+5×5)/(5×6)=49/30。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-005",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 5/6 + 6/7，結果為何？",
+        "options": [
+          "11/13",
+          "1/42",
+          "71/42"
+        ],
+        "answer": 2,
+        "explanation": "先通分：(5×7+6×6)/(6×7)=71/42。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-006",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 3 + 7/8，結果為何？",
+        "options": [
+          "17/8",
+          "31/8",
+          "13/10"
+        ],
+        "answer": 1,
+        "explanation": "先通分：(6×8+7×2)/(2×8)=31/8。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-007",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7/3 + 8/3，結果為何？",
+        "options": [
           "5",
-          "-5"
+          "5/2",
+          "1/3"
         ],
-        "answer": 2,
-        "explanation": "異號相加：4−9=-5。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
+        "answer": 0,
+        "explanation": "先通分：(7×3+8×3)/(3×3)=5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-3",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 5+(-11)。",
-        "options": [
-          "6",
-          "-6",
-          "16"
-        ],
-        "answer": 1,
-        "explanation": "異號相加：5−11=-6。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-4",
+        "id": "G7S1-數學-CH2-008",
         "stage": 4,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "計算 6+(-13)。",
+        "question": "計算 1/4 + 9/4，結果為何？",
         "options": [
-          "-7",
-          "19",
-          "7"
-        ],
-        "answer": 0,
-        "explanation": "異號相加：6−13=-7。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-5",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 7+(-15)。",
-        "options": [
-          "22",
-          "8",
-          "-8"
-        ],
-        "answer": 2,
-        "explanation": "異號相加：7−15=-8。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-6",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 8+(-17)。",
-        "options": [
-          "9",
-          "-9",
-          "25"
-        ],
-        "answer": 1,
-        "explanation": "異號相加：8−17=-9。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-7",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 9+(-19)。",
-        "options": [
-          "-10",
-          "28",
-          "10"
-        ],
-        "answer": 0,
-        "explanation": "異號相加：9−19=-10。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-8",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 10+(-21)。",
-        "options": [
-          "31",
-          "11",
-          "-11"
-        ],
-        "answer": 2,
-        "explanation": "異號相加：10−21=-11。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-9",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 11+(-23)。",
-        "options": [
-          "12",
-          "-12",
-          "34"
-        ],
-        "answer": 1,
-        "explanation": "異號相加：11−23=-12。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-10",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 12+(-25)。",
-        "options": [
-          "-13",
-          "37",
-          "13"
-        ],
-        "answer": 0,
-        "explanation": "異號相加：12−25=-13。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-11",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 13+(-27)。",
-        "options": [
-          "40",
-          "14",
-          "-14"
-        ],
-        "answer": 2,
-        "explanation": "異號相加：13−27=-14。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-12",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 14+(-29)。",
-        "options": [
-          "15",
-          "-15",
-          "43"
-        ],
-        "answer": 1,
-        "explanation": "異號相加：14−29=-15。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-13",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 15+(-31)。",
-        "options": [
-          "-16",
-          "46",
-          "16"
-        ],
-        "answer": 0,
-        "explanation": "異號相加：15−31=-16。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-14",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 16+(-33)。",
-        "options": [
-          "49",
-          "17",
-          "-17"
-        ],
-        "answer": 2,
-        "explanation": "異號相加：16−33=-17。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-15",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 17+(-35)。",
-        "options": [
-          "18",
-          "-18",
-          "52"
-        ],
-        "answer": 1,
-        "explanation": "異號相加：17−35=-18。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-16",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 18+(-37)。",
-        "options": [
-          "-19",
-          "55",
-          "19"
-        ],
-        "answer": 0,
-        "explanation": "異號相加：18−37=-19。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-17",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 19+(-39)。",
-        "options": [
-          "58",
-          "20",
-          "-20"
-        ],
-        "answer": 2,
-        "explanation": "異號相加：19−39=-20。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-18",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 20+(-41)。",
-        "options": [
-          "21",
-          "-21",
-          "61"
-        ],
-        "answer": 1,
-        "explanation": "異號相加：20−41=-21。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-19",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 21+(-43)。",
-        "options": [
-          "-22",
-          "64",
-          "22"
-        ],
-        "answer": 0,
-        "explanation": "異號相加：21−43=-22。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-20",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 22+(-45)。",
-        "options": [
-          "67",
-          "23",
-          "-23"
-        ],
-        "answer": 2,
-        "explanation": "異號相加：22−45=-23。",
-        "topic": "整數加減",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-21",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-2)×3。",
-        "options": [
-          "-5",
-          "-6",
-          "6"
-        ],
-        "answer": 1,
-        "explanation": "負數乘正數得負數：-6。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-22",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-3)×4。",
-        "options": [
-          "-12",
-          "12",
-          "-7"
-        ],
-        "answer": 0,
-        "explanation": "負數乘正數得負數：-12。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-23",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-4)×5。",
-        "options": [
-          "20",
-          "-9",
-          "-20"
-        ],
-        "answer": 2,
-        "explanation": "負數乘正數得負數：-20。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-24",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-5)×6。",
-        "options": [
-          "-11",
-          "-30",
-          "30"
-        ],
-        "answer": 1,
-        "explanation": "負數乘正數得負數：-30。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-25",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-6)×7。",
-        "options": [
-          "-42",
-          "42",
-          "-13"
-        ],
-        "answer": 0,
-        "explanation": "負數乘正數得負數：-42。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-26",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-7)×8。",
-        "options": [
-          "56",
-          "-15",
-          "-56"
-        ],
-        "answer": 2,
-        "explanation": "負數乘正數得負數：-56。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-27",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-8)×9。",
-        "options": [
-          "-17",
-          "-72",
-          "72"
-        ],
-        "answer": 1,
-        "explanation": "負數乘正數得負數：-72。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-28",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-9)×10。",
-        "options": [
-          "-90",
-          "90",
-          "-19"
-        ],
-        "answer": 0,
-        "explanation": "負數乘正數得負數：-90。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-29",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-10)×11。",
-        "options": [
-          "110",
-          "-21",
-          "-110"
-        ],
-        "answer": 2,
-        "explanation": "負數乘正數得負數：-110。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-30",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-11)×3。",
-        "options": [
-          "-14",
-          "-33",
-          "33"
-        ],
-        "answer": 1,
-        "explanation": "負數乘正數得負數：-33。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-31",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-12)×4。",
-        "options": [
-          "-48",
-          "48",
-          "-16"
-        ],
-        "answer": 0,
-        "explanation": "負數乘正數得負數：-48。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-32",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-13)×5。",
-        "options": [
-          "65",
-          "-18",
-          "-65"
-        ],
-        "answer": 2,
-        "explanation": "負數乘正數得負數：-65。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-33",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-14)×6。",
-        "options": [
-          "-20",
-          "-84",
-          "84"
-        ],
-        "answer": 1,
-        "explanation": "負數乘正數得負數：-84。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-34",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-15)×7。",
-        "options": [
-          "-105",
-          "105",
-          "-22"
-        ],
-        "answer": 0,
-        "explanation": "負數乘正數得負數：-105。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-35",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-16)×8。",
-        "options": [
-          "128",
-          "-24",
-          "-128"
-        ],
-        "answer": 2,
-        "explanation": "負數乘正數得負數：-128。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-36",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-17)×9。",
-        "options": [
-          "-26",
-          "-153",
-          "153"
-        ],
-        "answer": 1,
-        "explanation": "負數乘正數得負數：-153。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-37",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-18)×10。",
-        "options": [
-          "-180",
-          "180",
-          "-28"
-        ],
-        "answer": 0,
-        "explanation": "負數乘正數得負數：-180。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-38",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-19)×11。",
-        "options": [
-          "209",
-          "-30",
-          "-209"
-        ],
-        "answer": 2,
-        "explanation": "負數乘正數得負數：-209。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-39",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-20)×3。",
-        "options": [
-          "-23",
-          "-60",
-          "60"
-        ],
-        "answer": 1,
-        "explanation": "負數乘正數得負數：-60。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-40",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 (-21)×4。",
-        "options": [
-          "-84",
-          "84",
-          "-25"
-        ],
-        "answer": 0,
-        "explanation": "負數乘正數得負數：-84。",
-        "topic": "整數乘法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-41",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 6÷(-2)。",
-        "options": [
-          "3",
-          "-2",
-          "-3"
-        ],
-        "answer": 2,
-        "explanation": "正數除負數得負數：-3。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-42",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 12÷(-3)。",
-        "options": [
-          "-3",
-          "-4",
-          "4"
-        ],
-        "answer": 1,
-        "explanation": "正數除負數得負數：-4。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-43",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 20÷(-4)。",
-        "options": [
-          "-5",
-          "5",
-          "-4"
-        ],
-        "answer": 0,
-        "explanation": "正數除負數得負數：-5。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-44",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 30÷(-5)。",
-        "options": [
-          "6",
-          "-5",
-          "-6"
-        ],
-        "answer": 2,
-        "explanation": "正數除負數得負數：-6。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-45",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 42÷(-6)。",
-        "options": [
-          "-6",
-          "-7",
-          "7"
-        ],
-        "answer": 1,
-        "explanation": "正數除負數得負數：-7。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-46",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 56÷(-7)。",
-        "options": [
-          "-8",
-          "8",
-          "-7"
-        ],
-        "answer": 0,
-        "explanation": "正數除負數得負數：-8。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-47",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 18÷(-2)。",
-        "options": [
-          "9",
-          "-2",
-          "-9"
-        ],
-        "answer": 2,
-        "explanation": "正數除負數得負數：-9。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-48",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 30÷(-3)。",
-        "options": [
-          "-3",
-          "-10",
-          "10"
-        ],
-        "answer": 1,
-        "explanation": "正數除負數得負數：-10。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-49",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 44÷(-4)。",
-        "options": [
-          "-11",
-          "11",
-          "-4"
-        ],
-        "answer": 0,
-        "explanation": "正數除負數得負數：-11。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-50",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 60÷(-5)。",
-        "options": [
-          "12",
-          "-5",
-          "-12"
-        ],
-        "answer": 2,
-        "explanation": "正數除負數得負數：-12。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-51",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 78÷(-6)。",
-        "options": [
-          "-6",
-          "-13",
-          "13"
-        ],
-        "answer": 1,
-        "explanation": "正數除負數得負數：-13。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-52",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 98÷(-7)。",
-        "options": [
-          "-14",
-          "14",
-          "-7"
-        ],
-        "answer": 0,
-        "explanation": "正數除負數得負數：-14。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-53",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 30÷(-2)。",
-        "options": [
-          "15",
-          "-2",
-          "-15"
-        ],
-        "answer": 2,
-        "explanation": "正數除負數得負數：-15。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-54",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 48÷(-3)。",
-        "options": [
-          "-3",
-          "-16",
-          "16"
-        ],
-        "answer": 1,
-        "explanation": "正數除負數得負數：-16。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-55",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 68÷(-4)。",
-        "options": [
-          "-17",
-          "17",
-          "-4"
-        ],
-        "answer": 0,
-        "explanation": "正數除負數得負數：-17。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-56",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 90÷(-5)。",
-        "options": [
-          "18",
-          "-5",
-          "-18"
-        ],
-        "answer": 2,
-        "explanation": "正數除負數得負數：-18。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-57",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 114÷(-6)。",
-        "options": [
-          "-6",
-          "-19",
-          "19"
-        ],
-        "answer": 1,
-        "explanation": "正數除負數得負數：-19。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-58",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 140÷(-7)。",
-        "options": [
-          "-20",
-          "20",
-          "-7"
-        ],
-        "answer": 0,
-        "explanation": "正數除負數得負數：-20。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-59",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 42÷(-2)。",
-        "options": [
-          "21",
-          "-2",
-          "-21"
-        ],
-        "answer": 2,
-        "explanation": "正數除負數得負數：-21。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-60",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 66÷(-3)。",
-        "options": [
-          "-3",
-          "-22",
-          "22"
-        ],
-        "answer": 1,
-        "explanation": "正數除負數得負數：-22。",
-        "topic": "整數除法",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-61",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "若 2x+3=7，求 x。",
-        "options": [
+          "5/4",
           "2",
-          "3",
+          "5/2"
+        ],
+        "answer": 2,
+        "explanation": "先通分：(1×4+9×4)/(4×4)=5/2。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-009",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2/5 + 2，結果為何？",
+        "options": [
+          "8/5",
+          "12/5",
+          "6/5"
+        ],
+        "answer": 1,
+        "explanation": "先通分：(2×5+10×5)/(5×5)=12/5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-010",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 1/2 + 1/3，結果為何？",
+        "options": [
+          "5/6",
+          "5/12",
+          "1/6"
+        ],
+        "answer": 0,
+        "explanation": "先通分：(3×6+2×6)/(6×6)=5/6。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-011",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2 + 3/7，結果為何？",
+        "options": [
+          "7/9",
+          "11/7",
+          "17/7"
+        ],
+        "answer": 2,
+        "explanation": "先通分：(4×7+3×2)/(2×7)=17/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-012",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 5/3 + 1/2，結果為何？",
+        "options": [
+          "7/6",
+          "13/6",
+          "9/11"
+        ],
+        "answer": 1,
+        "explanation": "先通分：(5×8+4×3)/(3×8)=13/6。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-013",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 3/2 + 5/3，結果為何？",
+        "options": [
+          "19/6",
+          "11/7",
+          "1/6"
+        ],
+        "answer": 0,
+        "explanation": "先通分：(6×3+5×4)/(4×3)=19/6。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-014",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7/5 + 3/2，結果為何？",
+        "options": [
+          "13/9",
+          "1/10",
+          "29/10"
+        ],
+        "answer": 2,
+        "explanation": "先通分：(7×4+6×5)/(5×4)=29/10。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-015",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 1/6 + 7/5，結果為何？",
+        "options": [
+          "37/30",
+          "47/30",
+          "8/11"
+        ],
+        "answer": 1,
+        "explanation": "先通分：(1×5+7×6)/(6×5)=47/30。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-016",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1 + 4/3，結果為何？",
+        "options": [
+          "7/3",
+          "5/4",
+          "1/3"
+        ],
+        "answer": 0,
+        "explanation": "先通分：(2×6+8×2)/(2×6)=7/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-017",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1 + 9/7，結果為何？",
+        "options": [
+          "6/5",
+          "2/7",
+          "16/7"
+        ],
+        "answer": 2,
+        "explanation": "先通分：(3×7+9×3)/(3×7)=16/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-018",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1 + 5/4，結果為何？",
+        "options": [
+          "1/4",
+          "9/4",
+          "7/6"
+        ],
+        "answer": 1,
+        "explanation": "先通分：(4×8+10×4)/(4×8)=9/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-019",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1 + 2/3，結果為何？",
+        "options": [
+          "5/3",
+          "7/8",
+          "1/3"
+        ],
+        "answer": 0,
+        "explanation": "先通分：(5×3+2×5)/(5×3)=5/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-020",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 1 + 3/4，結果為何？",
+        "options": [
+          "9/10",
+          "1/4",
+          "7/4"
+        ],
+        "answer": 2,
+        "explanation": "先通分：(6×4+3×6)/(6×4)=7/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-021",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7/2 + 4/5，結果為何？",
+        "options": [
+          "27/10",
+          "43/10",
+          "11/7"
+        ],
+        "answer": 1,
+        "explanation": "先通分：(7×5+4×2)/(2×5)=43/10。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-022",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1/3 + 5/6，結果為何？",
+        "options": [
+          "7/6",
+          "2/3",
+          "1/2"
+        ],
+        "answer": 0,
+        "explanation": "先通分：(1×6+5×3)/(3×6)=7/6。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-023",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1/2 + 6/7，結果為何？",
+        "options": [
+          "8/11",
+          "5/14",
+          "19/14"
+        ],
+        "answer": 2,
+        "explanation": "先通分：(2×7+6×4)/(4×7)=19/14。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-024",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 3/5 + 7/8，結果為何？",
+        "options": [
+          "11/40",
+          "59/40",
+          "10/13"
+        ],
+        "answer": 1,
+        "explanation": "先通分：(3×8+7×5)/(5×8)=59/40。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-025",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 2/3 + 8/3，結果為何？",
+        "options": [
+          "10/3",
+          "4/3",
+          "2"
+        ],
+        "answer": 0,
+        "explanation": "先通分：(4×3+8×6)/(6×3)=10/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數加法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-026",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1 − 1/3，結果為何？",
+        "options": [
+          "1/5",
+          "4/3",
+          "2/3"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(2×3−1×2)/(2×3)=2/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-027",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1 − 1/2，結果為何？",
+        "options": [
+          "3/2",
+          "1/2",
+          "1/7"
+        ],
+        "answer": 1,
+        "explanation": "通分後相減：(3×4−2×3)/(3×4)=1/2。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-028",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1 − 3/5，結果為何？",
+        "options": [
+          "2/5",
+          "1/9",
+          "8/5"
+        ],
+        "answer": 0,
+        "explanation": "通分後相減：(4×5−3×4)/(4×5)=2/5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-029",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 1 − 2/3，結果為何？",
+        "options": [
+          "1/11",
+          "5/3",
+          "1/3"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(5×6−4×5)/(5×6)=1/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-030",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 1 − 5/7，結果為何？",
+        "options": [
+          "12/7",
+          "2/7",
+          "1/13"
+        ],
+        "answer": 1,
+        "explanation": "通分後相減：(6×7−5×6)/(6×7)=2/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-031",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7/2 − 3/4，結果為何？",
+        "options": [
+          "11/4",
+          "1/10",
+          "17/4"
+        ],
+        "answer": 0,
+        "explanation": "通分後相減：(7×8−6×2)/(2×8)=11/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-032",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 8/3 − 1/9，結果為何？",
+        "options": [
+          "7/12",
+          "25/9",
+          "23/9"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(8×9−1×3)/(3×9)=23/9。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-033",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 9/4 − 2/3，結果為何？",
+        "options": [
+          "35/12",
+          "19/12",
+          "1"
+        ],
+        "answer": 1,
+        "explanation": "通分後相減：(9×3−2×4)/(4×3)=19/12。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-034",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2/5 − 3/4，結果為何？",
+        "options": [
+          "-7/20",
+          "-1/9",
+          "23/20"
+        ],
+        "answer": 0,
+        "explanation": "通分後相減：(2×4−3×5)/(5×4)=-7/20。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-035",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 1/2 − 4/5，結果為何？",
+        "options": [
+          "-1/11",
+          "13/10",
+          "-3/10"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(3×5−4×6)/(6×5)=-3/10。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-036",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2 − 5/6，結果為何？",
+        "options": [
+          "17/6",
+          "7/6",
+          "-1/8"
+        ],
+        "answer": 1,
+        "explanation": "通分後相減：(4×6−5×2)/(2×6)=7/6。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-037",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 5/3 − 6/7，結果為何？",
+        "options": [
+          "17/21",
+          "-1/10",
+          "53/21"
+        ],
+        "answer": 0,
+        "explanation": "通分後相減：(5×7−6×3)/(3×7)=17/21。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-038",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 3/2 − 1/8，結果為何？",
+        "options": [
+          "5/12",
+          "13/8",
+          "11/8"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(6×8−1×4)/(4×8)=11/8。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-039",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7/5 − 2/9，結果為何？",
+        "options": [
+          "73/45",
+          "53/45",
+          "5/14"
+        ],
+        "answer": 1,
+        "explanation": "通分後相減：(7×9−2×5)/(5×9)=53/45。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-040",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 4/3 − 1，結果為何？",
+        "options": [
+          "1/3",
+          "5/9",
+          "7/3"
+        ],
+        "answer": 0,
+        "explanation": "通分後相減：(8×3−3×6)/(6×3)=1/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-041",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 9/2 − 1，結果為何？",
+        "options": [
+          "5/6",
+          "11/2",
+          "7/2"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(9×4−4×2)/(2×4)=7/2。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-042",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2/3 − 1，結果為何？",
+        "options": [
+          "5/3",
+          "-1/3",
+          "-3/8"
+        ],
+        "answer": 1,
+        "explanation": "通分後相減：(2×5−5×3)/(3×5)=-1/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-043",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 3/4 − 1，結果為何？",
+        "options": [
+          "-1/4",
+          "-3/10",
+          "7/4"
+        ],
+        "answer": 0,
+        "explanation": "通分後相減：(3×6−6×4)/(4×6)=-1/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-044",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 4/5 − 1/7，結果為何？",
+        "options": [
+          "1/4",
+          "33/35",
+          "23/35"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(4×7−1×5)/(5×7)=23/35。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-045",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 5/6 − 1/4，結果為何？",
+        "options": [
+          "13/12",
+          "7/12",
+          "3/14"
+        ],
+        "answer": 1,
+        "explanation": "通分後相減：(5×8−2×6)/(6×8)=7/12。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-046",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 3 − 1/3，結果為何？",
+        "options": [
+          "8/3",
+          "3/11",
+          "10/3"
+        ],
+        "answer": 0,
+        "explanation": "通分後相減：(6×9−3×2)/(2×9)=8/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-047",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7/3 − 4/3，結果為何？",
+        "options": [
+          "1/2",
+          "11/3",
+          "1"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(7×3−4×3)/(3×3)=1。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-048",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2 − 5/4，結果為何？",
+        "options": [
+          "13/4",
+          "3/4",
+          "3/8"
+        ],
+        "answer": 1,
+        "explanation": "通分後相減：(8×4−5×4)/(4×4)=3/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-049",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 9/5 − 6/5，結果為何？",
+        "options": [
+          "3/5",
+          "3/10",
+          "3"
+        ],
+        "answer": 0,
+        "explanation": "通分後相減：(9×5−6×5)/(5×5)=3/5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-050",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 1/3 − 1/6，結果為何？",
+        "options": [
+          "1/12",
+          "1/2",
+          "1/6"
+        ],
+        "answer": 2,
+        "explanation": "通分後相減：(2×6−1×6)/(6×6)=1/6。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數減法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-051",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2/3 × 1/2，結果為何？",
+        "options": [
+          "4/7",
+          "1/3",
+          "4/3"
+        ],
+        "answer": 1,
+        "explanation": "分子相乘、分母相乘後約分：(2×2)/(3×4)=1/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-052",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 3/4 × 3/5，結果為何？",
+        "options": [
+          "9/20",
+          "5/4",
           "1"
         ],
         "answer": 0,
-        "explanation": "移項得 2x=4，所以 x=2。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(3×3)/(4×5)=9/20。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-62",
+        "id": "G7S1-數學-CH2-053",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 4/5 × 2/3，結果為何？",
+        "options": [
+          "6/5",
+          "16/11",
+          "8/15"
+        ],
+        "answer": 2,
+        "explanation": "分子相乘、分母相乘後約分：(4×4)/(5×6)=8/15。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-054",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 3x+4=13，求 x。",
+        "question": "計算 5/6 × 5/7，結果為何？",
         "options": [
-          "4",
+          "25/13",
+          "25/42",
+          "7/6"
+        ],
+        "answer": 1,
+        "explanation": "分子相乘、分母相乘後約分：(5×5)/(6×7)=25/42。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-055",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 6/7 × 3/4，結果為何？",
+        "options": [
+          "9/14",
+          "8/7",
+          "12/5"
+        ],
+        "answer": 0,
+        "explanation": "分子相乘、分母相乘後約分：(6×6)/(7×8)=9/14。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-056",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7/8 × 7/4，結果為何？",
+        "options": [
+          "1/2",
+          "49/12",
+          "49/32"
+        ],
+        "answer": 2,
+        "explanation": "分子相乘、分母相乘後約分：(7×7)/(8×4)=49/32。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-057",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 8/3 × 8/5，結果為何？",
+        "options": [
+          "8",
+          "64/15",
+          "5/3"
+        ],
+        "answer": 1,
+        "explanation": "分子相乘、分母相乘後約分：(8×8)/(3×5)=64/15。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-058",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 9/4 × 1/3，結果為何？",
+        "options": [
+          "3/4",
+          "27/4",
+          "9/5"
+        ],
+        "answer": 0,
+        "explanation": "分子相乘、分母相乘後約分：(9×2)/(4×6)=3/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-059",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2/5 × 3/7，結果為何？",
+        "options": [
+          "14/15",
+          "1/2",
+          "6/35"
+        ],
+        "answer": 2,
+        "explanation": "分子相乘、分母相乘後約分：(2×3)/(5×7)=6/35。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-060",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 1/2 × 1/2，結果為何？",
+        "options": [
+          "6/7",
+          "1/4",
+          "1"
+        ],
+        "answer": 1,
+        "explanation": "分子相乘、分母相乘後約分：(3×4)/(6×8)=1/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-061",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 4/7 × 5/4，結果為何？",
+        "options": [
+          "5/7",
+          "16/35",
+          "20/11"
+        ],
+        "answer": 0,
+        "explanation": "分子相乘、分母相乘後約分：(4×5)/(7×4)=5/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-062",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 5/8 × 6/5，結果為何？",
+        "options": [
+          "25/48",
+          "30/13",
+          "3/4"
+        ],
+        "answer": 2,
+        "explanation": "分子相乘、分母相乘後約分：(5×6)/(8×5)=3/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-063",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2 × 7/6，結果為何？",
+        "options": [
+          "14/3",
+          "7/3",
+          "12/7"
+        ],
+        "answer": 1,
+        "explanation": "分子相乘、分母相乘後約分：(6×7)/(3×6)=7/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-064",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 7/4 × 8/7，結果為何？",
+        "options": [
           "2",
-          "3"
-        ],
-        "answer": 2,
-        "explanation": "移項得 3x=9，所以 x=3。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-63",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "若 4x+5=21，求 x。",
-        "options": [
-          "3",
-          "4",
-          "5"
-        ],
-        "answer": 1,
-        "explanation": "移項得 4x=16，所以 x=4。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-64",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "若 5x+6=31，求 x。",
-        "options": [
-          "5",
-          "6",
-          "4"
+          "49/32",
+          "56/11"
         ],
         "answer": 0,
-        "explanation": "移項得 5x=25，所以 x=5。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(7×8)/(4×7)=2。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-65",
+        "id": "G7S1-數學-CH2-065",
         "stage": 1,
         "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "若 2x+7=19，求 x。",
+        "difficulty": "進階",
+        "question": "計算 8/5 × 1/4，結果為何？",
         "options": [
-          "7",
-          "5",
-          "6"
+          "32/5",
+          "16/13",
+          "2/5"
         ],
         "answer": 2,
-        "explanation": "移項得 2x=12，所以 x=6。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(8×2)/(5×8)=2/5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-66",
+        "id": "G7S1-數學-CH2-066",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 3x+8=29，求 x。",
+        "question": "計算 3/2 × 3/4，結果為何？",
         "options": [
-          "6",
-          "7",
-          "8"
+          "27/10",
+          "9/8",
+          "2"
         ],
         "answer": 1,
-        "explanation": "移項得 3x=21，所以 x=7。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(9×3)/(6×4)=9/8。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-67",
+        "id": "G7S1-數學-CH2-067",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 4x+9=41，求 x。",
+        "question": "計算 2/7 × 4/5，結果為何？",
         "options": [
-          "8",
-          "9",
-          "7"
+          "8/35",
+          "5/14",
+          "2/3"
         ],
         "answer": 0,
-        "explanation": "移項得 4x=32，所以 x=8。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(2×4)/(7×5)=8/35。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-68",
+        "id": "G7S1-數學-CH2-068",
         "stage": 4,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 5x+10=55，求 x。",
+        "question": "計算 3/8 × 5/6，結果為何？",
         "options": [
-          "10",
-          "8",
-          "9"
+          "9/20",
+          "15/14",
+          "5/16"
         ],
         "answer": 2,
-        "explanation": "移項得 5x=45，所以 x=9。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(3×5)/(8×6)=5/16。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-69",
+        "id": "G7S1-數學-CH2-069",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 2x+11=31，求 x。",
+        "question": "計算 4/3 × 6/7，結果為何？",
         "options": [
-          "9",
-          "10",
-          "11"
+          "12/5",
+          "8/7",
+          "14/9"
         ],
         "answer": 1,
-        "explanation": "移項得 2x=20，所以 x=10。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(4×6)/(3×7)=8/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-70",
+        "id": "G7S1-數學-CH2-070",
         "stage": 2,
         "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "若 3x+12=45，求 x。",
+        "difficulty": "進階",
+        "question": "計算 5/4 × 7/8，結果為何？",
         "options": [
-          "11",
-          "12",
-          "10"
+          "35/32",
+          "10/7",
+          "35/12"
         ],
         "answer": 0,
-        "explanation": "移項得 3x=33，所以 x=11。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(5×7)/(4×8)=35/32。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-71",
+        "id": "G7S1-數學-CH2-071",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 4x+13=61，求 x。",
+        "question": "計算 6/5 × 2，結果為何？",
         "options": [
-          "13",
-          "11",
-          "12"
+          "3/5",
+          "16/3",
+          "12/5"
         ],
         "answer": 2,
-        "explanation": "移項得 4x=48，所以 x=12。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(6×8)/(5×4)=12/5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-72",
+        "id": "G7S1-數學-CH2-072",
         "stage": 4,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 5x+14=79，求 x。",
+        "question": "計算 7/6 × 2/5，結果為何？",
         "options": [
-          "12",
-          "13",
-          "14"
+          "14/11",
+          "7/15",
+          "35/12"
         ],
         "answer": 1,
-        "explanation": "移項得 5x=65，所以 x=13。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(7×2)/(6×5)=7/15。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-73",
+        "id": "G7S1-數學-CH2-073",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 2x+15=43，求 x。",
+        "question": "計算 8/7 × 1/2，結果為何？",
         "options": [
-          "14",
-          "15",
-          "13"
+          "4/7",
+          "16/7",
+          "24/13"
         ],
         "answer": 0,
-        "explanation": "移項得 2x=28，所以 x=14。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(8×3)/(7×6)=4/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-74",
+        "id": "G7S1-數學-CH2-074",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 3x+16=61，求 x。",
+        "question": "計算 9/8 × 4/7，結果為何？",
         "options": [
-          "16",
-          "14",
-          "15"
+          "63/32",
+          "12/5",
+          "9/14"
         ],
         "answer": 2,
-        "explanation": "移項得 3x=45，所以 x=15。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(9×4)/(8×7)=9/14。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-75",
+        "id": "G7S1-數學-CH2-075",
         "stage": 3,
         "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "若 4x+17=81，求 x。",
+        "difficulty": "進階",
+        "question": "計算 2/3 × 5/8，結果為何？",
         "options": [
-          "15",
-          "16",
-          "17"
+          "10/11",
+          "5/12",
+          "16/15"
         ],
         "answer": 1,
-        "explanation": "移項得 4x=64，所以 x=16。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "分子相乘、分母相乘後約分：(2×5)/(3×8)=5/12。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數乘法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-76",
+        "id": "G7S1-數學-CH2-076",
         "stage": 4,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 5x+18=103，求 x。",
+        "question": "計算 2/3 ÷ 1/2，結果為何？",
         "options": [
-          "17",
-          "18",
-          "16"
+          "4/3",
+          "1/3",
+          "2/3"
         ],
         "answer": 0,
-        "explanation": "移項得 5x=85，所以 x=17。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(2×4)/(3×2)=4/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-77",
+        "id": "G7S1-數學-CH2-077",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 2x+19=55，求 x。",
+        "question": "計算 3/4 ÷ 3/5，結果為何？",
         "options": [
-          "19",
-          "17",
-          "18"
+          "9/20",
+          "3/4",
+          "5/4"
         ],
         "answer": 2,
-        "explanation": "移項得 2x=36，所以 x=18。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(3×5)/(4×3)=5/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-78",
+        "id": "G7S1-數學-CH2-078",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 3x+20=77，求 x。",
+        "question": "計算 4/5 ÷ 2/3，結果為何？",
         "options": [
-          "18",
-          "19",
-          "20"
+          "4/5",
+          "6/5",
+          "8/15"
         ],
         "answer": 1,
-        "explanation": "移項得 3x=57，所以 x=19。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(4×6)/(5×4)=6/5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-79",
+        "id": "G7S1-數學-CH2-079",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "若 4x+21=101，求 x。",
+        "question": "計算 5/6 ÷ 5/7，結果為何？",
         "options": [
-          "20",
-          "21",
-          "19"
+          "7/6",
+          "25/42",
+          "5/6"
         ],
         "answer": 0,
-        "explanation": "移項得 4x=80，所以 x=20。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(5×7)/(6×5)=7/6。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-80",
+        "id": "G7S1-數學-CH2-080",
         "stage": 4,
         "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "若 5x+22=127，求 x。",
+        "difficulty": "進階",
+        "question": "計算 6/7 ÷ 3/4，結果為何？",
         "options": [
-          "22",
-          "20",
-          "21"
+          "9/14",
+          "6/7",
+          "8/7"
         ],
         "answer": 2,
-        "explanation": "移項得 5x=105，所以 x=21。",
-        "topic": "一元一次方程式",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(6×8)/(7×6)=8/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-81",
+        "id": "G7S1-數學-CH2-081",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -2 與 8 相距多少單位？",
+        "question": "計算 7/8 ÷ 7/4，結果為何？",
         "options": [
-          "11",
-          "10",
-          "6"
+          "7/8",
+          "1/2",
+          "49/32"
         ],
         "answer": 1,
-        "explanation": "距離為 8−(-2)=10。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(7×4)/(8×7)=1/2。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-82",
+        "id": "G7S1-數學-CH2-082",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -3 與 9 相距多少單位？",
+        "question": "計算 8/3 ÷ 8/5，結果為何？",
         "options": [
-          "12",
-          "6",
-          "13"
+          "5/3",
+          "64/15",
+          "8/3"
         ],
         "answer": 0,
-        "explanation": "距離為 9−(-3)=12。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(8×5)/(3×8)=5/3。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-83",
+        "id": "G7S1-數學-CH2-083",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -4 與 10 相距多少單位？",
+        "question": "計算 9/4 ÷ 1/3，結果為何？",
         "options": [
-          "6",
-          "15",
-          "14"
+          "3/4",
+          "9/4",
+          "27/4"
         ],
         "answer": 2,
-        "explanation": "距離為 10−(-4)=14。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(9×6)/(4×2)=27/4。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-84",
+        "id": "G7S1-數學-CH2-084",
         "stage": 4,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -5 與 11 相距多少單位？",
+        "question": "計算 2/5 ÷ 3/7，結果為何？",
         "options": [
-          "17",
-          "16",
-          "6"
+          "2/5",
+          "14/15",
+          "6/35"
         ],
         "answer": 1,
-        "explanation": "距離為 11−(-5)=16。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(2×7)/(5×3)=14/15。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-85",
+        "id": "G7S1-數學-CH2-085",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 1/2 ÷ 1/2，結果為何？",
+        "options": [
+          "1",
+          "1/4",
+          "1/2"
+        ],
+        "answer": 0,
+        "explanation": "除以非零分數等於乘以倒數：(3×8)/(6×4)=1。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-086",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 4/7 ÷ 5/4，結果為何？",
+        "options": [
+          "5/7",
+          "4/7",
+          "16/35"
+        ],
+        "answer": 2,
+        "explanation": "除以非零分數等於乘以倒數：(4×4)/(7×5)=16/35。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-087",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 5/8 ÷ 6/5，結果為何？",
+        "options": [
+          "5/8",
+          "25/48",
+          "3/4"
+        ],
+        "answer": 1,
+        "explanation": "除以非零分數等於乘以倒數：(5×5)/(8×6)=25/48。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-088",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "計算 2 ÷ 7/6，結果為何？",
+        "options": [
+          "12/7",
+          "7/3",
+          "2"
+        ],
+        "answer": 0,
+        "explanation": "除以非零分數等於乘以倒數：(6×6)/(3×7)=12/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-089",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -6 與 12 相距多少單位？",
+        "question": "計算 7/4 ÷ 8/7，結果為何？",
         "options": [
-          "18",
-          "6",
-          "19"
-        ],
-        "answer": 0,
-        "explanation": "距離為 12−(-6)=18。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-86",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "數線上 -7 與 13 相距多少單位？",
-        "options": [
-          "6",
-          "21",
-          "20"
+          "2",
+          "7/4",
+          "49/32"
         ],
         "answer": 2,
-        "explanation": "距離為 13−(-7)=20。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(7×7)/(4×8)=49/32。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-87",
+        "id": "G7S1-數學-CH2-090",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 8/5 ÷ 1/4，結果為何？",
+        "options": [
+          "8/5",
+          "32/5",
+          "2/5"
+        ],
+        "answer": 1,
+        "explanation": "除以非零分數等於乘以倒數：(8×8)/(5×2)=32/5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-091",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -8 與 14 相距多少單位？",
+        "question": "計算 3/2 ÷ 3/4，結果為何？",
         "options": [
-          "23",
-          "22",
-          "6"
+          "2",
+          "9/8",
+          "3/2"
         ],
-        "answer": 1,
-        "explanation": "距離為 14−(-8)=22。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "answer": 0,
+        "explanation": "除以非零分數等於乘以倒數：(9×4)/(6×3)=2。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-88",
+        "id": "G7S1-數學-CH2-092",
         "stage": 4,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -9 與 15 相距多少單位？",
+        "question": "計算 2/7 ÷ 4/5，結果為何？",
         "options": [
-          "24",
-          "6",
-          "25"
+          "8/35",
+          "2/7",
+          "5/14"
         ],
-        "answer": 0,
-        "explanation": "距離為 15−(-9)=24。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "answer": 2,
+        "explanation": "除以非零分數等於乘以倒數：(2×5)/(7×4)=5/14。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-89",
+        "id": "G7S1-數學-CH2-093",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -10 與 16 相距多少單位？",
+        "question": "計算 3/8 ÷ 5/6，結果為何？",
         "options": [
-          "6",
-          "27",
-          "26"
+          "3/8",
+          "9/20",
+          "5/16"
         ],
-        "answer": 2,
-        "explanation": "距離為 16−(-10)=26。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "answer": 1,
+        "explanation": "除以非零分數等於乘以倒數：(3×6)/(8×5)=9/20。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-90",
+        "id": "G7S1-數學-CH2-094",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -11 與 17 相距多少單位？",
+        "question": "計算 4/3 ÷ 6/7，結果為何？",
         "options": [
-          "29",
-          "28",
-          "6"
-        ],
-        "answer": 1,
-        "explanation": "距離為 17−(-11)=28。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-91",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "數線上 -12 與 18 相距多少單位？",
-        "options": [
-          "30",
-          "6",
-          "31"
+          "14/9",
+          "8/7",
+          "4/3"
         ],
         "answer": 0,
-        "explanation": "距離為 18−(-12)=30。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(4×7)/(3×6)=14/9。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-92",
+        "id": "G7S1-數學-CH2-095",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "計算 5/4 ÷ 7/8，結果為何？",
+        "options": [
+          "35/32",
+          "5/4",
+          "10/7"
+        ],
+        "answer": 2,
+        "explanation": "除以非零分數等於乘以倒數：(5×8)/(4×7)=10/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-096",
         "stage": 4,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -13 與 19 相距多少單位？",
+        "question": "計算 6/5 ÷ 2，結果為何？",
         "options": [
-          "6",
-          "33",
-          "32"
+          "6/5",
+          "3/5",
+          "12/5"
         ],
-        "answer": 2,
-        "explanation": "距離為 19−(-13)=32。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "answer": 1,
+        "explanation": "除以非零分數等於乘以倒數：(6×4)/(5×8)=3/5。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-93",
+        "id": "G7S1-數學-CH2-097",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -14 與 20 相距多少單位？",
+        "question": "計算 7/6 ÷ 2/5，結果為何？",
         "options": [
-          "35",
-          "34",
-          "6"
+          "35/12",
+          "7/15",
+          "7/6"
         ],
-        "answer": 1,
-        "explanation": "距離為 20−(-14)=34。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "answer": 0,
+        "explanation": "除以非零分數等於乘以倒數：(7×5)/(6×2)=35/12。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-94",
+        "id": "G7S1-數學-CH2-098",
         "stage": 2,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -15 與 21 相距多少單位？",
+        "question": "計算 8/7 ÷ 1/2，結果為何？",
         "options": [
-          "36",
-          "6",
-          "37"
+          "4/7",
+          "8/7",
+          "16/7"
         ],
-        "answer": 0,
-        "explanation": "距離為 21−(-15)=36。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "answer": 2,
+        "explanation": "除以非零分數等於乘以倒數：(8×6)/(7×3)=16/7。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-95",
+        "id": "G7S1-數學-CH2-099",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "數線上 -16 與 22 相距多少單位？",
+        "question": "計算 9/8 ÷ 4/7，結果為何？",
         "options": [
-          "6",
-          "39",
-          "38"
-        ],
-        "answer": 2,
-        "explanation": "距離為 22−(-16)=38。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-96",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "數線上 -17 與 23 相距多少單位？",
-        "options": [
-          "41",
-          "40",
-          "6"
+          "9/8",
+          "63/32",
+          "9/14"
         ],
         "answer": 1,
-        "explanation": "距離為 23−(-17)=40。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(9×7)/(8×4)=63/32。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-ORIG-97",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "數線上 -18 與 24 相距多少單位？",
-        "options": [
-          "42",
-          "6",
-          "43"
-        ],
-        "answer": 0,
-        "explanation": "距離為 24−(-18)=42。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-98",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "數線上 -19 與 25 相距多少單位？",
-        "options": [
-          "6",
-          "45",
-          "44"
-        ],
-        "answer": 2,
-        "explanation": "距離為 25−(-19)=44。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-99",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "數線上 -20 與 26 相距多少單位？",
-        "options": [
-          "47",
-          "46",
-          "6"
-        ],
-        "answer": 1,
-        "explanation": "距離為 26−(-20)=46。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
-      },
-      {
-        "id": "G7S1-數學-ORIG-100",
+        "id": "G7S1-數學-CH2-100",
         "stage": 4,
         "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "數線上 -21 與 27 相距多少單位？",
+        "difficulty": "進階",
+        "question": "計算 2/3 ÷ 5/8，結果為何？",
         "options": [
-          "48",
-          "6",
-          "49"
+          "16/15",
+          "5/12",
+          "2/3"
         ],
         "answer": 0,
-        "explanation": "距離為 27−(-21)=48。",
-        "topic": "數線與距離",
-        "scopeStatus": "provisional"
+        "explanation": "除以非零分數等於乘以倒數：(2×8)/(3×5)=16/15。",
+        "chapter": "第二單元（分數運算；教材目錄待核）",
+        "topic": "分數除法",
+        "scopeStatus": "chapter_pending_verification"
       }
     ]
   },
