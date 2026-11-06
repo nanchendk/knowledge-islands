@@ -1,4 +1,4 @@
-/* 七上第二次段考題庫：數學100題已改為分數四則運算；章節仍待正式教材核對。 */
+/* 七上第二次段考原創題庫；各題仍需核對正式教材章節。 */
 const questionBankV105=[
   {
     "subject": "國文",
@@ -3595,6 +3595,906 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "木質部主要向上輸送水和無機鹽。",
         "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-001",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "關於「細胞膜」的功能或意義，下列何者正確？",
+        "options": [
+          "控制物質進出細胞",
+          "製造葡萄糖",
+          "儲存遺傳物質"
+        ],
+        "answer": 0,
+        "explanation": "細胞膜：控制物質進出細胞。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-002",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "關於「細胞核」的功能或意義，下列何者正確？",
+        "options": [
+          "進行氣體交換",
+          "運送血液",
+          "儲存遺傳物質並控制細胞活動"
+        ],
+        "answer": 2,
+        "explanation": "細胞核：儲存遺傳物質並控制細胞活動。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-003",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "關於「粒線體」的功能或意義，下列何者正確？",
+        "options": [
+          "吸收光能",
+          "進行細胞呼吸並釋放能量",
+          "合成細胞壁"
+        ],
+        "answer": 1,
+        "explanation": "粒線體：進行細胞呼吸並釋放能量。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-004",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "關於「葉綠體」的功能或意義，下列何者正確？",
+        "options": [
+          "進行光合作用",
+          "消化蛋白質",
+          "儲存尿液"
+        ],
+        "answer": 0,
+        "explanation": "葉綠體：進行光合作用。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-005",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "關於「細胞壁」的功能或意義，下列何者正確？",
+        "options": [
+          "調節心跳",
+          "形成血紅素",
+          "提供植物細胞支持與保護"
+        ],
+        "answer": 2,
+        "explanation": "細胞壁：提供植物細胞支持與保護。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-006",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "關於「液胞」的功能或意義，下列何者正確？",
+        "options": [
+          "運輸神經訊號",
+          "儲存水分與部分物質",
+          "製造抗體"
+        ],
+        "answer": 1,
+        "explanation": "液胞：儲存水分與部分物質。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-007",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "生物組成層次",
+        "question": "關於「組織」的功能或意義，下列何者正確？",
+        "options": [
+          "由形態與功能相近的細胞組成",
+          "由多個器官組成",
+          "由多個個體組成"
+        ],
+        "answer": 0,
+        "explanation": "組織：由形態與功能相近的細胞組成。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-008",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "生物組成層次",
+        "question": "關於「器官」的功能或意義，下列何者正確？",
+        "options": [
+          "由不同個體組成",
+          "只由單一分子組成",
+          "由不同組織共同執行特定功能"
+        ],
+        "answer": 2,
+        "explanation": "器官：由不同組織共同執行特定功能。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-009",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "生物組成層次",
+        "question": "關於「器官系統」的功能或意義，下列何者正確？",
+        "options": [
+          "由不同物種組成",
+          "由相關器官協同完成生命功能",
+          "由單一細胞組成"
+        ],
+        "answer": 1,
+        "explanation": "器官系統：由相關器官協同完成生命功能。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-010",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "關於「顯微鏡的目鏡」的功能或意義，下列何者正確？",
+        "options": [
+          "讓觀察者進一步放大影像",
+          "固定玻片標本",
+          "調節光圈大小"
+        ],
+        "answer": 0,
+        "explanation": "顯微鏡的目鏡：讓觀察者進一步放大影像。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-011",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "關於「顯微鏡的物鏡」的功能或意義，下列何者正確？",
+        "options": [
+          "承載顯微鏡重量",
+          "調節眼睛焦距",
+          "靠近標本並提供主要放大倍率"
+        ],
+        "answer": 2,
+        "explanation": "顯微鏡的物鏡：靠近標本並提供主要放大倍率。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-012",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "關於「載玻片」的功能或意義，下列何者正確？",
+        "options": [
+          "調整倍率",
+          "承載觀察標本",
+          "製造光源"
+        ],
+        "answer": 1,
+        "explanation": "載玻片：承載觀察標本。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-013",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "關於「蓋玻片」的功能或意義，下列何者正確？",
+        "options": [
+          "覆蓋並固定薄層標本",
+          "調節顯微鏡光源",
+          "產生細胞分裂"
+        ],
+        "answer": 0,
+        "explanation": "蓋玻片：覆蓋並固定薄層標本。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-014",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "植物營養",
+        "question": "關於「光合作用」的功能或意義，下列何者正確？",
+        "options": [
+          "將所有氧氣轉成氮氣",
+          "將蛋白質變成尿液",
+          "利用光能製造有機養分"
+        ],
+        "answer": 2,
+        "explanation": "光合作用：利用光能製造有機養分。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-015",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "植物營養",
+        "question": "關於「葉綠素」的功能或意義，下列何者正確？",
+        "options": [
+          "分泌胃酸",
+          "吸收光能",
+          "運輸血液"
+        ],
+        "answer": 1,
+        "explanation": "葉綠素：吸收光能。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-016",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "植物構造",
+        "question": "關於「氣孔」的功能或意義，下列何者正確？",
+        "options": [
+          "調節葉片氣體交換與水分散失",
+          "固定植物根部",
+          "輸送神經訊號"
+        ],
+        "answer": 0,
+        "explanation": "氣孔：調節葉片氣體交換與水分散失。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-017",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "植物構造",
+        "question": "關於「保衛細胞」的功能或意義，下列何者正確？",
+        "options": [
+          "形成骨骼",
+          "製造消化酵素",
+          "控制氣孔開閉"
+        ],
+        "answer": 2,
+        "explanation": "保衛細胞：控制氣孔開閉。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-018",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "植物運輸",
+        "question": "關於「木質部」的功能或意義，下列何者正確？",
+        "options": [
+          "儲存尿液",
+          "輸送水分與無機鹽",
+          "運輸神經衝動"
+        ],
+        "answer": 1,
+        "explanation": "木質部：輸送水分與無機鹽。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-019",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "植物運輸",
+        "question": "關於「韌皮部」的功能或意義，下列何者正確？",
+        "options": [
+          "運輸光合作用製造的有機養分",
+          "吸收聲波",
+          "分解蛋白質"
+        ],
+        "answer": 0,
+        "explanation": "韌皮部：運輸光合作用製造的有機養分。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-020",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "植物運輸",
+        "question": "關於「根毛」的功能或意義，下列何者正確？",
+        "options": [
+          "吸引昆蟲授粉",
+          "調節體溫",
+          "增加根吸收水分與無機鹽的表面積"
+        ],
+        "answer": 2,
+        "explanation": "根毛：增加根吸收水分與無機鹽的表面積。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-021",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "植物運輸",
+        "question": "關於「蒸散作用」的功能或意義，下列何者正確？",
+        "options": [
+          "把光能轉成聲能",
+          "促進植物水分由葉片散失",
+          "將脂肪分解成胺基酸"
+        ],
+        "answer": 1,
+        "explanation": "蒸散作用：促進植物水分由葉片散失。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-022",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "養分",
+        "question": "關於「澱粉」的功能或意義，下列何者正確？",
+        "options": [
+          "由許多葡萄糖單位組成的醣類",
+          "血液中的細胞",
+          "一種礦物質"
+        ],
+        "answer": 0,
+        "explanation": "澱粉：由許多葡萄糖單位組成的醣類。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-023",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "養分",
+        "question": "關於「蛋白質」的功能或意義，下列何者正確？",
+        "options": [
+          "只能分解成脂肪酸",
+          "完全不能被消化",
+          "可經消化分解成胺基酸"
+        ],
+        "answer": 2,
+        "explanation": "蛋白質：可經消化分解成胺基酸。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-024",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "養分",
+        "question": "關於「脂質」的功能或意義，下列何者正確？",
+        "options": [
+          "不含任何能量",
+          "提供能量並參與細胞膜構成",
+          "只能用來運送氧氣"
+        ],
+        "answer": 1,
+        "explanation": "脂質：提供能量並參與細胞膜構成。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-025",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "養分",
+        "question": "關於「維生素」的功能或意義，下列何者正確？",
+        "options": [
+          "少量即可參與維持正常生理機能",
+          "人體最主要的遺傳物質",
+          "直接取代所有蛋白質"
+        ],
+        "answer": 0,
+        "explanation": "維生素：少量即可參與維持正常生理機能。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-026",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "養分",
+        "question": "關於「礦物質」的功能或意義，下列何者正確？",
+        "options": [
+          "只存在於動物體內",
+          "能取代所有水分",
+          "參與骨骼形成等生理功能"
+        ],
+        "answer": 2,
+        "explanation": "礦物質：參與骨骼形成等生理功能。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-027",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "消化作用",
+        "question": "關於「唾液澱粉酶」的功能或意義，下列何者正確？",
+        "options": [
+          "負責運送氧氣",
+          "協助分解澱粉",
+          "協助分解骨骼"
+        ],
+        "answer": 1,
+        "explanation": "唾液澱粉酶：協助分解澱粉。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-028",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "關於「胃」的功能或意義，下列何者正確？",
+        "options": [
+          "攪拌食物並分泌胃液",
+          "主要吸收氧氣",
+          "製造膽汁"
+        ],
+        "answer": 0,
+        "explanation": "胃：攪拌食物並分泌胃液。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-029",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "關於「小腸」的功能或意義，下列何者正確？",
+        "options": [
+          "負責血液凝固",
+          "控制瞳孔大小",
+          "進行多數養分的消化與吸收"
+        ],
+        "answer": 2,
+        "explanation": "小腸：進行多數養分的消化與吸收。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-030",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "關於「大腸」的功能或意義，下列何者正確？",
+        "options": [
+          "進行光合作用",
+          "吸收部分水分並形成糞便",
+          "製造紅血球"
+        ],
+        "answer": 1,
+        "explanation": "大腸：吸收部分水分並形成糞便。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-031",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "關於「肝臟」的功能或意義，下列何者正確？",
+        "options": [
+          "製造膽汁",
+          "儲存吸入的空氣",
+          "產生尿液"
+        ],
+        "answer": 0,
+        "explanation": "肝臟：製造膽汁。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-032",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "關於「膽汁」的功能或意義，下列何者正確？",
+        "options": [
+          "直接把澱粉分解成葡萄糖",
+          "把氧氣變成二氧化碳",
+          "乳化脂肪以利消化"
+        ],
+        "answer": 2,
+        "explanation": "膽汁：乳化脂肪以利消化。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-033",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "關於「胰臟」的功能或意義，下列何者正確？",
+        "options": [
+          "製造骨骼",
+          "分泌多種消化酵素",
+          "產生聲音"
+        ],
+        "answer": 1,
+        "explanation": "胰臟：分泌多種消化酵素。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-034",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "呼吸系統",
+        "question": "關於「肺泡」的功能或意義，下列何者正確？",
+        "options": [
+          "提供氣體交換的主要場所",
+          "吸收食物中的澱粉",
+          "製造膽汁"
+        ],
+        "answer": 0,
+        "explanation": "肺泡：提供氣體交換的主要場所。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-035",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "呼吸系統",
+        "question": "關於「橫膈」的功能或意義，下列何者正確？",
+        "options": [
+          "負責形成尿液",
+          "直接製造血紅素",
+          "收縮與舒張以協助呼吸運動"
+        ],
+        "answer": 2,
+        "explanation": "橫膈：收縮與舒張以協助呼吸運動。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-036",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "循環系統",
+        "question": "關於「紅血球」的功能或意義，下列何者正確？",
+        "options": [
+          "產生胃酸",
+          "利用血紅素運輸氧氣",
+          "進行光合作用"
+        ],
+        "answer": 1,
+        "explanation": "紅血球：利用血紅素運輸氧氣。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-037",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "循環系統",
+        "question": "關於「白血球」的功能或意義，下列何者正確？",
+        "options": [
+          "參與身體防禦",
+          "運輸所有食物殘渣",
+          "產生膽汁"
+        ],
+        "answer": 0,
+        "explanation": "白血球：參與身體防禦。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-038",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "循環系統",
+        "question": "關於「血小板」的功能或意義，下列何者正確？",
+        "options": [
+          "製造葡萄糖",
+          "負責氣體交換",
+          "參與血液凝固"
+        ],
+        "answer": 2,
+        "explanation": "血小板：參與血液凝固。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-039",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "循環系統",
+        "question": "關於「動脈」的功能或意義，下列何者正確？",
+        "options": [
+          "直接製造紅血球",
+          "將血液由心臟送出",
+          "一定只運輸缺氧血"
+        ],
+        "answer": 1,
+        "explanation": "動脈：將血液由心臟送出。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-040",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "循環系統",
+        "question": "關於「靜脈」的功能或意義，下列何者正確？",
+        "options": [
+          "將血液送回心臟",
+          "一定只運輸含氧血",
+          "直接吸收土壤水分"
+        ],
+        "answer": 0,
+        "explanation": "靜脈：將血液送回心臟。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-041",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "循環系統",
+        "question": "關於「微血管」的功能或意義，下列何者正確？",
+        "options": [
+          "製造膽汁",
+          "控制氣孔開閉",
+          "提供血液與組織間物質交換"
+        ],
+        "answer": 2,
+        "explanation": "微血管：提供血液與組織間物質交換。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-042",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "排泄系統",
+        "question": "關於「腎臟」的功能或意義，下列何者正確？",
+        "options": [
+          "分解土壤有機物",
+          "過濾血液並形成尿液",
+          "吸收光能"
+        ],
+        "answer": 1,
+        "explanation": "腎臟：過濾血液並形成尿液。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-043",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "神經系統",
+        "question": "關於「神經元」的功能或意義，下列何者正確？",
+        "options": [
+          "傳遞神經訊息",
+          "運輸植物養分",
+          "製造胃液"
+        ],
+        "answer": 0,
+        "explanation": "神經元：傳遞神經訊息。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-044",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "神經系統",
+        "question": "關於「反射作用」的功能或意義，下列何者正確？",
+        "options": [
+          "一定經過有意識思考才發生",
+          "只存在於植物",
+          "能快速對刺激產生反應"
+        ],
+        "answer": 2,
+        "explanation": "反射作用：能快速對刺激產生反應。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-045",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "生態概念",
+        "question": "關於「生產者」的功能或意義，下列何者正確？",
+        "options": [
+          "完全不需要能量的生物",
+          "能自行製造有機養分的生物",
+          "只會捕食動物的生物"
+        ],
+        "answer": 1,
+        "explanation": "生產者：能自行製造有機養分的生物。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-046",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "生態概念",
+        "question": "關於「消費者」的功能或意義，下列何者正確？",
+        "options": [
+          "藉由攝食其他生物獲得能量",
+          "一定能行光合作用",
+          "不會呼吸的生物"
+        ],
+        "answer": 0,
+        "explanation": "消費者：藉由攝食其他生物獲得能量。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-047",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "生態概念",
+        "question": "關於「分解者」的功能或意義，下列何者正確？",
+        "options": [
+          "只負責製造陽光",
+          "不參與物質循環",
+          "將有機物分解並促進物質循環"
+        ],
+        "answer": 2,
+        "explanation": "分解者：將有機物分解並促進物質循環。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-048",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "生態概念",
+        "question": "關於「食物鏈」的功能或意義，下列何者正確？",
+        "options": [
+          "只描述地形高度",
+          "呈現生物間的攝食關係",
+          "表示所有生物具有相同食性"
+        ],
+        "answer": 1,
+        "explanation": "食物鏈：呈現生物間的攝食關係。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-049",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "酵素",
+        "question": "關於「酵素」的功能或意義，下列何者正確？",
+        "options": [
+          "加速特定生化反應",
+          "任何溫度下都不會變性",
+          "每種酵素都能分解所有養分"
+        ],
+        "answer": 0,
+        "explanation": "酵素：加速特定生化反應。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-CONCEPT-050",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒生物第1～4章（逐題章節待核）",
+        "topic": "生命現象",
+        "question": "關於「恆定性」的功能或意義，下列何者正確？",
+        "options": [
+          "使體溫永遠不變且無波動",
+          "完全停止新陳代謝",
+          "維持體內環境在適當範圍"
+        ],
+        "answer": 2,
+        "explanation": "恆定性：維持體內環境在適當範圍。另外兩個選項不符合此概念的定義或功能。",
+        "scopeStatus": "chapter_pending",
+        "verifiedForExam": false
       }
     ]
   },
