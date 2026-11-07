@@ -19,7 +19,11 @@ const questionBankV105=[
           "請把門關上"
         ],
         "answer": 1,
-        "explanation": "以「像」將時間比作流水，是明喻。"
+        "explanation": "以「像」將時間比作流水，是明喻。",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-1-2",
@@ -33,7 +37,11 @@ const questionBankV105=[
           "恥笑別人"
         ],
         "answer": 0,
-        "explanation": "此處「恥」是意動用法，表示以向人請教為恥。"
+        "explanation": "此處「恥」是意動用法，表示以向人請教為恥。",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-1-3",
@@ -47,7 +55,11 @@ const questionBankV105=[
           "編織漁網"
         ],
         "answer": 0,
-        "explanation": "只學不思考，容易迷惑而無所得。"
+        "explanation": "只學不思考，容易迷惑而無所得。",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-1-4",
@@ -61,7 +73,11 @@ const questionBankV105=[
           "風吹得樹葉沙沙響"
         ],
         "answer": 1,
-        "explanation": "結構相似的語句連續排列，是排比。"
+        "explanation": "結構相似的語句連續排列，是排比。",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-國文-EX1",
@@ -76,7 +92,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "絡繹不絕表示往來不斷。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-國文-EX2",
@@ -91,7 +110,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "砭讀作ㄅㄧㄢ，針砭比喻指出缺失。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-國文-EX3",
@@ -106,7 +128,10 @@ const questionBankV105=[
         ],
         "answer": 1,
         "explanation": "焙讀作ㄅㄟˋ。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-國文-EX4",
@@ -121,7 +146,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "惱羞成怒指因羞愧而生氣。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-國文-EX5",
@@ -136,7 +164,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "主旨需綜合全文脈絡判斷。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒國文第4～6課、自學二、語文天地二（上）（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-國文-ADD-001",
@@ -4002,7 +4033,11 @@ const questionBankV105=[
           "液胞"
         ],
         "answer": 0,
-        "explanation": "細胞核含有遺傳物質，參與細胞活動調控。"
+        "explanation": "細胞核含有遺傳物質，參與細胞活動調控。",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-4-2",
@@ -4016,7 +4051,11 @@ const questionBankV105=[
           "核糖體"
         ],
         "answer": 1,
-        "explanation": "葉綠體中的葉綠素可吸收光能。"
+        "explanation": "葉綠體中的葉綠素可吸收光能。",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-4-3",
@@ -4030,7 +4069,11 @@ const questionBankV105=[
           "大腸"
         ],
         "answer": 1,
-        "explanation": "小腸絨毛增加吸收表面積。"
+        "explanation": "小腸絨毛增加吸收表面積。",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-4-4",
@@ -4044,7 +4087,11 @@ const questionBankV105=[
           "高度與方向"
         ],
         "answer": 0,
-        "explanation": "酵素活性會受溫度與 pH 影響。"
+        "explanation": "酵素活性會受溫度與 pH 影響。",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-生物-EX1",
@@ -4059,7 +4106,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "消化把較大的養分分解為可吸收的小分子。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-生物-EX2",
@@ -4074,7 +4124,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "水蒸氣主要經氣孔散失。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-生物-EX3",
@@ -4089,7 +4142,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "紅血球中的血紅素有助於運送氧氣。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-生物-EX4",
@@ -4104,7 +4160,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "肺泡壁薄，利於氧氣與二氧化碳交換。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-生物-EX5",
@@ -4119,7 +4178,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "木質部主要向上輸送水和無機鹽。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "康軒生物第1～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-BIO-CONCEPT-001",
@@ -5910,7 +5972,11 @@ const questionBankV105=[
           "城市高度"
         ],
         "answer": 0,
-        "explanation": "一般以是否出現文字記錄作為重要區分依據。"
+        "explanation": "一般以是否出現文字記錄作為重要區分依據。",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-7-2",
@@ -5924,7 +5990,11 @@ const questionBankV105=[
           "電視新聞"
         ],
         "answer": 0,
-        "explanation": "史前文化主要透過考古證據重建。"
+        "explanation": "史前文化主要透過考古證據重建。",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-7-3",
@@ -5938,7 +6008,11 @@ const questionBankV105=[
           "建造高鐵"
         ],
         "answer": 0,
-        "explanation": "尋找香料等商品的貿易航路是重要動機。"
+        "explanation": "尋找香料等商品的貿易航路是重要動機。",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-7-4",
@@ -5952,7 +6026,11 @@ const questionBankV105=[
           "臺灣中部山區"
         ],
         "answer": 0,
-        "explanation": "荷蘭東印度公司在今臺南一帶建立據點。"
+        "explanation": "荷蘭東印度公司在今臺南一帶建立據點。",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-歷史-EX1",
@@ -5967,7 +6045,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "第一手史料是研究事件當時留下的材料。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-歷史-EX2",
@@ -5982,7 +6063,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "考古遺物可提供生活方式線索。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-歷史-EX3",
@@ -5997,7 +6081,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "香料是當時重要的遠距貿易商品。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-歷史-EX4",
@@ -6012,7 +6099,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "荷蘭人將臺灣作為東亞貿易網絡的一環。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-歷史-EX5",
@@ -6027,7 +6117,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "時間軸能呈現事件的時間順序。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林歷史第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-HIST-NEW-001",
@@ -6730,6 +6823,276 @@ const questionBankV105=[
         "explanation": "三件事分別發生於1626、1642、1662年。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-001",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "史料判讀",
+        "question": "研究荷蘭時期臺灣貿易時，哪一類資料最能直接呈現當時交易內容？",
+        "options": [
+          "同時期商館帳冊",
+          "現代觀光地圖",
+          "現代小說"
+        ],
+        "answer": 0,
+        "explanation": "商館帳冊記錄當時貨品與交易，可作第一手史料。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-002",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "史料判讀",
+        "question": "若兩份史料對同一事件描述不同，歷史研究者較適合如何處理？",
+        "options": [
+          "比較作者立場與其他證據",
+          "只採用字數較多的一份",
+          "兩份都直接刪除"
+        ],
+        "answer": 0,
+        "explanation": "史料可能有立場與限制，應交叉比對。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-003",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "史料判讀",
+        "question": "考察鄭氏時期的土地利用，哪種資料最可能提供直接線索？",
+        "options": [
+          "當時土地契約與墾殖紀錄",
+          "今日電影票房",
+          "現代氣象預報"
+        ],
+        "answer": 0,
+        "explanation": "土地契約和墾殖紀錄有助了解土地使用與權利關係。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-004",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "荷西時期",
+        "question": "荷蘭東印度公司來臺經營，最主要反映哪種目的？",
+        "options": [
+          "建立亞洲貿易據點",
+          "推行現代民主選舉",
+          "開發鐵路運輸"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭東印度公司是以貿易利益為重要目標的商業組織。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-005",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "荷西時期",
+        "question": "西班牙勢力曾進入臺灣北部，與哪個海域的航路布局關係密切？",
+        "options": [
+          "東亞海上貿易航路",
+          "北極航路",
+          "地中海航路"
+        ],
+        "answer": 0,
+        "explanation": "西班牙關注東亞海域的貿易與軍事據點。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-006",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "荷西時期",
+        "question": "荷蘭人在臺傳教活動留下羅馬字拼寫原住民族語的資料，研究價值為何？",
+        "options": [
+          "提供當時語言文字線索",
+          "證明所有族群語言相同",
+          "代表當時已有網路"
+        ],
+        "answer": 0,
+        "explanation": "文字紀錄可協助研究當時語言與社會。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-007",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "荷西時期",
+        "question": "從荷蘭商業活動看，臺灣鹿皮出口與哪種經濟活動直接相關？",
+        "options": [
+          "狩獵與商品交易",
+          "石油煉製",
+          "半導體製造"
+        ],
+        "answer": 0,
+        "explanation": "鹿皮是當時的重要貿易商品，與狩獵和交易相關。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-008",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭氏政權在臺推動軍屯，主要是為了解決哪項需求？",
+        "options": [
+          "軍隊糧食供應",
+          "建造機場",
+          "推行全民義務教育"
+        ],
+        "answer": 0,
+        "explanation": "軍屯讓軍隊參與耕作，以支應糧食。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-009",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭氏政權將臺灣作為基地，與哪一項政治目標密切相關？",
+        "options": [
+          "反清復明",
+          "支持荷蘭統治",
+          "建立聯合國"
+        ],
+        "answer": 0,
+        "explanation": "鄭氏政權具有反清復明的政治訴求。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-010",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭氏政權延續海上貿易，對臺灣可能產生何種影響？",
+        "options": [
+          "維持對外物資交流",
+          "完全切斷海外往來",
+          "讓所有居民不再務農"
+        ],
+        "answer": 0,
+        "explanation": "海上貿易有助物資與商業交流。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-011",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "時序比較",
+        "question": "下列哪一個順序符合臺灣十七世紀政權更替的大致時序？",
+        "options": [
+          "荷蘭統治、鄭氏政權、清朝統治",
+          "清朝、鄭氏、荷蘭",
+          "鄭氏、清朝、荷蘭"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭在臺南部統治先於鄭氏，鄭氏之後清朝納臺。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-012",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "歷史推論",
+        "question": "若考古發現某聚落有外來瓷器，最謹慎的初步推論為何？",
+        "options": [
+          "可能存在物品交流，仍須更多證據",
+          "所有居民一定來自瓷器產地",
+          "聚落一定是王宮"
+        ],
+        "answer": 0,
+        "explanation": "外來器物可能來自貿易或轉手，不足以證明人口來源。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-013",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "歷史推論",
+        "question": "研究十七世紀臺灣原住民族與外來政權互動，最應避免哪種做法？",
+        "options": [
+          "把各族群視為完全相同",
+          "比較不同聚落的紀錄",
+          "注意不同史料立場"
+        ],
+        "answer": 0,
+        "explanation": "各族群有不同語言、生活與歷史經驗，不宜一概而論。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-014",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "歷史推論",
+        "question": "要判斷某事件發生在鄭氏時期，最重要的查核依據為何？",
+        "options": [
+          "史料年代與事件脈絡",
+          "文章字體大小",
+          "圖片顏色深淺"
+        ],
+        "answer": 0,
+        "explanation": "歷史分期應依年代和可信史料判定。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-20261107-015",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林歷史第3～4章（115學年度待核）",
+        "topic": "歷史推論",
+        "question": "史料記載的地名與今日地名不同，研究者應優先如何處理？",
+        "options": [
+          "比對歷史地圖與地名沿革",
+          "直接認定兩地毫無關係",
+          "以現代讀音猜測即可"
+        ],
+        "answer": 0,
+        "explanation": "歷史地圖和地名沿革可協助確認地理位置。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
@@ -6752,7 +7115,11 @@ const questionBankV105=[
           "10公里"
         ],
         "answer": 1,
-        "explanation": "100000 公分等於 1 公里。"
+        "explanation": "100000 公分等於 1 公里。",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-8-2",
@@ -6766,7 +7133,11 @@ const questionBankV105=[
           "海拔"
         ],
         "answer": 0,
-        "explanation": "經線連接南北兩極，用來判定經度。"
+        "explanation": "經線連接南北兩極，用來判定經度。",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-8-3",
@@ -6780,7 +7151,11 @@ const questionBankV105=[
           "非洲與南美板塊"
         ],
         "answer": 0,
-        "explanation": "臺灣位於歐亞板塊與菲律賓海板塊交界附近。"
+        "explanation": "臺灣位於歐亞板塊與菲律賓海板塊交界附近。",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-8-4",
@@ -6794,7 +7169,11 @@ const questionBankV105=[
           "一定是海洋"
         ],
         "answer": 1,
-        "explanation": "相同高差在較短水平距離內發生，坡度較陡。"
+        "explanation": "相同高差在較短水平距離內發生，坡度較陡。",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-地理-EX1",
@@ -6809,7 +7188,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "臺灣位於赤道以北、本初經線以東。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-地理-EX2",
@@ -6824,7 +7206,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "臺灣多山，山地丘陵面積較廣。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-地理-EX3",
@@ -6839,7 +7224,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "指北針標示方向。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-地理-EX4",
@@ -6854,7 +7242,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "海拔通常以平均海平面為基準。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-地理-EX5",
@@ -6869,7 +7260,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "河川搬運沉積物，形成沖積平原。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林地理第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-地理-CH3-001",
@@ -7687,7 +8081,11 @@ const questionBankV105=[
           "司法審判"
         ],
         "answer": 0,
-        "explanation": "家庭可提供情感支持與生活照顧。"
+        "explanation": "家庭可提供情感支持與生活照顧。",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-9-2",
@@ -7701,7 +8099,11 @@ const questionBankV105=[
           "拒絕遵守所有法律"
         ],
         "answer": 0,
-        "explanation": "受教育權是受保障的重要權利。"
+        "explanation": "受教育權是受保障的重要權利。",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-9-3",
@@ -7715,7 +8117,11 @@ const questionBankV105=[
           "專制命令"
         ],
         "answer": 0,
-        "explanation": "透過討論與表決共同決定公共事務，體現民主參與。"
+        "explanation": "透過討論與表決共同決定公共事務，體現民主參與。",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-9-4",
@@ -7729,7 +8135,11 @@ const questionBankV105=[
           "用暴力解決"
         ],
         "answer": 0,
-        "explanation": "應尊重彼此權利，透過理性溝通與合法程序處理。"
+        "explanation": "應尊重彼此權利，透過理性溝通與合法程序處理。",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-公民-EX1",
@@ -7744,7 +8154,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "民主社會重視理性討論與多元參與。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-公民-EX2",
@@ -7759,7 +8172,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "個人隱私與資料應受尊重。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-公民-EX3",
@@ -7774,7 +8190,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "共同分工有助於家庭合作。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-公民-EX4",
@@ -7789,7 +8208,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "應保護受害者並尋求可信任成人協助。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-公民-EX5",
@@ -7804,7 +8226,10 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "法律兼具保障權利與維護秩序的功能。",
-        "scopeStatus": "provisional"
+        "scopeStatus": "chapter_pending_verification",
+        "chapter": "翰林公民第3～4章（待核）",
+        "topic": "既有題目考點待分類",
+        "verifiedForExam": false
       },
       {
         "id": "G7S1-CIV-FAMILY-001",
