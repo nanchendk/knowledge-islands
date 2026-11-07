@@ -1223,6 +1223,186 @@ const questionBankV105=[
         "explanation": "摘要需要選出重要資訊並重新組織。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-070",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "論語選",
+        "question": "孔子說「三人行，必有我師焉」，下列何種行為最符合這句話？",
+        "options": [
+          "只向成績最好的人學習",
+          "觀察他人的優點，也反省自己的缺點",
+          "遇到不喜歡的人就不聽意見"
+        ],
+        "answer": 1,
+        "explanation": "這句話強調向周遭的人學習，擇善而從，見不善而內省。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-071",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "論語選",
+        "question": "「學而不思則罔，思而不學則殆」對讀書方法的提醒為何？",
+        "options": [
+          "只要背誦便能理解",
+          "思考比學習更重要",
+          "學習與思考必須互相配合"
+        ],
+        "answer": 2,
+        "explanation": "孔子指出只學不思容易迷惘，只思不學容易疑惑，兩者應兼顧。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-072",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "論語選",
+        "question": "讀完課文後，學生主動檢查自己是否真正理解，而不是只記住答案，最接近哪種學習態度？",
+        "options": [
+          "反求諸己並自我省察",
+          "隨意猜測答案",
+          "以分數取代思考"
+        ],
+        "answer": 0,
+        "explanation": "檢視自己的理解與不足，符合儒家重視自省的態度。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-073",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "差不多先生傳",
+        "question": "若一篇文章反覆呈現人物「差一點也沒關係」的想法，最後卻造成重大後果，這種安排最能產生什麼效果？",
+        "options": [
+          "將人物描寫成完美英雄",
+          "以情節反差突顯諷刺",
+          "證明所有小錯都無害"
+        ],
+        "answer": 1,
+        "explanation": "反覆的敷衍態度與嚴重後果形成反差，強化對馬虎心態的批判。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-074",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "差不多先生傳",
+        "question": "閱讀帶有諷刺意味的文章時，判斷作者立場最可靠的方法是？",
+        "options": [
+          "只看人物自我評價",
+          "只看文章第一句",
+          "對照人物言行與事件結果"
+        ],
+        "answer": 2,
+        "explanation": "諷刺常利用言行和結果的落差表達批判，不能只照字面理解。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-075",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "那默默的一群",
+        "question": "作者描寫平凡工作者時，若以細節呈現他們對城市的貢獻，最可能希望讀者？",
+        "options": [
+          "看見容易被忽略的付出",
+          "認為職業高低決定人格",
+          "只關心工作收入"
+        ],
+        "answer": 0,
+        "explanation": "透過具體細節凸顯默默付出的價值，引導讀者尊重不同工作。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-076",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文天地二（上）",
+        "question": "查找資料時，同一主題的兩篇文章說法相反，最適合先做什麼？",
+        "options": [
+          "選擇標題較吸引人的一篇",
+          "比較來源、日期及所引用的證據",
+          "直接把兩篇內容拼接"
+        ],
+        "answer": 1,
+        "explanation": "比對來源與證據有助於辨識資訊可靠性，而非依標題判斷。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-077",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文天地二（上）",
+        "question": "想快速找出一篇長篇說明文中「實驗方法」的位置，優先使用哪種閱讀策略？",
+        "options": [
+          "逐字背誦全文",
+          "跳過所有小標題",
+          "掃讀小標題與關鍵詞"
+        ],
+        "answer": 2,
+        "explanation": "掃讀與定位關鍵詞可有效找到特定資訊段落。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-078",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "自學二",
+        "question": "閱讀故事時，若主角的行動與旁人的評語不一致，分析人物性格應優先依據？",
+        "options": [
+          "具體行為及其情境",
+          "旁人最激烈的評語",
+          "讀者先入為主的印象"
+        ],
+        "answer": 0,
+        "explanation": "人物的行動與情境是可檢驗的文本證據，評語可能帶有偏見。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-079",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文天地二（上）",
+        "question": "把資料來源的原句改成自己的話後，仍應如何處理？",
+        "options": [
+          "不必註明，因為文字已改寫",
+          "保留來源資訊，清楚區分自己的觀點",
+          "將原作者姓名改成自己"
+        ],
+        "answer": 1,
+        "explanation": "改寫不代表原始資訊變成自己的研究成果，仍應標示來源。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
@@ -7721,6 +7901,276 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "歷史地圖和地名沿革可協助確認地理位置。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-064",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "荷西時期",
+        "question": "若史料記載某政權在臺灣建立商館並以轉口貿易獲利，研究者最應關注哪項因素？",
+        "options": [
+          "當時的國際海上貿易網絡",
+          "二十世紀的航空運輸",
+          "現代半導體產業"
+        ],
+        "answer": 0,
+        "explanation": "十七世紀臺灣與東亞海上貿易密切相關，商館活動須放在國際貿易背景理解。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-065",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "荷西時期",
+        "question": "比較荷蘭與西班牙在臺灣的活動，最適合用哪一組欄位製作比較表？",
+        "options": [
+          "今日各國人口與面積",
+          "活動區域、目的及時期",
+          "現代觀光景點門票"
+        ],
+        "answer": 1,
+        "explanation": "比較歷史政權須聚焦當時活動的地點、動機和年代。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-066",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "荷西時期",
+        "question": "十七世紀臺灣出現外來傳教活動，最能說明當時社會具有哪項特徵？",
+        "options": [
+          "島上居民信仰完全一致",
+          "各族群沒有文化交流",
+          "外來政權與在地社會發生文化接觸"
+        ],
+        "answer": 2,
+        "explanation": "傳教活動反映外來文化與本地社群的接觸，但不能推論所有人改信。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-067",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "鄭氏時期",
+        "question": "研究鄭氏政權在臺灣推動屯墾，最合理的分析重點為何？",
+        "options": [
+          "軍隊糧食需求與土地開發",
+          "二十一世紀房價",
+          "高鐵路線規劃"
+        ],
+        "answer": 0,
+        "explanation": "屯墾與軍事補給、糧食生產及土地利用有關。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-068",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "鄭氏時期",
+        "question": "某史料記錄鄭氏時期的土地開墾，但沒有提到原住民族，研究者應如何處理？",
+        "options": [
+          "推論當時臺灣沒有原住民族",
+          "尋找其他族群觀點與相關史料",
+          "認定史料內容完全錯誤"
+        ],
+        "answer": 1,
+        "explanation": "史料的沉默不等於事件不存在，須蒐集不同來源補足觀點。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-069",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料判讀",
+        "question": "同一事件在官府文書與民間口述中描述不同，最合理的解釋為何？",
+        "options": [
+          "只能有一份是真的",
+          "兩者必定都虛構",
+          "記錄者立場、目的與經驗可能不同"
+        ],
+        "answer": 2,
+        "explanation": "史料差異可能來自觀點與記錄目的，需交叉比對。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-070",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "時間順序",
+        "question": "若要確認某地圖描繪的是荷蘭統治時期而非鄭氏時期，最關鍵的是？",
+        "options": [
+          "核對製圖年代與地圖內容",
+          "觀察地圖紙張是否泛黃",
+          "比較地圖大小"
+        ],
+        "answer": 0,
+        "explanation": "判斷歷史地圖的時期，須綜合製作年代與地圖標示的歷史資訊。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-071",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "國際競爭時期",
+        "question": "十七世紀歐洲勢力積極航向亞洲，與下列何者關聯最密切？",
+        "options": [
+          "亞洲完全沒有貿易活動",
+          "海上貿易利益與航路競爭",
+          "各國停止海外擴張"
+        ],
+        "answer": 1,
+        "explanation": "歐洲勢力的海外活動與商業利益、航路和殖民競爭密切相關。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-072",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "荷西時期",
+        "question": "若要研究西班牙人在臺灣北部的活動，哪一種資料組合較具參考價值？",
+        "options": [
+          "只有現代網路留言",
+          "只有現代小說",
+          "當時的航海紀錄、遺址與相關研究"
+        ],
+        "answer": 2,
+        "explanation": "同時運用文字史料、考古證據及研究，可提升推論可靠性。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-073",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "鄭氏時期",
+        "question": "比較鄭氏政權與荷蘭統治時期的土地利用，哪種提問最具有歷史分析價值？",
+        "options": [
+          "不同統治目的如何影響開墾政策？",
+          "哪個時代的地名比較好聽？",
+          "哪個時代的人比較聰明？"
+        ],
+        "answer": 0,
+        "explanation": "歷史比較應探討政策目的、制度與社會影響，避免主觀評價。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-074",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料判讀",
+        "question": "一份十七世紀文書以當時的貨幣單位記載交易，解讀金額時最需要注意？",
+        "options": [
+          "直接換算成今日同數字新臺幣",
+          "當時的貨幣制度與購買力不同",
+          "只看數字大小就能比較生活"
+        ],
+        "answer": 1,
+        "explanation": "跨時代貨幣的單位與價值不同，應先理解當時制度和物價背景。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-075",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "國際競爭時期",
+        "question": "若一港口因海上航線轉移而衰退，最適合用什麼觀點解釋？",
+        "options": [
+          "只歸因居民個性",
+          "只歸因氣候變暖",
+          "交通與貿易網絡的變化"
+        ],
+        "answer": 2,
+        "explanation": "港口興衰可能受到航路、貿易政策及競爭格局改變影響。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-076",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料判讀",
+        "question": "考古遺址出土多種來源的陶瓷器，最審慎的推論為何？",
+        "options": [
+          "該地可能參與跨區域物資交流",
+          "所有陶瓷都在當地製造",
+          "每位居民都曾出國"
+        ],
+        "answer": 0,
+        "explanation": "不同產地器物支持交流可能，但無法直接推論個人旅行經歷。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-077",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "鄭氏時期",
+        "question": "若要說明鄭氏政權與明清政局的關係，哪個背景最不可忽略？",
+        "options": [
+          "歐洲工業革命",
+          "明清鼎革與東亞海域政治變動",
+          "第二次世界大戰"
+        ],
+        "answer": 1,
+        "explanation": "鄭氏政權的形成及在臺活動與明清政權更替密切相關。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-078",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料判讀",
+        "question": "歷史文章寫「所有居民都支持某政策」，但只引用一名官員的報告，主要問題是？",
+        "options": [
+          "引用來源太古老",
+          "句子太短",
+          "以單一立場過度概括所有人的想法"
+        ],
+        "answer": 2,
+        "explanation": "單一官員記錄不能代表所有群體，應檢視資料代表性。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
       }
