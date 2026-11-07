@@ -5020,6 +5020,546 @@ const questionBankV105=[
         "explanation": "恆定性：維持體內環境在適當範圍。另外兩個選項不符合此概念的定義或功能。",
         "scopeStatus": "chapter_pending",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-060",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "使用複式顯微鏡時，若想先找到玻片標本，應優先使用哪種物鏡？",
+        "options": [
+          "低倍物鏡",
+          "高倍物鏡",
+          "直接使用油鏡"
+        ],
+        "answer": 0,
+        "explanation": "低倍物鏡視野較大，較容易先定位標本。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-061",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "從低倍物鏡換成高倍物鏡後，視野通常如何變化？",
+        "options": [
+          "範圍縮小、較暗",
+          "範圍變大、較亮",
+          "完全沒有變化"
+        ],
+        "answer": 0,
+        "explanation": "高倍放大使可見範圍縮小，進光量通常較少。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-062",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "在顯微鏡下觀察到影像位於視野左側，要讓影像移向中央，玻片應向哪邊移？",
+        "options": [
+          "左邊",
+          "右邊",
+          "上方"
+        ],
+        "answer": 0,
+        "explanation": "複式顯微鏡成像方向與玻片移動方向相反，影像在左時應將玻片向左移。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-063",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "觀察洋蔥表皮細胞，通常可見清楚的外圍界線主要是？",
+        "options": [
+          "細胞壁",
+          "葉綠體",
+          "纖毛"
+        ],
+        "answer": 0,
+        "explanation": "洋蔥表皮植物細胞有細胞壁，但一般不含葉綠體。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-064",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "紅血球與一般植物細胞相比，成熟哺乳類紅血球最顯著的特徵是？",
+        "options": [
+          "沒有細胞核",
+          "具有細胞壁",
+          "具有大型液胞"
+        ],
+        "answer": 0,
+        "explanation": "成熟哺乳類紅血球無細胞核，利於容納血紅素。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-065",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "葉肉細胞中負責光合作用的胞器是？",
+        "options": [
+          "葉綠體",
+          "粒線體",
+          "細胞核"
+        ],
+        "answer": 0,
+        "explanation": "葉綠體含葉綠素，可吸收光能進行光合作用。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-066",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "細胞膜的主要功能是？",
+        "options": [
+          "選擇性控制物質進出",
+          "製造全部遺傳物質",
+          "支撐植物莖幹的木質部"
+        ],
+        "answer": 0,
+        "explanation": "細胞膜具有選擇性通透性，調節細胞與外界物質交換。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-067",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "若細胞缺乏粒線體，哪項功能可能最直接受影響？",
+        "options": [
+          "有氧呼吸產生能量",
+          "細胞壁形成木栓層",
+          "葉綠素吸收光線"
+        ],
+        "answer": 0,
+        "explanation": "粒線體是多數真核細胞進行有氧呼吸的重要場所。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-068",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "擴散與滲透",
+        "question": "將葡萄乾泡在清水中逐漸膨脹，最能用哪種現象解釋？",
+        "options": [
+          "水分滲透進入細胞",
+          "葡萄乾產生新細胞",
+          "水分變成葡萄糖"
+        ],
+        "answer": 0,
+        "explanation": "水會因滲透作用進入相對高溶質濃度的細胞。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-069",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "擴散與滲透",
+        "question": "紅血球放入濃度遠高於細胞內的食鹽水，通常會如何？",
+        "options": [
+          "失水皺縮",
+          "吸水破裂",
+          "完全不受影響"
+        ],
+        "answer": 0,
+        "explanation": "外液濃度高時，水經滲透作用離開紅血球。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-070",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "擴散與滲透",
+        "question": "香水在房間內逐漸散開，主要是因為？",
+        "options": [
+          "分子擴散",
+          "細胞分裂",
+          "滲透壓造成空氣停止流動"
+        ],
+        "answer": 0,
+        "explanation": "香味分子由濃度較高處向低處擴散。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-071",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "光合作用",
+        "question": "將植物置於黑暗數日後，葉片澱粉檢測通常減少，最主要原因是？",
+        "options": [
+          "缺少光使光合作用無法持續製造糖",
+          "植物完全不呼吸",
+          "葉綠體全部消失"
+        ],
+        "answer": 0,
+        "explanation": "黑暗下無光合作用補充糖分，原有養分仍被呼吸消耗。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-072",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "光合作用",
+        "question": "水草受光照產生的氣泡，若確實來自光合作用，主要成分為？",
+        "options": [
+          "氧氣",
+          "氮氣",
+          "二氧化硫"
+        ],
+        "answer": 0,
+        "explanation": "光合作用分解水並釋出氧氣。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-073",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "光合作用",
+        "question": "在其他條件相同下，提高光照強度後光合作用速率先上升後趨平，代表？",
+        "options": [
+          "其他因素開始限制速率",
+          "植物不再需要水",
+          "光照強度無法影響光合作用"
+        ],
+        "answer": 0,
+        "explanation": "光照足夠後，二氧化碳、溫度等可能成為限制因素。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-074",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "光合作用",
+        "question": "用鋁箔遮住葉片一部分再照光，澱粉測試只有未遮蔽處變色，支持哪個推論？",
+        "options": [
+          "光是形成澱粉的重要條件",
+          "澱粉只存在葉脈",
+          "鋁箔會製造澱粉"
+        ],
+        "answer": 0,
+        "explanation": "遮蔽處無法受光，與未遮蔽處比較可檢驗光的影響。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-075",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "呼吸作用",
+        "question": "萌發中的種子放在密閉容器，若氧氣逐漸減少，最合理解釋是？",
+        "options": [
+          "種子進行呼吸作用",
+          "種子只進行光合作用",
+          "種子沒有代謝"
+        ],
+        "answer": 0,
+        "explanation": "萌發種子需要能量，呼吸作用會消耗氧氣。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-076",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "呼吸作用",
+        "question": "植物在白天是否仍進行呼吸作用？",
+        "options": [
+          "白天與夜晚都進行",
+          "只在夜晚進行",
+          "只在開花時進行"
+        ],
+        "answer": 0,
+        "explanation": "植物細胞持續需要能量，日夜都進行呼吸作用。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-077",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "呼吸作用",
+        "question": "運動時肌肉細胞耗氧量上升，主要因為？",
+        "options": [
+          "能量需求增加",
+          "肌肉停止代謝",
+          "血液不再運輸養分"
+        ],
+        "answer": 0,
+        "explanation": "運動使ATP需求上升，細胞呼吸通常增強。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-078",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "酵素",
+        "question": "將唾液與澱粉混合，在適宜溫度下澱粉逐漸減少，主要因為？",
+        "options": [
+          "唾液澱粉酶催化分解",
+          "唾液把澱粉變成脂肪",
+          "澱粉自行變成蛋白質"
+        ],
+        "answer": 0,
+        "explanation": "唾液澱粉酶可催化澱粉水解。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-079",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "酵素",
+        "question": "同一酵素在過高溫度下失去活性，可能因為？",
+        "options": [
+          "蛋白質立體結構改變",
+          "酵素變成金屬",
+          "酵素數量必然增加"
+        ],
+        "answer": 0,
+        "explanation": "多數酵素是蛋白質，高溫可能使其變性。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-080",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "酵素",
+        "question": "若某酵素在pH 2活性最高，推測它較可能適應哪種環境？",
+        "options": [
+          "胃內酸性環境",
+          "血液近中性環境",
+          "小腸偏鹼性環境"
+        ],
+        "answer": 0,
+        "explanation": "胃液呈強酸性，適合部分酸性蛋白酶。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-081",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "吃下飯糰後，澱粉的化學性消化最早可從哪裡開始？",
+        "options": [
+          "口腔",
+          "胃",
+          "大腸"
+        ],
+        "answer": 0,
+        "explanation": "唾液中的澱粉酶可在口腔開始分解澱粉。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-082",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "胃液中的鹽酸主要有何作用？",
+        "options": [
+          "提供酸性環境協助蛋白質消化",
+          "直接乳化脂肪",
+          "吸收全部葡萄糖"
+        ],
+        "answer": 0,
+        "explanation": "胃酸可使胃蛋白酶在適當酸度下作用。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-083",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "膽汁對脂肪消化的主要幫助是？",
+        "options": [
+          "乳化脂肪增加接觸面積",
+          "把脂肪直接變成胺基酸",
+          "將脂肪全部轉成澱粉"
+        ],
+        "answer": 0,
+        "explanation": "膽汁不是消化酵素，主要使脂肪分散成小滴。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-084",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "小腸內壁絨毛多，最直接的優點是？",
+        "options": [
+          "增加養分吸收面積",
+          "增加食物咀嚼效率",
+          "直接製造膽汁"
+        ],
+        "answer": 0,
+        "explanation": "絨毛擴大表面積，有利消化後養分吸收。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-085",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "消化系統",
+        "question": "若胰臟分泌消化液的功能受損，最可能影響？",
+        "options": [
+          "多種養分的化學性消化",
+          "食道的蠕動方向",
+          "牙齒琺瑯質顏色"
+        ],
+        "answer": 0,
+        "explanation": "胰液含多種消化酵素，可分解醣類、蛋白質及脂質。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-086",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "營養",
+        "question": "缺乏維生素C可能較容易出現哪種問題？",
+        "options": [
+          "牙齦出血與傷口癒合不良",
+          "夜盲症",
+          "甲狀腺腫大"
+        ],
+        "answer": 0,
+        "explanation": "維生素C不足會影響膠原蛋白形成，嚴重時可造成壞血病。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-087",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "營養",
+        "question": "食物中的蛋白質經消化後，主要吸收為？",
+        "options": [
+          "胺基酸",
+          "脂肪酸",
+          "澱粉"
+        ],
+        "answer": 0,
+        "explanation": "蛋白質經消化酵素分解為較小胜肽與胺基酸後吸收。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-088",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "營養",
+        "question": "哪一種營養素每公克提供的能量通常最高？",
+        "options": [
+          "脂質",
+          "醣類",
+          "蛋白質"
+        ],
+        "answer": 0,
+        "explanation": "脂質約每公克9大卡，醣類與蛋白質約4大卡。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-BATCH-089",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "實驗設計",
+        "question": "研究光照對水草產氧的影響，哪項條件最適合保持不變？",
+        "options": [
+          "水草種類與水溫",
+          "燈與水草距離",
+          "光照強度"
+        ],
+        "answer": 0,
+        "explanation": "控制水草種類與水溫，改變光照才能比較其影響。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
