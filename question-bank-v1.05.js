@@ -6455,6 +6455,222 @@ const questionBankV105=[
         "explanation": "以非攻擊方式表達感受、釐清需求有助於解決衝突。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-001",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親等計算",
+        "question": "自己與祖父母之間，依民法親等計算屬於幾親等直系血親？",
+        "options": [
+          "一親等",
+          "二親等",
+          "三親等"
+        ],
+        "answer": 1,
+        "explanation": "從自己到父母為一親等，再到祖父母為二親等。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-002",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "旁系血親",
+        "question": "自己與親兄弟姊妹之間屬於幾親等旁系血親？",
+        "options": [
+          "一親等",
+          "二親等",
+          "四親等"
+        ],
+        "answer": 1,
+        "explanation": "由自己上溯父母一代，再下數到兄弟姊妹一代，共二親等。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-003",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "姻親",
+        "question": "下列何者主要屬於姻親關係？",
+        "options": [
+          "父親與親生女兒",
+          "丈夫與妻子的母親",
+          "兩位親兄弟"
+        ],
+        "answer": 1,
+        "explanation": "配偶的血親是姻親，妻子的母親即岳母。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-004",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭型態",
+        "question": "祖父母、父母與子女共同生活，較符合哪一種家庭型態？",
+        "options": [
+          "核心家庭",
+          "折衷家庭",
+          "單人家庭"
+        ],
+        "answer": 1,
+        "explanation": "折衷家庭常包含夫妻、子女及一方父母等跨代成員。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-005",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭功能",
+        "question": "家人共同討論每月支出與儲蓄，最直接展現家庭的哪項功能？",
+        "options": [
+          "經濟功能",
+          "政治統治",
+          "司法審判"
+        ],
+        "answer": 0,
+        "explanation": "家庭透過資源分配與共同消費實現經濟功能。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-006",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "社會化",
+        "question": "孩子在家學習尊重他人、輪流表達，主要反映哪種家庭功能？",
+        "options": [
+          "社會化功能",
+          "立法功能",
+          "外交功能"
+        ],
+        "answer": 0,
+        "explanation": "家庭是個人學習社會規範與價值的重要場所。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-007",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "性別平等",
+        "question": "家務依能力與時間協商分工，而非只依性別，主要體現什麼？",
+        "options": [
+          "性別平等",
+          "年齡歧視",
+          "血緣優先"
+        ],
+        "answer": 0,
+        "explanation": "家務分工不應被固定的性別刻板印象限制。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-008",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭決策",
+        "question": "家庭討論搬家時，最能兼顧成員權益的方式是？",
+        "options": [
+          "由收入最高者獨斷",
+          "聽取受影響成員意見後協商",
+          "不讓孩子知道"
+        ],
+        "answer": 1,
+        "explanation": "搬家影響各成員生活，應透過適齡參與及協商決策。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-009",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "照顧責任",
+        "question": "雙薪家庭遇到幼兒照顧需求，哪項措施最能提供公共支持？",
+        "options": [
+          "公共托育服務",
+          "禁止家長就業",
+          "只讓女性照顧"
+        ],
+        "answer": 0,
+        "explanation": "公共托育能協助家庭分擔照顧需求。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-010",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭暴力",
+        "question": "家庭成員遭受暴力威脅時，哪項觀念最正確？",
+        "options": [
+          "家務事外人不得協助",
+          "可以尋求保護及社會資源",
+          "只能忍耐"
+        ],
+        "answer": 1,
+        "explanation": "家庭暴力不是私人可任意侵害的事，受害者可尋求保護與協助。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-011",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "人口變遷",
+        "question": "高齡人口增加時，家庭照顧需求可能如何改變？",
+        "options": [
+          "長期照顧需求提高",
+          "照顧需求必然消失",
+          "所有家庭都變成單人家庭"
+        ],
+        "answer": 0,
+        "explanation": "人口高齡化可能增加長期照顧與社會支持需求。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-EXP-012",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "多元家庭",
+        "question": "面對不同家庭組成的同學，哪種態度最符合尊重與平等？",
+        "options": [
+          "以家庭型態評斷人格",
+          "尊重差異並避免貼標籤",
+          "要求所有人家庭相同"
+        ],
+        "answer": 1,
+        "explanation": "家庭組成不同不代表人格或價值高低，應平等對待。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   }
