@@ -5560,6 +5560,204 @@ const questionBankV105=[
         "explanation": "控制水草種類與水溫，改變光照才能比較其影響。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-090",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "植物細胞中提供支撐、位於細胞膜外側的構造是？",
+        "options": [
+          "細胞壁",
+          "粒線體",
+          "細胞核"
+        ],
+        "answer": 0,
+        "explanation": "植物細胞壁位於細胞膜外，提供支持與保護。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-091",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "成熟植物細胞中通常較大的儲存空間是？",
+        "options": [
+          "液胞",
+          "核糖體",
+          "細胞膜"
+        ],
+        "answer": 0,
+        "explanation": "中央液胞可儲存水與溶質並協助維持膨壓。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-092",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "細胞構造",
+        "question": "細胞膜最重要的功能之一是？",
+        "options": [
+          "調控物質進出",
+          "製造陽光",
+          "形成骨骼"
+        ],
+        "answer": 0,
+        "explanation": "細胞膜具選擇性通透特性，調節物質進出。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-093",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "以目鏡10倍、物鏡40倍觀察，總放大倍率為？",
+        "options": [
+          "400倍",
+          "50倍",
+          "4倍"
+        ],
+        "answer": 0,
+        "explanation": "總放大倍率為目鏡倍率乘以物鏡倍率。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-094",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "切換高倍物鏡後，通常應優先使用哪個調焦裝置？",
+        "options": [
+          "細調節輪",
+          "粗調節輪大幅轉動",
+          "載玻片直接推向鏡頭"
+        ],
+        "answer": 0,
+        "explanation": "高倍觀察應以細調節輪微調以免鏡頭碰撞玻片。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-095",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "顯微鏡",
+        "question": "顯微鏡視野中影像偏左，要讓影像移向中央，玻片應向哪邊移？",
+        "options": [
+          "左方",
+          "右方",
+          "上方"
+        ],
+        "answer": 0,
+        "explanation": "複式顯微鏡影像與玻片移動方向相反，影像偏左時玻片往左移，影像往右。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-096",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "光合作用",
+        "question": "光合作用主要將光能轉換成哪種形式的能量？",
+        "options": [
+          "儲存在有機物中的化學能",
+          "聲能",
+          "核能"
+        ],
+        "answer": 0,
+        "explanation": "植物利用光能合成有機物，將能量儲存在化學鍵中。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-097",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "光合作用",
+        "question": "植物光合作用釋放的氧氣主要來自哪種物質？",
+        "options": [
+          "水",
+          "二氧化碳",
+          "葡萄糖"
+        ],
+        "answer": 0,
+        "explanation": "光反應中水被分解，釋放氧氣。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-098",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "呼吸作用",
+        "question": "細胞呼吸的主要功能是？",
+        "options": [
+          "釋放有機物中的能量供細胞使用",
+          "直接製造陽光",
+          "使所有細胞停止活動"
+        ],
+        "answer": 0,
+        "explanation": "細胞呼吸分解有機物並釋出可利用的能量。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-099",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "酵素",
+        "question": "高溫可能使酵素失去活性，主要原因是？",
+        "options": [
+          "蛋白質構形改變",
+          "所有底物變成金屬",
+          "水分必然結冰"
+        ],
+        "answer": 0,
+        "explanation": "酵素多為蛋白質，過高溫度可能改變其立體構形。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-BIO-NEW-100",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上生物第1～4章（逐題章節待核）",
+        "topic": "酵素",
+        "question": "研究溫度對酵素作用的影響時，哪項條件應盡量固定？",
+        "options": [
+          "酵素與受質用量",
+          "反應溫度",
+          "測試的溫度組別"
+        ],
+        "answer": 0,
+        "explanation": "控制酵素及受質用量才能比較不同溫度的影響。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
@@ -8181,6 +8379,402 @@ const questionBankV105=[
         ],
         "answer": 1,
         "explanation": "家庭組成不同不代表人格或價值高低，應平等對待。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-042",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭功能",
+        "question": "父母陪伴孩子討論挫折，主要展現家庭哪種功能？",
+        "options": [
+          "情感支持",
+          "商品生產",
+          "國防維護"
+        ],
+        "answer": 0,
+        "explanation": "傾聽與陪伴是家庭的情感支持功能。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-043",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭功能",
+        "question": "家人共同教導幼兒遵守生活規範，最接近哪種功能？",
+        "options": [
+          "社會化",
+          "貨幣發行",
+          "司法審判"
+        ],
+        "answer": 0,
+        "explanation": "家庭是個人最初學習價值與行為規範的場所。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-044",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭功能",
+        "question": "家人共同分攤房租、食物與水電費，主要呈現哪種功能？",
+        "options": [
+          "經濟支持",
+          "軍事防衛",
+          "外交協商"
+        ],
+        "answer": 0,
+        "explanation": "家庭透過資源共享提供成員經濟支持。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-045",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭分工",
+        "question": "家庭照顧工作應如何分配較合理？",
+        "options": [
+          "依成員能力及協商分工",
+          "完全按性別固定",
+          "只由最年長者負責"
+        ],
+        "answer": 0,
+        "explanation": "家務可依時間、能力及需要協調，不應以性別刻板分配。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-046",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭分工",
+        "question": "雙薪家庭成員工作時間不同，如何決定接送安排較適當？",
+        "options": [
+          "共同討論可行時間與責任",
+          "由薪資較低者一律負責",
+          "不需要討論"
+        ],
+        "answer": 0,
+        "explanation": "協商可兼顧成員的工作與照顧需求。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-047",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親屬關係",
+        "question": "一個人與母親的兄弟，屬於哪類親屬？",
+        "options": [
+          "旁系血親",
+          "直系血親",
+          "配偶"
+        ],
+        "answer": 0,
+        "explanation": "舅舅與自己有共同祖先但不是直系上下代關係。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-048",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親屬關係",
+        "question": "祖母與孫女之間屬於哪種關係？",
+        "options": [
+          "直系血親",
+          "姻親",
+          "沒有親屬關係"
+        ],
+        "answer": 0,
+        "explanation": "祖孫屬於上下世代的直系血親。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-049",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親屬關係",
+        "question": "一個人與配偶的父母之間，通常稱為？",
+        "options": [
+          "姻親",
+          "直系血親",
+          "同學"
+        ],
+        "answer": 0,
+        "explanation": "配偶的父母屬於因婚姻產生的姻親關係。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-050",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭型態",
+        "question": "祖父母與父母及孩子同住，通常屬於哪種家庭型態？",
+        "options": [
+          "三代家庭",
+          "單人家庭",
+          "單親家庭"
+        ],
+        "answer": 0,
+        "explanation": "祖父母、父母、子女三代共同生活屬三代家庭。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-051",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭型態",
+        "question": "孩子主要與一位父親或母親共同生活，通常稱為？",
+        "options": [
+          "單親家庭",
+          "核心家庭必有雙親",
+          "單人家庭"
+        ],
+        "answer": 0,
+        "explanation": "單親家庭指由一位家長主要照顧子女的家庭型態。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-052",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭溝通",
+        "question": "家人對升學意見不同時，哪種表達較能促進溝通？",
+        "options": [
+          "說明理由並傾聽對方",
+          "只用命令語氣",
+          "拒絕任何對話"
+        ],
+        "answer": 0,
+        "explanation": "互相傾聽並提出理由較有助於協商。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-053",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭溝通",
+        "question": "家庭會議中，年紀較小者提出合理意見，應如何對待？",
+        "options": [
+          "讓他充分表達",
+          "因年紀小直接否定",
+          "禁止參與"
+        ],
+        "answer": 0,
+        "explanation": "尊重成員意見不應僅以年齡決定發言權。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-054",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭權利",
+        "question": "未成年子女需要照顧，家長應採取哪種作法？",
+        "options": [
+          "提供適當生活與安全照顧",
+          "以放棄照顧作為懲罰",
+          "拒絕一切協助"
+        ],
+        "answer": 0,
+        "explanation": "照顧與保護未成年子女是家庭的重要責任。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-055",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭平等",
+        "question": "哪種作法最能避免家庭中的性別刻板印象？",
+        "options": [
+          "鼓勵每人依興趣發展",
+          "規定男生不能烹飪",
+          "規定女生不能修理家電"
+        ],
+        "answer": 0,
+        "explanation": "個人能力與興趣不應受性別刻板印象限制。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-056",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭平等",
+        "question": "兄妹同樣需要讀書空間，較公平的安排是？",
+        "options": [
+          "依實際需求協商使用",
+          "一律讓哥哥優先",
+          "一律讓妹妹優先"
+        ],
+        "answer": 0,
+        "explanation": "公平需考量雙方實際需求並合理協商。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-057",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭衝突",
+        "question": "家人爭執升高時，哪種做法較有助於避免傷害？",
+        "options": [
+          "暫停爭執並待冷靜後討論",
+          "以威脅逼迫服從",
+          "摔壞物品"
+        ],
+        "answer": 0,
+        "explanation": "暫停衝突、冷靜溝通有助於降低傷害。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-058",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭照顧",
+        "question": "家中長者行動不便，社會資源可能提供什麼協助？",
+        "options": [
+          "居家照顧服務",
+          "取消醫療需求",
+          "保證永不生病"
+        ],
+        "answer": 0,
+        "explanation": "居家照顧可協助有需求者的日常生活。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-059",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭照顧",
+        "question": "家中照顧者長期疲憊，最適合考慮哪項資源？",
+        "options": [
+          "喘息服務",
+          "停止所有支持",
+          "只靠意志忍耐"
+        ],
+        "answer": 0,
+        "explanation": "喘息服務讓照顧者獲得短暫休息與支持。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-060",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭照顧",
+        "question": "家中有幼兒需要照顧，哪種社會支持較相關？",
+        "options": [
+          "托育服務",
+          "國際貿易協定",
+          "交通號誌"
+        ],
+        "answer": 0,
+        "explanation": "托育服務可協助家庭分擔幼兒照顧需求。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-061",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭變遷",
+        "question": "家庭規模縮小可能對照顧工作產生何種影響？",
+        "options": [
+          "可分工的同住家人可能減少",
+          "照顧需求必定消失",
+          "每戶必有三代同堂"
+        ],
+        "answer": 0,
+        "explanation": "家庭成員減少可能使照顧人力更有限。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-062",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭變遷",
+        "question": "平均壽命延長，對家庭生活最可能產生什麼影響？",
+        "options": [
+          "跨世代照顧議題增加",
+          "所有人不再需要照顧",
+          "親屬關係消失"
+        ],
+        "answer": 0,
+        "explanation": "壽命延長可能增加長者照顧及跨世代支持需求。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-063",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭多元",
+        "question": "對不同家庭型態的同學，哪種行為最合適？",
+        "options": [
+          "避免以家庭組成開玩笑",
+          "假設只有一種正常家庭",
+          "要求說明私人家庭細節"
+        ],
+        "answer": 0,
+        "explanation": "尊重多元家庭並保護個人隱私有助於平等相處。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
       }
