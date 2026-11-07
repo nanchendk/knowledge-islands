@@ -1,5 +1,5 @@
 /* 七上第二次段考原創題庫；各題仍需核對正式教材章節。 */
-const questionBankV105=[
+const questionBankV105 = [
   {
     "subject": "國文",
     "unit": "語文常識與閱讀",
@@ -8171,6 +8171,222 @@ const questionBankV105=[
         ],
         "answer": 2,
         "explanation": "單一官員記錄不能代表所有群體，應檢視資料代表性。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-079",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "荷蘭據點",
+        "question": "荷蘭在臺灣建立的熱蘭遮城位於今日何處？",
+        "options": [
+          "臺北淡水",
+          "臺南安平",
+          "花蓮港"
+        ],
+        "answer": 1,
+        "explanation": "熱蘭遮城位於今日臺南安平。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-080",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "西班牙據點",
+        "question": "西班牙十七世紀在臺灣的主要活動區域為何？",
+        "options": [
+          "臺灣南部",
+          "臺灣東部",
+          "臺灣北部"
+        ],
+        "answer": 2,
+        "explanation": "西班牙曾在雞籠、淡水等北部地區活動。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-081",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "荷西競爭",
+        "question": "1642年西班牙在臺勢力退出北部，與哪個勢力的攻擊有關？",
+        "options": [
+          "荷蘭",
+          "鄭氏",
+          "清朝"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭於1642年攻下西班牙在北臺灣的據點。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-082",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "鄭氏時序",
+        "question": "鄭成功進攻臺灣發生於哪一年？",
+        "options": [
+          "1683年",
+          "1661年",
+          "1895年"
+        ],
+        "answer": 1,
+        "explanation": "鄭成功於1661年率軍攻臺。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-083",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "清鄭更替",
+        "question": "清廷接收鄭氏統治的臺灣發生於哪一年？",
+        "options": [
+          "1624年",
+          "1945年",
+          "1683年"
+        ],
+        "answer": 2,
+        "explanation": "清軍於1683年擊敗鄭氏政權並接收臺灣。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-084",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料辨識",
+        "question": "研究十七世紀鹿皮出口數量，哪項資料最有直接參考價值？",
+        "options": [
+          "當時商館貨物帳冊",
+          "今日捷運時刻表",
+          "現代觀光手冊"
+        ],
+        "answer": 0,
+        "explanation": "當時商館的貨物帳冊可能記錄鹿皮出口。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-085",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料比較",
+        "question": "兩份航海日誌對風向記載不同，最先應比對哪個條件？",
+        "options": [
+          "作者的姓名筆畫",
+          "日期與觀測位置",
+          "書本頁數"
+        ],
+        "answer": 1,
+        "explanation": "不同日期和位置的風向可能不同。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-086",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "歷史地圖",
+        "question": "將十七世紀地圖與今日地圖疊合時，應注意什麼？",
+        "options": [
+          "所有地名完全不變",
+          "古地圖必定精確",
+          "地名與海岸線可能改變"
+        ],
+        "answer": 2,
+        "explanation": "歷史地名、地貌及測繪精度都可能不同。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-087",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "傳教史",
+        "question": "西班牙在臺灣北部的活動，除了軍事設施也包含什麼？",
+        "options": [
+          "天主教傳教",
+          "高鐵興建",
+          "電信基地臺建設"
+        ],
+        "answer": 0,
+        "explanation": "西班牙勢力曾在北臺灣進行天主教傳教。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-088",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "鄭氏行政",
+        "question": "臺灣史中的「承天府」與哪個政權有關？",
+        "options": [
+          "日本統治",
+          "鄭氏政權",
+          "中華民國戰後"
+        ],
+        "answer": 1,
+        "explanation": "承天府為鄭氏時期在臺設置的行政單位。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-089",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "荷蘭語言資料",
+        "question": "荷蘭時期部分傳教士以羅馬字記錄在地語言，這些材料可用來研究什麼？",
+        "options": [
+          "現代手機通訊",
+          "十九世紀鐵路",
+          "當時部分族群語言"
+        ],
+        "answer": 2,
+        "explanation": "這些文字記錄可提供部分在地語言的歷史線索。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-090",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料交叉驗證",
+        "question": "若要檢驗戰爭是否導致十七世紀港口貿易減少，應優先比較哪兩項資料？",
+        "options": [
+          "戰事年代與船舶進出紀錄",
+          "今日菜單與電視節目",
+          "現代氣溫與人口身高"
+        ],
+        "answer": 0,
+        "explanation": "比較戰事時間與貿易紀錄有助於判斷關聯。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
       }
