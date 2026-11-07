@@ -586,7 +586,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數使用 plays。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-2",
@@ -602,7 +603,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數使用 reads。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-3",
@@ -618,7 +620,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數使用 watches。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-4",
@@ -634,7 +637,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數使用 washes。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-5",
@@ -650,7 +654,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數使用 studies。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-6",
@@ -666,7 +671,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數使用 goes。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-7",
@@ -682,7 +688,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數使用 teaches。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-8",
@@ -698,7 +705,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數使用 does。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-9",
@@ -714,7 +722,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數使用 fixes。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-10",
@@ -730,7 +739,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數使用 carries。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-11",
@@ -746,7 +756,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數使用 cooks。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-12",
@@ -762,7 +773,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數使用 draws。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-13",
@@ -778,7 +790,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數使用 drinks。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-14",
@@ -794,7 +807,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數使用 eats。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-15",
@@ -810,7 +824,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數使用 visits。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-16",
@@ -826,7 +841,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數使用 cleans。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-17",
@@ -842,7 +858,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數使用 writes。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-18",
@@ -858,7 +875,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數使用 sings。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-19",
@@ -874,7 +892,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數使用 helps。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-20",
@@ -890,7 +909,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數使用 walks。",
         "topic": "肯定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-21",
@@ -906,7 +926,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-22",
@@ -922,7 +943,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-23",
@@ -938,7 +960,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-24",
@@ -954,7 +977,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-25",
@@ -970,7 +994,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-26",
@@ -986,7 +1011,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-27",
@@ -1002,7 +1028,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-28",
@@ -1018,7 +1045,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-29",
@@ -1034,7 +1062,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-30",
@@ -1050,7 +1079,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-31",
@@ -1066,7 +1096,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-32",
@@ -1082,7 +1113,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-33",
@@ -1098,7 +1130,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-34",
@@ -1114,7 +1147,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-35",
@@ -1130,7 +1164,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-36",
@@ -1146,7 +1181,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-37",
@@ -1162,7 +1198,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-38",
@@ -1178,7 +1215,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-39",
@@ -1194,7 +1232,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-40",
@@ -1210,7 +1249,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞疑問句用 Does。",
         "topic": "疑問句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-41",
@@ -1226,7 +1266,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-42",
@@ -1242,7 +1283,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-43",
@@ -1258,7 +1300,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-44",
@@ -1274,7 +1317,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-45",
@@ -1290,7 +1334,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-46",
@@ -1306,7 +1351,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-47",
@@ -1322,7 +1368,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-48",
@@ -1338,7 +1385,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-49",
@@ -1354,7 +1402,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-50",
@@ -1370,7 +1419,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-51",
@@ -1386,7 +1436,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-52",
@@ -1402,7 +1453,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-53",
@@ -1418,7 +1470,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-54",
@@ -1434,7 +1487,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-55",
@@ -1450,7 +1504,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-56",
@@ -1466,7 +1521,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-57",
@@ -1482,7 +1538,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-58",
@@ -1498,7 +1555,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-59",
@@ -1514,7 +1572,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-60",
@@ -1530,7 +1589,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數一般動詞否定句用 doesn't。",
         "topic": "否定句",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-61",
@@ -1546,7 +1606,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-62",
@@ -1562,7 +1623,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-63",
@@ -1578,7 +1640,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-64",
@@ -1594,7 +1657,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-65",
@@ -1610,7 +1674,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-66",
@@ -1626,7 +1691,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-67",
@@ -1642,7 +1708,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-68",
@@ -1658,7 +1725,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-69",
@@ -1674,7 +1742,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-70",
@@ -1690,7 +1759,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-71",
@@ -1706,7 +1776,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-72",
@@ -1722,7 +1793,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-73",
@@ -1738,7 +1810,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-74",
@@ -1754,7 +1827,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-75",
@@ -1770,7 +1844,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-76",
@@ -1786,7 +1861,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-77",
@@ -1802,7 +1878,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-78",
@@ -1818,7 +1895,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-79",
@@ -1834,23 +1912,25 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "複數主詞搭配動詞原形。",
         "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-80",
         "stage": 4,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "My friends ___ to school every week.",
+        "question": "Which sentence uses the correct subject–verb agreement with 'each of the students'?",
         "options": [
-          "walks",
-          "does walk",
-          "walk"
+          "Each of the students has a book.",
+          "Each of the students have a book.",
+          "Each of the students having a book."
         ],
-        "answer": 2,
-        "explanation": "複數主詞搭配動詞原形。",
-        "topic": "複數主詞",
-        "scopeStatus": "provisional"
+        "answer": 0,
+        "explanation": "Each of the students 的主詞核心為 each，視為單數，因此用 has。",
+        "topic": "主詞動詞一致",
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-81",
@@ -1866,7 +1946,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-82",
@@ -1882,7 +1963,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-83",
@@ -1898,7 +1980,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-84",
@@ -1914,7 +1997,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-85",
@@ -1930,7 +2014,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-86",
@@ -1946,7 +2031,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-87",
@@ -1962,7 +2048,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-88",
@@ -1978,7 +2065,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-89",
@@ -1994,7 +2082,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-90",
@@ -2010,7 +2099,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-91",
@@ -2026,7 +2116,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-92",
@@ -2042,7 +2133,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-93",
@@ -2058,7 +2150,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-94",
@@ -2074,7 +2167,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-95",
@@ -2090,7 +2184,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-96",
@@ -2106,7 +2201,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-97",
@@ -2122,7 +2218,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-98",
@@ -2138,7 +2235,8 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-99",
@@ -2154,7 +2252,8 @@ const questionBankV105=[
         "answer": 2,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       },
       {
         "id": "G7S1-英文-ORIG-100",
@@ -2170,7 +2269,8 @@ const questionBankV105=[
         "answer": 1,
         "explanation": "第三人稱單數肯定句使用動詞第三人稱單數形式。",
         "topic": "句型判斷",
-        "scopeStatus": "provisional"
+        "scopeStatus": "provisional",
+        "chapter": "康軒七上第3–4課（逐題待核）"
       }
     ]
   },
@@ -3627,258 +3727,258 @@ const questionBankV105=[
         "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-CH2-086",
-        "stage": 2,
+        "id": "G7S1-數學-CH2-CONCEPT-001",
+        "stage": 1,
         "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 4/7 ÷ 5/4，結果為何？",
+        "difficulty": "進階",
+        "question": "下列何者是 84 的質因數？",
         "options": [
-          "5/7",
-          "4/7",
-          "16/35"
+          "7",
+          "9",
+          "14"
         ],
-        "answer": 2,
-        "explanation": "除以非零分數等於乘以倒數：(4×4)/(7×5)=16/35。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
+        "answer": 0,
+        "explanation": "84＝2²×3×7，因此7是質因數；9與14皆非質數。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "因數與倍數",
         "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-CH2-087",
+        "id": "G7S1-數學-CH2-CONCEPT-002",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "將 180 寫成標準分解式，何者正確？",
+        "options": [
+          "2²×3²×5",
+          "2×3²×10",
+          "2³×3×5"
+        ],
+        "answer": 0,
+        "explanation": "180＝18×10＝2²×3²×5。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "質因數分解",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-003",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "計算 5/8 ÷ 6/5，結果為何？",
+        "question": "24與36的最大公因數是多少？",
         "options": [
-          "5/8",
-          "25/48",
+          "12",
+          "6",
+          "72"
+        ],
+        "answer": 0,
+        "explanation": "24＝2³×3，36＝2²×3²，共同質因數取較小次方，得到12。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "最大公因數",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-004",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "18與24的最小公倍數是多少？",
+        "options": [
+          "72",
+          "6",
+          "144"
+        ],
+        "answer": 0,
+        "explanation": "18＝2×3²，24＝2³×3，取各質因數較大次方得2³×3²＝72。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "最小公倍數",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-005",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "下列哪一組數互質？",
+        "options": [
+          "8與15",
+          "9與21",
+          "14與35"
+        ],
+        "answer": 0,
+        "explanation": "8與15沒有大於1的公因數；其他兩組分別有3與7。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "互質判斷",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-006",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "有30枝鉛筆與42塊橡皮擦，要平均分成最多份且每份兩種物品都一樣多，最多分幾份？",
+        "options": [
+          "6",
+          "12",
+          "72"
+        ],
+        "answer": 0,
+        "explanation": "最多份數為30與42的最大公因數6。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "公因數應用",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-007",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "兩盞燈分別每6秒與8秒閃一次，同時閃後至少再過幾秒會同時閃？",
+        "options": [
+          "24",
+          "14",
+          "48"
+        ],
+        "answer": 0,
+        "explanation": "求6與8的最小公倍數為24秒。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "公倍數應用",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-008",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "下列分數何者最大？",
+        "options": [
+          "5/6",
+          "7/9",
           "3/4"
         ],
-        "answer": 1,
-        "explanation": "除以非零分數等於乘以倒數：(5×5)/(8×6)=25/48。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-088",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 2 ÷ 7/6，結果為何？",
-        "options": [
-          "12/7",
-          "7/3",
-          "2"
-        ],
         "answer": 0,
-        "explanation": "除以非零分數等於乘以倒數：(6×6)/(3×7)=12/7。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
+        "explanation": "通分為36分母，分別是30/36、28/36、27/36。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "分數比較",
         "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-CH2-089",
+        "id": "G7S1-數學-CH2-CONCEPT-009",
         "stage": 1,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "計算 7/4 ÷ 8/7，結果為何？",
+        "question": "計算 1/2＋3/4×2/3，結果為何？",
         "options": [
-          "2",
-          "7/4",
-          "49/32"
-        ],
-        "answer": 2,
-        "explanation": "除以非零分數等於乘以倒數：(7×7)/(4×8)=49/32。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-090",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "進階",
-        "question": "計算 8/5 ÷ 1/4，結果為何？",
-        "options": [
-          "8/5",
-          "32/5",
-          "2/5"
-        ],
-        "answer": 1,
-        "explanation": "除以非零分數等於乘以倒數：(8×8)/(5×2)=32/5。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-091",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 3/2 ÷ 3/4，結果為何？",
-        "options": [
-          "2",
-          "9/8",
-          "3/2"
-        ],
-        "answer": 0,
-        "explanation": "除以非零分數等於乘以倒數：(9×4)/(6×3)=2。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-092",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 2/7 ÷ 4/5，結果為何？",
-        "options": [
-          "8/35",
-          "2/7",
-          "5/14"
-        ],
-        "answer": 2,
-        "explanation": "除以非零分數等於乘以倒數：(2×5)/(7×4)=5/14。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-093",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 3/8 ÷ 5/6，結果為何？",
-        "options": [
-          "3/8",
-          "9/20",
-          "5/16"
-        ],
-        "answer": 1,
-        "explanation": "除以非零分數等於乘以倒數：(3×6)/(8×5)=9/20。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-094",
-        "stage": 2,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 4/3 ÷ 6/7，結果為何？",
-        "options": [
-          "14/9",
-          "8/7",
-          "4/3"
-        ],
-        "answer": 0,
-        "explanation": "除以非零分數等於乘以倒數：(4×7)/(3×6)=14/9。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-095",
-        "stage": 3,
-        "type": "single_choice",
-        "difficulty": "進階",
-        "question": "計算 5/4 ÷ 7/8，結果為何？",
-        "options": [
-          "35/32",
-          "5/4",
-          "10/7"
-        ],
-        "answer": 2,
-        "explanation": "除以非零分數等於乘以倒數：(5×8)/(4×7)=10/7。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-096",
-        "stage": 4,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 6/5 ÷ 2，結果為何？",
-        "options": [
-          "6/5",
-          "3/5",
-          "12/5"
-        ],
-        "answer": 1,
-        "explanation": "除以非零分數等於乘以倒數：(6×4)/(5×8)=3/5。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
-        "scopeStatus": "chapter_pending_verification"
-      },
-      {
-        "id": "G7S1-數學-CH2-097",
-        "stage": 1,
-        "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 7/6 ÷ 2/5，結果為何？",
-        "options": [
-          "35/12",
-          "7/15",
+          "1",
+          "5/6",
           "7/6"
         ],
         "answer": 0,
-        "explanation": "除以非零分數等於乘以倒數：(7×5)/(6×2)=35/12。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
+        "explanation": "先乘除後加減：3/4×2/3＝1/2，再加1/2得1。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "分數混合運算",
         "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-CH2-098",
+        "id": "G7S1-數學-CH2-CONCEPT-010",
         "stage": 2,
         "type": "single_choice",
-        "difficulty": "基礎",
-        "question": "計算 8/7 ÷ 1/2，結果為何？",
+        "difficulty": "進階",
+        "question": "計算 (-2/3)÷(4/9)，結果為何？",
         "options": [
-          "4/7",
-          "8/7",
-          "16/7"
+          "-3/2",
+          "-8/27",
+          "3/2"
         ],
-        "answer": 2,
-        "explanation": "除以非零分數等於乘以倒數：(8×6)/(7×3)=16/7。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
+        "answer": 0,
+        "explanation": "除以4/9等於乘9/4，得-18/12＝-3/2。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "負分數運算",
         "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-CH2-099",
+        "id": "G7S1-數學-CH2-CONCEPT-011",
         "stage": 3,
         "type": "single_choice",
         "difficulty": "基礎",
-        "question": "計算 9/8 ÷ 4/7，結果為何？",
+        "question": "2³×2⁴等於下列何者？",
         "options": [
-          "9/8",
-          "63/32",
-          "9/14"
+          "2⁷",
+          "2¹²",
+          "4⁷"
         ],
-        "answer": 1,
-        "explanation": "除以非零分數等於乘以倒數：(9×7)/(8×4)=63/32。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
+        "answer": 0,
+        "explanation": "同底數相乘，指數相加，3＋4＝7。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "指數律",
         "scopeStatus": "chapter_pending_verification"
       },
       {
-        "id": "G7S1-數學-CH2-100",
+        "id": "G7S1-數學-CH2-CONCEPT-012",
         "stage": 4,
         "type": "single_choice",
-        "difficulty": "進階",
-        "question": "計算 2/3 ÷ 5/8，結果為何？",
+        "difficulty": "基礎",
+        "question": "(3²)³等於下列何者？",
         "options": [
-          "16/15",
-          "5/12",
-          "2/3"
+          "3⁶",
+          "3⁵",
+          "3⁹"
         ],
         "answer": 0,
-        "explanation": "除以非零分數等於乘以倒數：(2×8)/(3×5)=16/15。",
-        "chapter": "第二單元（分數運算；教材目錄待核）",
-        "topic": "分數除法",
+        "explanation": "冪的乘方，指數相乘，2×3＝6。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "指數律",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-013",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "5⁶÷5²等於下列何者？",
+        "options": [
+          "5⁴",
+          "5³",
+          "1⁴"
+        ],
+        "answer": 0,
+        "explanation": "同底數相除，指數相減，6－2＝4。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "指數律",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-014",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "-7/4的倒數為何？",
+        "options": [
+          "-4/7",
+          "4/7",
+          "7/4"
+        ],
+        "answer": 0,
+        "explanation": "非零分數的倒數交換分子分母，正負號不變。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "分數與倒數",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-數學-CH2-CONCEPT-015",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "一條繩子長3/4公尺，取其中的2/3，取出的長度是多少公尺？",
+        "options": [
+          "1/2",
+          "5/7",
+          "9/8"
+        ],
+        "answer": 0,
+        "explanation": "求部分的部分用乘法：3/4×2/3＝1/2。",
+        "chapter": "康軒七上第二單元（細目待核）",
+        "topic": "分數乘法應用",
         "scopeStatus": "chapter_pending_verification"
       }
     ]
