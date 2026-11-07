@@ -9859,6 +9859,186 @@ const questionBankV105 = [
         "explanation": "海蝕崖常見於岩岸侵蝕環境；沙洲是沉積作用形成。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-073",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線判讀",
+        "question": "同一張等高線圖上，甲坡等高線間距密集、乙坡間距疏遠，何者正確？",
+        "options": [
+          "甲坡較陡",
+          "乙坡較陡",
+          "兩坡坡度必定相同"
+        ],
+        "answer": 0,
+        "explanation": "同樣高差在較短水平距離內發生，坡度較陡。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-074",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "河川侵蝕",
+        "question": "河流上游河谷通常較狹窄且坡降大，最主要與何種作用有關？",
+        "options": [
+          "河水向下侵蝕較明顯",
+          "海浪堆積較旺盛",
+          "風成沙丘移動"
+        ],
+        "answer": 0,
+        "explanation": "河川上游常以向下侵蝕為主，形成較深狹的谷地。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-075",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "沖積扇",
+        "question": "山區河流流出谷口進入平原，因流速下降而堆積形成的扇形地形稱為？",
+        "options": [
+          "沖積扇",
+          "海蝕平台",
+          "冰斗"
+        ],
+        "answer": 0,
+        "explanation": "河流離開山谷後坡度減小、搬運能力降低，沉積物常呈扇形分布。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-076",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "三角洲",
+        "question": "河流入海口若泥沙供應充足、海浪與潮流搬運較弱，較容易形成？",
+        "options": [
+          "三角洲",
+          "海蝕洞",
+          "斷層崖"
+        ],
+        "answer": 0,
+        "explanation": "河口泥沙堆積速度超過被搬離速度時，可能逐漸形成三角洲。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-077",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸作用",
+        "question": "海蝕洞與海蝕拱門的形成主要反映哪一種外營力？",
+        "options": [
+          "波浪侵蝕",
+          "河流堆積",
+          "風力堆積"
+        ],
+        "answer": 0,
+        "explanation": "波浪持續侵蝕岩岸弱面，可能逐步形成海蝕洞與拱門。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-078",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "岩岸與沙岸",
+        "question": "若某海岸有寬廣沙灘且沙粒持續累積，最合理的判斷是？",
+        "options": [
+          "該處存在顯著的沉積作用",
+          "完全沒有波浪",
+          "一定位於高山山頂"
+        ],
+        "answer": 0,
+        "explanation": "沙灘是沉積地形，但仍可能受波浪與沿岸流影響。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-079",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "河流曲流",
+        "question": "曲流河段外側河岸通常較容易受到侵蝕，原因是？",
+        "options": [
+          "外側流速往往較快",
+          "外側永遠沒有水流",
+          "外側必定比內側高一千公尺"
+        ],
+        "answer": 0,
+        "explanation": "曲流外側流速通常較快、侵蝕較強；內側較易堆積。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-080",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "河階形成",
+        "question": "河階常見於河流重新下切後，原先的河床或氾濫平原留下較高的平台。此敘述何者正確？",
+        "options": [
+          "河階可記錄河川侵蝕與地形變化",
+          "河階只能由海浪形成",
+          "河階不可能出現在河谷"
+        ],
+        "answer": 0,
+        "explanation": "河階是河流下切後保留的舊河床或河漫灘面，可反映地形演變。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-081",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形與聚落",
+        "question": "在山區與平原交界處，聚落常偏好交通便利且相對平坦的地帶，主要考量是？",
+        "options": [
+          "建設與往來較便利",
+          "坡度越陡越容易建築",
+          "必定完全不會發生災害"
+        ],
+        "answer": 0,
+        "explanation": "地勢平坦、交通便利通常有利於聚落發展，但仍需評估洪水等風險。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-082",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "坡地災害",
+        "question": "豪雨期間，陡坡且地表植被遭大量移除的地區，較應留意何種風險？",
+        "options": [
+          "崩塌與土石流",
+          "海水結冰",
+          "沙漠冰川擴張"
+        ],
+        "answer": 0,
+        "explanation": "強降雨提高坡地含水量，植被減少也可能降低坡面穩定性。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
