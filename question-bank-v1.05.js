@@ -5955,6 +5955,546 @@ const questionBankV105=[
         "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
         "topic": "臺灣地形",
         "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-GEO-BATCH-025",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線",
+        "question": "同一條等高線上的各點具有什麼共同特徵？",
+        "options": [
+          "海拔高度相同",
+          "坡度相同",
+          "氣溫相同"
+        ],
+        "answer": 0,
+        "explanation": "等高線連結海拔相同的地點。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-026",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線",
+        "question": "等高線在地圖上越密集，通常表示？",
+        "options": [
+          "坡度越陡",
+          "坡度越緩",
+          "海拔必然越低"
+        ],
+        "answer": 0,
+        "explanation": "相同高差在較短水平距離內出現，坡度較陡。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-027",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線",
+        "question": "等高線呈封閉圈且數值往中心升高，通常代表？",
+        "options": [
+          "山峰",
+          "河口",
+          "海灣"
+        ],
+        "answer": 0,
+        "explanation": "高度向內增加的封閉等高線常表示山丘或山峰。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-028",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線",
+        "question": "若等高線形成V字且尖端朝高處，通常代表？",
+        "options": [
+          "河谷",
+          "山稜",
+          "海岸沙洲"
+        ],
+        "answer": 0,
+        "explanation": "河谷的等高線V形尖端一般指向上游高處。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-029",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線",
+        "question": "地圖比例尺為1:50000，圖上2公分代表實際多少公里？",
+        "options": [
+          "1公里",
+          "10公里",
+          "100公里"
+        ],
+        "answer": 0,
+        "explanation": "2×50000公分等於100000公分，即1公里。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-030",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "河流上游坡陡流急，最常見的地形作用為？",
+        "options": [
+          "向下侵蝕",
+          "海水堆積",
+          "風蝕"
+        ],
+        "answer": 0,
+        "explanation": "上游流速快、落差大，常以下切侵蝕為主。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-031",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "河流流出山區進入平地時，常因流速降低形成？",
+        "options": [
+          "沖積扇",
+          "冰河谷",
+          "海蝕洞"
+        ],
+        "answer": 0,
+        "explanation": "搬運物在坡度突然降低處堆積，形成扇狀地形。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-032",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "河流出海口附近泥沙堆積，可能形成？",
+        "options": [
+          "三角洲",
+          "斷層崖",
+          "火山錐"
+        ],
+        "answer": 0,
+        "explanation": "河流攜帶的沉積物在河口累積可形成三角洲。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-033",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "河流彎曲處的外側河岸，通常以哪種作用為主？",
+        "options": [
+          "侵蝕",
+          "堆積",
+          "火山噴發"
+        ],
+        "answer": 0,
+        "explanation": "外側水流較快，通常侵蝕較強。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-034",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "河流彎曲處的內側河岸，通常較容易？",
+        "options": [
+          "堆積泥沙",
+          "形成海蝕崖",
+          "產生岩漿"
+        ],
+        "answer": 0,
+        "explanation": "內側流速較慢，較容易沉積泥沙。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-035",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "臺灣平原主要分布在西部，與哪項條件較相關？",
+        "options": [
+          "西部河川沖積堆積廣",
+          "西部完全沒有山脈",
+          "西部終年積雪"
+        ],
+        "answer": 0,
+        "explanation": "西部河川長期搬運堆積沉積物，形成較廣平原。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-036",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "臺灣中央山脈主要沿哪個方向延伸？",
+        "options": [
+          "南北向",
+          "東西向",
+          "東北—西南完全水平"
+        ],
+        "answer": 0,
+        "explanation": "中央山脈大致呈南北向縱貫臺灣。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-037",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "花東縱谷主要位於哪兩座山脈之間？",
+        "options": [
+          "中央山脈與海岸山脈",
+          "雪山山脈與玉山山脈",
+          "阿里山山脈與雪山山脈"
+        ],
+        "answer": 0,
+        "explanation": "花東縱谷位於中央山脈東側與海岸山脈西側之間。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-038",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "臺灣東部平原通常較狹窄，最主要的地形原因是？",
+        "options": [
+          "山地接近海岸",
+          "河川完全不存在",
+          "東部海水較冷"
+        ],
+        "answer": 0,
+        "explanation": "東部山脈靠近海岸，留給平原發育的空間較小。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-039",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸",
+        "question": "海浪長期侵蝕岩岸，較可能形成？",
+        "options": [
+          "海蝕平台",
+          "沖積扇",
+          "河階"
+        ],
+        "answer": 0,
+        "explanation": "海浪侵蝕岩岸可逐步形成海蝕平台。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-040",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸",
+        "question": "沿岸漂沙在海灣附近堆積，可能形成哪種地形？",
+        "options": [
+          "沙嘴",
+          "峽谷",
+          "火山口"
+        ],
+        "answer": 0,
+        "explanation": "沿岸流搬運砂粒並堆積，可能形成沙嘴。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-041",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸",
+        "question": "潟湖與外海之間常由哪種地形部分阻隔？",
+        "options": [
+          "沙洲",
+          "斷層",
+          "山頂"
+        ],
+        "answer": 0,
+        "explanation": "沿岸堆積形成沙洲，可使部分海水與外海隔開。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-042",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸",
+        "question": "臺灣北部岬灣海岸較曲折，與何種作用關係密切？",
+        "options": [
+          "差異侵蝕",
+          "冰河堆積",
+          "沙漠風蝕"
+        ],
+        "answer": 0,
+        "explanation": "岩性抗蝕程度不同，受海浪侵蝕後形成岬灣。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-043",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸",
+        "question": "臺灣西南沿海常見較平直的沙岸，主要與何者有關？",
+        "options": [
+          "河川供沙與沿岸堆積",
+          "高山冰河切割",
+          "火山熔岩冷卻"
+        ],
+        "answer": 0,
+        "explanation": "河川供應泥沙並由海流搬運堆積。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-044",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸",
+        "question": "珊瑚礁生長通常較適合哪種環境？",
+        "options": [
+          "溫暖清澈的淺海",
+          "冰封深海",
+          "高濁度河口"
+        ],
+        "answer": 0,
+        "explanation": "造礁珊瑚通常適合溫暖、透光的淺海環境。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-045",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形災害",
+        "question": "豪雨時陡坡山區最需要留意哪項地形災害？",
+        "options": [
+          "土石流與崩塌",
+          "海嘯必然發生",
+          "沙塵暴必然發生"
+        ],
+        "answer": 0,
+        "explanation": "豪雨使坡地土壤含水增加，可能誘發崩塌及土石流。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-046",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形災害",
+        "question": "在河川行水區大量興建建築物，最直接增加哪種風險？",
+        "options": [
+          "洪水侵襲",
+          "火山噴發",
+          "地磁反轉"
+        ],
+        "answer": 0,
+        "explanation": "行水區本是洪水通過空間，建築物可能遭受淹水。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-047",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形災害",
+        "question": "山坡地植被被大量移除，可能造成什麼影響？",
+        "options": [
+          "土壤沖蝕加劇",
+          "坡地完全不再侵蝕",
+          "河流停止流動"
+        ],
+        "answer": 0,
+        "explanation": "缺乏植被保護時雨水較易沖刷土壤。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-048",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形災害",
+        "question": "若聚落位於低窪沖積平原，規劃時應優先考量？",
+        "options": [
+          "排水與淹水風險",
+          "雪崩路線",
+          "火山熔岩湖"
+        ],
+        "answer": 0,
+        "explanation": "低窪平原在強降雨時可能積水。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-049",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖判讀",
+        "question": "地形剖面圖主要用來呈現？",
+        "options": [
+          "沿指定路線的高度起伏",
+          "行政人口總數",
+          "海水鹽度分布"
+        ],
+        "answer": 0,
+        "explanation": "剖面圖顯示沿線地表高度變化。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-050",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖判讀",
+        "question": "在地圖上判讀山脈走向，最適合參考？",
+        "options": [
+          "等高線與稜線延伸方向",
+          "圖例字體大小",
+          "地名筆畫"
+        ],
+        "answer": 0,
+        "explanation": "稜線及等高線分布能呈現山脈延伸方向。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-051",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖判讀",
+        "question": "若兩點海拔分別為200公尺與650公尺，高差為？",
+        "options": [
+          "450公尺",
+          "850公尺",
+          "325公尺"
+        ],
+        "answer": 0,
+        "explanation": "650減200等於450公尺。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-052",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖判讀",
+        "question": "一座山的等高線間距為100公尺，相鄰兩條等高線的高度差為？",
+        "options": [
+          "100公尺",
+          "10公尺",
+          "1000公尺"
+        ],
+        "answer": 0,
+        "explanation": "等高距定義為相鄰等高線的高度差。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-053",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖判讀",
+        "question": "山稜上的等高線V字尖端通常朝向？",
+        "options": [
+          "較低處",
+          "較高處",
+          "一定朝北"
+        ],
+        "answer": 0,
+        "explanation": "山稜等高線彎曲處通常朝低處凸出，與河谷相反。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-BATCH-054",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形",
+        "question": "臺灣高山多且地勢陡峭，對河川長度常造成何種影響？",
+        "options": [
+          "河川多短而急",
+          "河川全部極長且平緩",
+          "河川沒有侵蝕力"
+        ],
+        "answer": 0,
+        "explanation": "山地距海近且落差大，河川多短急。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
