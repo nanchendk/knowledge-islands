@@ -863,6 +863,366 @@ const questionBankV105=[
         "explanation": "記敘事件可依起因、經過、結果建立脈絡。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-050",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文差不多先生傳（115版課文對應待正式核對）",
+        "topic": "諷刺手法",
+        "question": "文章藉由人物一再把不同事物視為差不多，主要使用哪種表現手法？",
+        "options": [
+          "反覆與諷刺",
+          "客觀實驗報告",
+          "逐項列出統計數據"
+        ],
+        "answer": 0,
+        "explanation": "重複呈現類似錯誤，使人物的敷衍性格更加鮮明，具有諷刺效果。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-051",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文差不多先生傳（115版課文對應待正式核對）",
+        "topic": "人物形象",
+        "question": "故事中的人物常忽略關鍵差異，讀者最應警覺哪種處事態度？",
+        "options": [
+          "不求精確、敷衍了事",
+          "謹慎核對資訊",
+          "尊重專業分工"
+        ],
+        "answer": 0,
+        "explanation": "忽視差異可能造成判斷錯誤，故事藉人物行為提醒讀者重視精確。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-052",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文差不多先生傳（115版課文對應待正式核對）",
+        "topic": "文本寓意",
+        "question": "一位學生將考試日期記成相近的一天，並說差不多就好，最接近文章批評的問題是？",
+        "options": [
+          "把重要細節視為無關緊要",
+          "善用時間規劃",
+          "懂得比較資料來源"
+        ],
+        "answer": 0,
+        "explanation": "日期即使相近也可能造成重大後果，反映敷衍態度。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-053",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文差不多先生傳（115版課文對應待正式核對）",
+        "topic": "文體判讀",
+        "question": "以虛構人物的言行映照社會普遍缺點，這種寫作目的最接近？",
+        "options": [
+          "借人物形象進行社會批評",
+          "純粹記錄實驗數據",
+          "只為介紹地理景觀"
+        ],
+        "answer": 0,
+        "explanation": "作者可用人物故事反映群體的習慣與弊病。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-054",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文差不多先生傳（115版課文對應待正式核對）",
+        "topic": "反諷",
+        "question": "表面稱讚一個人凡事都能將就，實際使讀者看見其荒謬，屬於？",
+        "options": [
+          "反諷",
+          "排比數字",
+          "引用法條"
+        ],
+        "answer": 0,
+        "explanation": "表面語氣與真正評價相反，形成反諷效果。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-055",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文論語選（115版課文對應待正式核對）",
+        "topic": "儒家思想",
+        "question": "孔子主張學習後還要適時複習，重點在強調？",
+        "options": [
+          "持續溫習與實踐",
+          "只需考前背誦",
+          "不必檢視所學"
+        ],
+        "answer": 0,
+        "explanation": "學而時習之強調學習與反覆練習。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-056",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文論語選（115版課文對應待正式核對）",
+        "topic": "為學態度",
+        "question": "「三人行，必有我師焉」較能支持哪項做法？",
+        "options": [
+          "觀察他人長處並學習",
+          "只向成績最好者學習",
+          "拒絕聽取同儕意見"
+        ],
+        "answer": 0,
+        "explanation": "孔子強調人人都有可供學習之處。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-057",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文論語選（115版課文對應待正式核對）",
+        "topic": "自省",
+        "question": "學生每天檢討自己是否盡責、守信，最接近哪項觀念？",
+        "options": [
+          "每日自我反省",
+          "完全依賴他人評價",
+          "只比較考試名次"
+        ],
+        "answer": 0,
+        "explanation": "曾子三省吾身重視檢視自己的行為。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-058",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文論語選（115版課文對應待正式核對）",
+        "topic": "學思關係",
+        "question": "「學而不思則罔，思而不學則殆」提醒我們？",
+        "options": [
+          "學習與思考應相互配合",
+          "只思考不讀書最好",
+          "只背誦就能理解一切"
+        ],
+        "answer": 0,
+        "explanation": "學習需要思考消化，思考也需要知識作為基礎。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-059",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文論語選（115版課文對應待正式核對）",
+        "topic": "仁的實踐",
+        "question": "若同學犯錯，先設身處地理解處境再提出建議，較接近儒家哪項精神？",
+        "options": [
+          "推己及人的仁",
+          "完全放任不管",
+          "只重視外在名聲"
+        ],
+        "answer": 0,
+        "explanation": "仁強調關懷他人，能從他人的立場思考。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-060",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文論語選（115版課文對應待正式核對）",
+        "topic": "知之為知之",
+        "question": "面對不會的題目，哪種做法最符合「知之為知之，不知為不知」？",
+        "options": [
+          "承認不懂並查證",
+          "隨意編造答案",
+          "假裝已經理解"
+        ],
+        "answer": 0,
+        "explanation": "如實承認知與不知是求知的誠實態度。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-061",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文論語選（115版課文對應待正式核對）",
+        "topic": "溫故知新",
+        "question": "整理舊筆記後發現新觀念，最符合哪句話的精神？",
+        "options": [
+          "溫故而知新",
+          "過而不改",
+          "巧言令色"
+        ],
+        "answer": 0,
+        "explanation": "重新溫習舊知識可以獲得新的理解。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-062",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文論語選（115版課文對應待正式核對）",
+        "topic": "見賢思齊",
+        "question": "看見同學擅長整理重點，自己也學習他的方式，符合？",
+        "options": [
+          "見賢思齊",
+          "諱疾忌醫",
+          "刻舟求劍"
+        ],
+        "answer": 0,
+        "explanation": "看見值得學習的人便努力向他看齊。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-063",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文那默默的一群（115版課文對應待正式核對）",
+        "topic": "主旨",
+        "question": "描寫平日少被注意、卻維持環境運作的工作者，最可能希望讀者？",
+        "options": [
+          "看見平凡勞動者的貢獻",
+          "只讚美名氣高的人",
+          "忽略生活中的協助"
+        ],
+        "answer": 0,
+        "explanation": "描寫默默付出的人物，能引導讀者理解其價值。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-064",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文那默默的一群（115版課文對應待正式核對）",
+        "topic": "描寫手法",
+        "question": "文章細寫清晨清潔人員的動作與汗水，主要作用是？",
+        "options": [
+          "使人物付出具體可感",
+          "把故事改成數學證明",
+          "省略人物形象"
+        ],
+        "answer": 0,
+        "explanation": "具體動作與細節能呈現工作的辛勞。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-065",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文那默默的一群（115版課文對應待正式核對）",
+        "topic": "觀察視角",
+        "question": "作者由日常不起眼的工作談到社會運作，使用哪種觀察方式？",
+        "options": [
+          "由小見大",
+          "倒敘未來",
+          "完全抽離生活"
+        ],
+        "answer": 0,
+        "explanation": "從具體小事延伸到較大的社會意義，是由小見大。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-066",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文語文天地二（上）（115版課文對應待正式核對）",
+        "topic": "閱讀策略",
+        "question": "閱讀說明性文章時，先看標題與小標題最有助於？",
+        "options": [
+          "預測內容架構",
+          "確定所有細節皆正確",
+          "代替閱讀全文"
+        ],
+        "answer": 0,
+        "explanation": "標題有助掌握主題與段落組織，但仍須閱讀正文。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-067",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文語文天地二（上）（115版課文對應待正式核對）",
+        "topic": "閱讀策略",
+        "question": "遇到不熟悉的詞語，先利用上下文推測，再查工具書，主要是為了？",
+        "options": [
+          "建立有依據的詞義理解",
+          "跳過所有生字",
+          "只憑字形亂猜"
+        ],
+        "answer": 0,
+        "explanation": "上下文提供線索，查證能確認推測是否合理。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-068",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文語文天地二（上）（115版課文對應待正式核對）",
+        "topic": "閱讀策略",
+        "question": "要比較兩篇文章對同一議題的不同立場，最適合製作？",
+        "options": [
+          "觀點比較表",
+          "隨機字數表",
+          "作者筆畫統計"
+        ],
+        "answer": 0,
+        "explanation": "並列兩篇的論點與理由，能清楚看出異同。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-FOCUSED-069",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文語文天地二（上）（115版課文對應待正式核對）",
+        "topic": "閱讀策略",
+        "question": "閱讀後用自己的話說出各段重點，主要是在練習？",
+        "options": [
+          "摘要與統整",
+          "逐字抄寫",
+          "只背作者姓名"
+        ],
+        "answer": 0,
+        "explanation": "摘要需要選出重要資訊並重新組織。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
