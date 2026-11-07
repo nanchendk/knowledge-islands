@@ -593,6 +593,276 @@ const questionBankV105=[
         "chapter": "自學二",
         "topic": "自學二",
         "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-CHI-BATCH-035",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "修辭",
+        "question": "「微風輕輕替樹葉梳頭」運用了哪種修辭？",
+        "options": [
+          "轉化（擬人）",
+          "排比",
+          "設問"
+        ],
+        "answer": 0,
+        "explanation": "將微風寫成能替樹葉梳頭的人，賦予自然物人的動作。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-036",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "修辭",
+        "question": "「教室靜得連鉛筆落地都聽得見」主要運用了什麼手法？",
+        "options": [
+          "誇飾",
+          "借代",
+          "頂真"
+        ],
+        "answer": 0,
+        "explanation": "放大安靜的程度以強調感受，屬於誇飾。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-037",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "修辭",
+        "question": "「知識像一把鑰匙，打開未知的門」主要是哪種修辭？",
+        "options": [
+          "譬喻",
+          "設問",
+          "映襯"
+        ],
+        "answer": 0,
+        "explanation": "用鑰匙比擬知識的作用，具有明確喻體。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-038",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "修辭",
+        "question": "「你是否想過，真正的勇敢是什麼？」若作者接著自行回答，屬於哪種設問？",
+        "options": [
+          "提問",
+          "激問",
+          "懸問"
+        ],
+        "answer": 0,
+        "explanation": "先提出問題再自行回答，是提問法。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-039",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "修辭",
+        "question": "「書是路，路是橋，橋是通往世界的門」相鄰語句首尾相接，稱為？",
+        "options": [
+          "頂真",
+          "倒反",
+          "引用"
+        ],
+        "answer": 0,
+        "explanation": "前句末詞接續成後句開頭，是頂真。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-040",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "修辭",
+        "question": "「有人追求速度，有人珍惜深度；有人看重結果，有人重視過程」主要運用了？",
+        "options": [
+          "排比",
+          "摹寫",
+          "雙關"
+        ],
+        "answer": 0,
+        "explanation": "多個結構相近的句式並列，形成排比。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-041",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "修辭",
+        "question": "「聽見窗外雨滴答滴答地敲著屋簷」著重哪一種摹寫？",
+        "options": [
+          "聽覺",
+          "嗅覺",
+          "味覺"
+        ],
+        "answer": 0,
+        "explanation": "以滴答聲呈現聲音感受，是聽覺摹寫。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-042",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "語文表達",
+        "question": "下列哪一句最符合客觀描述？",
+        "options": [
+          "操場長約兩百公尺",
+          "這是世界最棒的操場",
+          "這操場令人討厭"
+        ],
+        "answer": 0,
+        "explanation": "長度是可量測的事實，另外兩句含主觀評價。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-043",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "語文表達",
+        "question": "要寫一則提醒同學帶雨具的公告，最重要的資訊是？",
+        "options": [
+          "日期與具體行動",
+          "作者最喜歡的天氣",
+          "與主題無關的故事"
+        ],
+        "answer": 0,
+        "explanation": "公告應讓讀者清楚知道何時及應採取何種行動。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-044",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "閱讀策略",
+        "question": "文章先列舉現象，再分析造成現象的原因，屬於何種組織方式？",
+        "options": [
+          "因果分析",
+          "時間倒敘",
+          "空間方位"
+        ],
+        "answer": 0,
+        "explanation": "由現象追究成因，是因果式組織。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-045",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "閱讀策略",
+        "question": "閱讀議論文字時，要區分作者主張與舉例，應優先辨認？",
+        "options": [
+          "論點與論據",
+          "押韻與平仄",
+          "角色與場景"
+        ],
+        "answer": 0,
+        "explanation": "議論文以論點提出主張，論據用來支持主張。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-046",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "閱讀策略",
+        "question": "若文章標題為「從一粒種子看耐心」，最合理的閱讀預期是？",
+        "options": [
+          "藉種子成長談等待與堅持",
+          "只介紹種子售價",
+          "比較不同鉛筆硬度"
+        ],
+        "answer": 0,
+        "explanation": "標題以種子成長作切入，可能延伸至耐心的主題。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-047",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "語文表達",
+        "question": "「雖然準備充分，＿＿仍難免緊張」空格最適合填入？",
+        "options": [
+          "但是",
+          "因為",
+          "如果"
+        ],
+        "answer": 0,
+        "explanation": "雖然與但是形成轉折關係。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-048",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "語文表達",
+        "question": "「因為天雨路滑，＿＿活動改在室內」空格最適合填入？",
+        "options": [
+          "所以",
+          "然而",
+          "即使"
+        ],
+        "answer": 0,
+        "explanation": "前句是原因，後句是結果，宜用所以。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-BATCH-049",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（考點章節待核）",
+        "topic": "閱讀策略",
+        "question": "閱讀一篇記敘文，想掌握事件發展，最適合先整理？",
+        "options": [
+          "起因、經過與結果",
+          "所有字的筆畫",
+          "每行字數"
+        ],
+        "answer": 0,
+        "explanation": "記敘事件可依起因、經過、結果建立脈絡。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
