@@ -1,5 +1,5 @@
 /* 七上第二次段考原創題庫；各題仍需核對正式教材章節。 */
-const questionBankV105=[
+const questionBankV105 = [
   {
     "subject": "國文",
     "unit": "語文常識與閱讀",
@@ -10604,6 +10604,456 @@ const questionBankV105=[
         ],
         "answer": 0,
         "explanation": "尊重多元家庭並保護個人隱私有助於平等相處。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-064",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭角色",
+        "question": "小華的爸爸請育嬰假照顧新生兒，最能說明什麼？",
+        "options": [
+          "只有母親能照顧嬰兒",
+          "請假者不需負擔家庭責任",
+          "照顧孩子不限特定性別"
+        ],
+        "answer": 2,
+        "explanation": "家庭照顧工作可由不同性別共同承擔。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-065",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭分工",
+        "question": "家人商量家務分配時，哪項依據最合理？",
+        "options": [
+          "永遠由同一人負責",
+          "依每人時間、能力與意願協調",
+          "依年紀最小者全包"
+        ],
+        "answer": 1,
+        "explanation": "公平分工需考量成員條件與溝通。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-066",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭溝通",
+        "question": "家人對假日行程意見不同，較適當的處理方式為何？",
+        "options": [
+          "輪流表達需求再協商",
+          "以音量大者決定",
+          "拒絕聽取任何意見"
+        ],
+        "answer": 0,
+        "explanation": "協商能兼顧各人的需求與感受。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-067",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭支持",
+        "question": "同學家中有人生病，哪個做法最能展現支持？",
+        "options": [
+          "公開轉傳病歷",
+          "認定對方一定無法上學",
+          "主動詢問需要何種協助"
+        ],
+        "answer": 2,
+        "explanation": "尊重隱私並提供對方需要的協助。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-068",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭經濟",
+        "question": "家中預算有限，面對必要支出與娛樂支出應如何安排？",
+        "options": [
+          "完全不需記錄支出",
+          "先保障基本生活需要",
+          "先購買所有想要的物品"
+        ],
+        "answer": 1,
+        "explanation": "資源有限時需辨識需要與想要。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-069",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭決策",
+        "question": "家人要添購共用電器，何種決策最適當？",
+        "options": [
+          "比較價格與需求並聽取使用者意見",
+          "只看廣告就購買",
+          "排除所有家庭成員意見"
+        ],
+        "answer": 0,
+        "explanation": "共同決策有助於合理使用家庭資源。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-070",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親屬關係",
+        "question": "叔叔與自己在親屬關係中屬於哪一類？",
+        "options": [
+          "直系血親",
+          "配偶",
+          "旁系血親"
+        ],
+        "answer": 2,
+        "explanation": "叔叔與自己有共同祖先，但不是直接生育的上下代。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-071",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親屬關係",
+        "question": "外祖母與自己在親屬關係中屬於哪一類？",
+        "options": [
+          "沒有親屬關係",
+          "直系血親",
+          "旁系姻親"
+        ],
+        "answer": 1,
+        "explanation": "外祖母是母親的母親，屬直系血親。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-072",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭型態",
+        "question": "祖父母與孫子女共同生活，最不應直接推論什麼？",
+        "options": [
+          "父母一定不關心孩子",
+          "可能有跨代照顧安排",
+          "家庭成員可能互相支持"
+        ],
+        "answer": 0,
+        "explanation": "家庭組成無法單獨判斷親子關懷程度。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-073",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭型態",
+        "question": "一位家長獨自扶養子女，最合適的稱呼為何？",
+        "options": [
+          "核心家庭必定有雙親",
+          "寄養家庭",
+          "單親家庭"
+        ],
+        "answer": 2,
+        "explanation": "單親家庭指由一位家長主要扶養子女的家庭型態。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-074",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭變遷",
+        "question": "家庭成員透過視訊維持聯繫，反映哪項社會變遷？",
+        "options": [
+          "所有家庭都不再同住",
+          "科技改變家庭互動方式",
+          "親屬關係已被取消"
+        ],
+        "answer": 1,
+        "explanation": "通訊科技使分居家人也能保持交流。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-075",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭變遷",
+        "question": "雙薪家庭常需協調接送孩子，主要反映何種需求？",
+        "options": [
+          "工作與家庭照顧的平衡",
+          "家務工作不再存在",
+          "孩子不需任何照顧"
+        ],
+        "answer": 0,
+        "explanation": "工作安排與照顧責任需要協調。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-076",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭權利",
+        "question": "父母替孩子決定所有交友對象且拒絕溝通，較忽略什麼？",
+        "options": [
+          "父母完全沒有照顧義務",
+          "孩子永遠無須聽建議",
+          "孩子隨成長發展的自主與表意需求"
+        ],
+        "answer": 2,
+        "explanation": "尊重孩子意見與適當引導可並行。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-077",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭責任",
+        "question": "孩子承諾整理自己的書桌卻忘記，最適當的行動是？",
+        "options": [
+          "否認曾經答應",
+          "承認疏忽並補做",
+          "把責任推給其他家人"
+        ],
+        "answer": 1,
+        "explanation": "履行承諾與承擔後果是責任表現。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-078",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭衝突",
+        "question": "家人吵架時，有人提出先冷靜再談，主要目的為何？",
+        "options": [
+          "降低情緒衝突以利溝通",
+          "永久停止討論問題",
+          "讓一方必須服從"
+        ],
+        "answer": 0,
+        "explanation": "暫緩討論可避免情緒升高並改善溝通。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-079",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭暴力",
+        "question": "同學表示在家遭到毆打並害怕返家，最適當的協助是？",
+        "options": [
+          "要求對方保密且不介入",
+          "把細節發到社群平台",
+          "向可信任師長或保護機構求助"
+        ],
+        "answer": 2,
+        "explanation": "疑似家庭暴力應優先確保安全並尋求專業協助。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-080",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭暴力",
+        "question": "看到疑似兒少受虐情形，哪項原則最重要？",
+        "options": [
+          "先公開受害者姓名",
+          "優先保護安全並尋求正式協助",
+          "自己與施暴者正面衝突"
+        ],
+        "answer": 1,
+        "explanation": "保護安全與避免二度傷害優先。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-081",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭隱私",
+        "question": "家人未經同意翻看彼此的私人訊息，可能侵害哪項利益？",
+        "options": [
+          "隱私與個人界線",
+          "公共道路通行權",
+          "選舉權"
+        ],
+        "answer": 0,
+        "explanation": "即使是家人也應尊重彼此合理的隱私。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-082",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭尊重",
+        "question": "家庭聚會有人嘲笑親戚的職業，較適當的回應是？",
+        "options": [
+          "附和嘲笑",
+          "要求對方離席不得說話",
+          "提醒尊重不同職業與勞動"
+        ],
+        "answer": 2,
+        "explanation": "尊重不同工作有助於維持平等互動。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-083",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭照顧",
+        "question": "家中長輩行動不便，家人如何安排較適當？",
+        "options": [
+          "禁止長輩提出需求",
+          "討論無障礙需求並分配照顧工作",
+          "認為長輩應獨自解決"
+        ],
+        "answer": 1,
+        "explanation": "照顧安排應重視當事人需求與家庭協作。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-084",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭資源",
+        "question": "家中共用一台電腦，最能減少使用衝突的方法是？",
+        "options": [
+          "共同訂定合理使用時段",
+          "由最先搶到的人永久使用",
+          "故意破壞設備"
+        ],
+        "answer": 0,
+        "explanation": "有限資源可透過協議與規則公平分配。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-085",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭變遷",
+        "question": "人口高齡化下，社會支持家庭照顧可採取什麼措施？",
+        "options": [
+          "取消所有照顧服務",
+          "只靠單一家庭成員",
+          "提供長照與喘息服務"
+        ],
+        "answer": 2,
+        "explanation": "公共照顧資源可減輕家庭負擔。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-086",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭關係",
+        "question": "家庭成員對節慶習俗做法不同，較合宜的態度是？",
+        "options": [
+          "拒絕任何討論",
+          "理解差異並協調共同做法",
+          "認為只有自己家做法正確"
+        ],
+        "answer": 1,
+        "explanation": "尊重不同習俗並協商有助家庭和諧。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-087",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭權利",
+        "question": "孩子參與討論與自身相關的家庭安排，最能體現什麼？",
+        "options": [
+          "表達意見與被傾聽的機會",
+          "孩子可拒絕所有家庭規則",
+          "家庭不需任何決策"
+        ],
+        "answer": 0,
+        "explanation": "讓孩子表意不代表免除合理的家庭責任。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-088",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭責任",
+        "question": "家中有人長期承擔全部清潔工作，其他人可如何改善？",
+        "options": [
+          "認為既然做得好就永遠不必幫忙",
+          "將問題視為無關緊要",
+          "重新協商並共同承擔家務"
+        ],
+        "answer": 2,
+        "explanation": "定期檢視分工可減少不公平的負擔。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
       }
