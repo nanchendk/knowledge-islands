@@ -5560,6 +5560,438 @@ const questionBankV105=[
         "topic": "鄭氏時期",
         "scopeStatus": "chapter_pending_verification",
         "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-BATCH-001",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "荷蘭東印度公司於1624年主要在哪個臺灣地區建立據點？",
+        "options": [
+          "臺灣西南部大員",
+          "臺灣東部花蓮",
+          "臺灣中部埔里"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭東印度公司在大員一帶建立貿易與殖民據點。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-002",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "西班牙人在1626年進入臺灣後，主要活動區域位於？",
+        "options": [
+          "北臺灣",
+          "南臺灣",
+          "澎湖群島"
+        ],
+        "answer": 0,
+        "explanation": "西班牙勢力主要集中於雞籠與淡水一帶。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-003",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "荷蘭人於1642年在北臺灣擊退哪個歐洲國家勢力？",
+        "options": [
+          "西班牙",
+          "英國",
+          "法國"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭軍隊於1642年擊退西班牙在北臺灣的勢力。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-004",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "荷蘭人在臺推動傳教與教育時，曾使用哪種文字系統記錄部分原住民族語？",
+        "options": [
+          "羅馬字母",
+          "甲骨文",
+          "楔形文字"
+        ],
+        "answer": 0,
+        "explanation": "傳教士使用羅馬字母書寫部分平埔族語，留下相關文書。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-005",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "新港文書主要提供研究哪方面的線索？",
+        "options": [
+          "原住民族語言與社會生活",
+          "現代臺灣股市",
+          "日治時期鐵路時刻"
+        ],
+        "answer": 0,
+        "explanation": "新港文書記錄平埔族語與土地交易等資訊。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-006",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "荷蘭統治時期，鹿皮是重要出口商品，反映何種經濟活動？",
+        "options": [
+          "獵鹿與海外貿易",
+          "石油開採",
+          "晶片製造"
+        ],
+        "answer": 0,
+        "explanation": "鹿皮透過貿易網絡輸往海外市場。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-007",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "荷蘭人招募漢人來臺耕作，主要目的之一是？",
+        "options": [
+          "增加農業生產與稅收",
+          "停止所有農業活動",
+          "建立現代工業區"
+        ],
+        "answer": 0,
+        "explanation": "開墾可供應糧食及增加殖民統治的收入。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-008",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "郭懷一事件反映荷蘭統治下哪種社會矛盾？",
+        "options": [
+          "殖民統治與漢人移民間的衝突",
+          "現代選舉競爭",
+          "清末鐵路政策"
+        ],
+        "answer": 0,
+        "explanation": "郭懷一起事與荷蘭殖民統治、徵稅及移民不滿有關。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-009",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "熱蘭遮城與普羅民遮城的主要共同功能是？",
+        "options": [
+          "荷蘭殖民統治據點",
+          "清朝官學",
+          "日治軍港"
+        ],
+        "answer": 0,
+        "explanation": "兩者均為荷蘭人在臺南一帶建立的重要據點。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-010",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "荷西時期",
+        "question": "若史料記載雞籠與淡水有西班牙傳教士活動，最可能屬於哪個時期？",
+        "options": [
+          "十七世紀前半",
+          "十九世紀末",
+          "二十世紀末"
+        ],
+        "answer": 0,
+        "explanation": "西班牙在北臺灣的活動主要發生於1626至1642年間。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-011",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭成功驅逐荷蘭人在臺勢力後，最主要建立哪個政權？",
+        "options": [
+          "鄭氏政權",
+          "臺灣總督府",
+          "臺灣省政府"
+        ],
+        "answer": 0,
+        "explanation": "鄭成功於1662年擊敗荷蘭在臺政權，建立鄭氏統治。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-012",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭氏政權以臺灣作為反清基地，反映其主要政治目標是？",
+        "options": [
+          "延續抗清活動",
+          "支持日本殖民",
+          "建立歐洲商館"
+        ],
+        "answer": 0,
+        "explanation": "鄭氏以臺灣為基地，維持反清復明的政治與軍事活動。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-013",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭氏軍隊推行屯墾，最直接的需求是？",
+        "options": [
+          "供應軍糧並安置軍民",
+          "發展半導體出口",
+          "設立高速公路"
+        ],
+        "answer": 0,
+        "explanation": "屯墾兼具軍糧生產與安置人口的功能。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-014",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭經時期發展海外貿易，對政權有何作用？",
+        "options": [
+          "取得軍需與財政資源",
+          "完全隔絕海外",
+          "取消所有稅收"
+        ],
+        "answer": 0,
+        "explanation": "海上貿易提供政權物資與財政支持。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-015",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭氏政權在臺推動儒學教育，最能說明哪種政策方向？",
+        "options": [
+          "建立文教制度",
+          "全面廢止教育",
+          "推行義務九年教育"
+        ],
+        "answer": 0,
+        "explanation": "鄭氏設立學校與文教機構以培養人才。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-016",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "鄭氏時期",
+        "question": "明鄭時期臺灣的漢人聚落增加，與哪項因素最有關？",
+        "options": [
+          "軍民移入與土地開墾",
+          "冰河南移",
+          "大規模工業化"
+        ],
+        "answer": 0,
+        "explanation": "隨鄭氏軍民來臺及農業開墾，漢人聚落逐步增加。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-017",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭氏在臺開墾若侵入原住民族生活領域，可能造成什麼結果？",
+        "options": [
+          "土地與資源衝突",
+          "所有族群利益必然一致",
+          "河流停止流動"
+        ],
+        "answer": 0,
+        "explanation": "拓墾可能改變土地使用並引發族群衝突。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-018",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "鄭氏時期",
+        "question": "鄭氏政權與荷蘭政權在經濟經營上的共同點為何？",
+        "options": [
+          "重視農業與對外貿易",
+          "完全禁止船舶航行",
+          "只靠工業生產"
+        ],
+        "answer": 0,
+        "explanation": "兩者都透過農業開發及貿易取得經濟資源。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-019",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "史料判讀",
+        "question": "研究十七世紀臺灣對外貿易，哪一種史料最直接？",
+        "options": [
+          "商船貨物清單",
+          "今日手機廣告",
+          "現代天氣預報"
+        ],
+        "answer": 0,
+        "explanation": "商船貨物清單可呈現當時商品與交易往來。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-020",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "史料判讀",
+        "question": "閱讀殖民者留下的臺灣紀錄，應注意什麼史料限制？",
+        "options": [
+          "記錄者可能具有自身立場",
+          "史料必然完全中立",
+          "文字越長就越正確"
+        ],
+        "answer": 0,
+        "explanation": "史料可能反映殖民者立場，需與其他資料交互比對。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-021",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "史料判讀",
+        "question": "若兩份史料對同一事件的描述不同，最適當的研究方法是？",
+        "options": [
+          "比較來源背景並尋找其他證據",
+          "任意挑較短的版本",
+          "直接認定兩者皆假"
+        ],
+        "answer": 0,
+        "explanation": "透過來源分析與交叉驗證提高歷史解釋可靠性。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-022",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "史料判讀",
+        "question": "若要確認某座古城建造年代，哪種證據組合最有力？",
+        "options": [
+          "當時文獻與考古遺構",
+          "現代旅客留言數",
+          "餐廳評分"
+        ],
+        "answer": 0,
+        "explanation": "同時期文獻與考古證據可互相印證。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-023",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "時間順序",
+        "question": "下列哪個事件發生最早？",
+        "options": [
+          "荷蘭進入大員",
+          "西班牙進入雞籠",
+          "鄭成功擊敗荷蘭"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭1624年進入大員，早於西班牙1626年與鄭氏1662年。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIST-BATCH-024",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115學年度章節待核）",
+        "topic": "時間順序",
+        "question": "下列何者符合事件先後順序？",
+        "options": [
+          "西班牙進入北臺灣→荷蘭驅逐西班牙→鄭成功擊敗荷蘭",
+          "鄭成功擊敗荷蘭→西班牙進入北臺灣→荷蘭驅逐西班牙",
+          "荷蘭驅逐西班牙→鄭成功擊敗荷蘭→西班牙進入北臺灣"
+        ],
+        "answer": 0,
+        "explanation": "三件事分別發生於1626、1642、1662年。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
