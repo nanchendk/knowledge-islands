@@ -5330,6 +5330,261 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "河川搬運沉積物，形成沖積平原。",
         "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-地理-CH3-001",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "臺灣地勢大致呈現何種分布？",
+        "options": [
+          "中央高、周圍低",
+          "西高東低且無山脈",
+          "北低南高且全為平原"
+        ],
+        "answer": 0,
+        "explanation": "中央山脈等山地構成臺灣主要高地，沿海及部分盆地較低。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-002",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "臺灣主要山脈大致呈哪個方向延伸？",
+        "options": [
+          "南北向",
+          "東西向",
+          "東北—西南向以外的完全水平直線"
+        ],
+        "answer": 0,
+        "explanation": "中央山脈、雪山山脈等大致沿島嶼長軸呈南北向延伸。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-003",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "西部平原較東部廣闊，與下列何者關係最密切？",
+        "options": [
+          "西部河川堆積形成廣大沖積平原",
+          "東部完全沒有河流",
+          "西部全部是火山地形"
+        ],
+        "answer": 0,
+        "explanation": "河流搬運沉積物並在坡度較緩地區堆積，形成西部平原。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-004",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "花東縱谷主要位於哪兩個山脈之間？",
+        "options": [
+          "中央山脈與海岸山脈",
+          "雪山山脈與阿里山山脈",
+          "玉山山脈與大屯火山群"
+        ],
+        "answer": 0,
+        "explanation": "花東縱谷夾在中央山脈和海岸山脈之間。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-005",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "臺灣東部海岸平原狹窄的主要地形原因是？",
+        "options": [
+          "山地接近海岸",
+          "沒有任何侵蝕作用",
+          "全年無降水"
+        ],
+        "answer": 0,
+        "explanation": "東部山地距海岸近，平原發育空間相對有限。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-006",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "河流在山區流速快，最容易形成哪一種河谷？",
+        "options": [
+          "狹窄的V形谷",
+          "廣大三角洲",
+          "完全水平的盆地"
+        ],
+        "answer": 0,
+        "explanation": "山區河流下切侵蝕較強，常形成V形谷。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-007",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "河流出山口進入平地，因流速降低而堆積形成的扇形地形稱為？",
+        "options": [
+          "沖積扇",
+          "海蝕平台",
+          "沙丘"
+        ],
+        "answer": 0,
+        "explanation": "水流在山口流速下降，搬運物質堆積形成沖積扇。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-008",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "河流入海口泥沙堆積形成的地形最可能是？",
+        "options": [
+          "三角洲",
+          "峽谷",
+          "火山口"
+        ],
+        "answer": 0,
+        "explanation": "河川輸送泥沙在河口沉積，可能形成三角洲。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-009",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "海浪長期侵蝕岩岸，較可能形成哪一種地形？",
+        "options": [
+          "海蝕洞",
+          "沖積扇",
+          "河階"
+        ],
+        "answer": 0,
+        "explanation": "海浪侵蝕海岸岩層的薄弱處可形成海蝕洞。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-010",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "海浪把砂礫沿岸搬運並堆積，最可能形成？",
+        "options": [
+          "沙灘",
+          "斷層崖",
+          "冰斗"
+        ],
+        "answer": 0,
+        "explanation": "海岸堆積作用可累積砂礫形成沙灘。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-011",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "臺北盆地屬於哪一類地形？",
+        "options": [
+          "盆地",
+          "高原",
+          "峽谷"
+        ],
+        "answer": 0,
+        "explanation": "盆地是周圍較高、中央較低的地形。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-012",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "要判讀等高線地圖上的陡坡，應觀察哪項特徵？",
+        "options": [
+          "等高線密集",
+          "等高線稀疏",
+          "所有等高線數值相同"
+        ],
+        "answer": 0,
+        "explanation": "等高線越密集，代表水平距離內高差越大，坡度越陡。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-013",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "同一張等高線圖中，兩相鄰等高線的高度差稱為？",
+        "options": [
+          "等高距",
+          "比例尺",
+          "方位角"
+        ],
+        "answer": 0,
+        "explanation": "等高距是相鄰等高線的高程差。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-014",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "山區開發道路時，沿等高線附近迂迴修築通常有何優點？",
+        "options": [
+          "減少坡度",
+          "縮短至最短直線距離",
+          "使海拔完全不變"
+        ],
+        "answer": 0,
+        "explanation": "迂迴道路可降低縱坡，提升通行安全，但通常增加路程。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
+      },
+      {
+        "id": "G7S1-地理-CH3-015",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "臺灣河川多短而急，主要與哪兩項條件有關？",
+        "options": [
+          "島嶼狹長、山地高聳",
+          "河流全在平原、沒有坡度",
+          "海岸完全平直、無降雨"
+        ],
+        "answer": 0,
+        "explanation": "臺灣山地高且距海近，河流流程較短、坡降較大。",
+        "chapter": "第3章（臺灣地形；依舊版翰林對照，115版待核）",
+        "topic": "臺灣地形",
+        "scopeStatus": "chapter_pending_verification"
       }
     ]
   },
