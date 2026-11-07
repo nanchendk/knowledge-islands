@@ -137,6 +137,431 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "主旨需綜合全文脈絡判斷。",
         "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-國文-ADD-001",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "《差不多先生傳》的作者是誰？",
+        "options": [
+          "胡適",
+          "朱自清",
+          "徐志摩"
+        ],
+        "answer": 0,
+        "explanation": "胡適以諷刺筆法塑造差不多先生。",
+        "chapter": "差不多先生傳",
+        "topic": "差不多先生傳",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-002",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「凡事只求差不多」最可能造成什麼後果？",
+        "options": [
+          "忽略關鍵差異而出錯",
+          "提高精確度",
+          "養成查證習慣"
+        ],
+        "answer": 0,
+        "explanation": "忽視細節可能導致嚴重錯誤。",
+        "chapter": "差不多先生傳",
+        "topic": "差不多先生傳",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-003",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "《差不多先生傳》主要使用何種表現手法？",
+        "options": [
+          "諷刺",
+          "純粹寫景",
+          "神話敘事"
+        ],
+        "answer": 0,
+        "explanation": "透過人物荒謬言行諷刺敷衍態度。",
+        "chapter": "差不多先生傳",
+        "topic": "差不多先生傳",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-004",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "人物反覆說「差不多」，最能凸顯哪項性格？",
+        "options": [
+          "馬虎敷衍",
+          "嚴謹求證",
+          "勤於反省"
+        ],
+        "answer": 0,
+        "explanation": "口頭禪反映做事不求精確的習慣。",
+        "chapter": "差不多先生傳",
+        "topic": "差不多先生傳",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-005",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "下列哪個行為最符合課文警惕的反面？",
+        "options": [
+          "核對藥品名稱與劑量",
+          "憑印象填寫資料",
+          "忽略時間差異"
+        ],
+        "answer": 0,
+        "explanation": "精確核對能避免差不多心態的錯誤。",
+        "chapter": "差不多先生傳",
+        "topic": "差不多先生傳",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-006",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "《論語》主要記錄哪位思想家及其弟子的言行？",
+        "options": [
+          "孔子",
+          "孟子",
+          "荀子"
+        ],
+        "answer": 0,
+        "explanation": "《論語》由孔子弟子及再傳弟子編纂相關言行。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-007",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「學而時習之」的「習」最接近何意？",
+        "options": [
+          "溫習與實踐",
+          "遺忘",
+          "責備"
+        ],
+        "answer": 0,
+        "explanation": "習包含反覆溫習、練習與實踐。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-008",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「三人行，必有我師焉」強調什麼？",
+        "options": [
+          "虛心向人學習",
+          "只向老師學習",
+          "避免與人合作"
+        ],
+        "answer": 0,
+        "explanation": "每個人都可能有值得學習之處。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-009",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「不亦說乎」的「說」通哪個字？",
+        "options": [
+          "悅",
+          "稅",
+          "脫"
+        ],
+        "answer": 0,
+        "explanation": "「說」通「悅」，表示喜悅。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-010",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "「人不知而不慍」的「慍」是什麼意思？",
+        "options": [
+          "生氣怨恨",
+          "高興",
+          "疑惑"
+        ],
+        "answer": 0,
+        "explanation": "慍指怨怒。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-011",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「溫故而知新」的學習方法重點是？",
+        "options": [
+          "從舊知識獲得新理解",
+          "只背新內容",
+          "完全不複習"
+        ],
+        "answer": 0,
+        "explanation": "複習舊知並產生新體悟。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-012",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「見賢思齊」的「齊」最接近？",
+        "options": [
+          "看齊",
+          "整齊排列",
+          "齊聲朗讀"
+        ],
+        "answer": 0,
+        "explanation": "指向有德才的人學習。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-013",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「己所不欲，勿施於人」最符合哪項原則？",
+        "options": [
+          "推己及人",
+          "強迫他人",
+          "只顧自己"
+        ],
+        "answer": 0,
+        "explanation": "不把自己不願接受的事加諸他人。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-014",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "「三省吾身」中的「省」意思是？",
+        "options": [
+          "反省檢討",
+          "節省金錢",
+          "探望親友"
+        ],
+        "answer": 0,
+        "explanation": "省指自我反思。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-015",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "「擇其善者而從之」的「從」意思是？",
+        "options": [
+          "學習效法",
+          "追逐",
+          "服從命令"
+        ],
+        "answer": 0,
+        "explanation": "從是跟隨、效法好的行為。",
+        "chapter": "論語選",
+        "topic": "論語選",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-016",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "題名中的「默默」較接近哪種特質？",
+        "options": [
+          "不張揚地付出",
+          "故意保持神祕",
+          "拒絕與人溝通"
+        ],
+        "answer": 0,
+        "explanation": "題名著重不求矚目的貢獻。",
+        "chapter": "那默默的一群",
+        "topic": "那默默的一群",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-017",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "閱讀描寫基層工作者的文章，理解作者態度應優先觀察？",
+        "options": [
+          "描寫細節與情感詞語",
+          "文章字數",
+          "標點總量"
+        ],
+        "answer": 0,
+        "explanation": "細節與語氣能呈現作者的敬意。",
+        "chapter": "那默默的一群",
+        "topic": "那默默的一群",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-018",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "閱讀文章前先觀察標題，主要有助於？",
+        "options": [
+          "預測主題",
+          "直接確定每題答案",
+          "省略閱讀全文"
+        ],
+        "answer": 0,
+        "explanation": "標題可作為預測內容的線索。",
+        "chapter": "語文天地二（上）",
+        "topic": "語文天地二（上）",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-019",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "閱讀時把段落重點整理成一句話，屬於哪種策略？",
+        "options": [
+          "摘要",
+          "逐字抄寫",
+          "跳讀不看"
+        ],
+        "answer": 0,
+        "explanation": "摘要將重要資訊濃縮。",
+        "chapter": "語文天地二（上）",
+        "topic": "語文天地二（上）",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-020",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "遇到不熟悉的詞語，最合適的第一步是？",
+        "options": [
+          "根據上下文推測意思",
+          "直接忽略整段",
+          "隨意猜一個意思"
+        ],
+        "answer": 0,
+        "explanation": "上下文提供推論詞義的線索。",
+        "chapter": "語文天地二（上）",
+        "topic": "語文天地二（上）",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-021",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "要比較兩篇文章的共同點與差異，適合使用？",
+        "options": [
+          "比較表",
+          "流水帳",
+          "隨機排列"
+        ],
+        "answer": 0,
+        "explanation": "比較表能組織異同。",
+        "chapter": "語文天地二（上）",
+        "topic": "語文天地二（上）",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-022",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "區分文章中的「事實」與「意見」，關鍵是？",
+        "options": [
+          "能否用證據查核",
+          "句子是否很長",
+          "是否出現在第一段"
+        ],
+        "answer": 0,
+        "explanation": "事實可查證，意見表達判斷或立場。",
+        "chapter": "語文天地二（上）",
+        "topic": "語文天地二（上）",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-023",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "閱讀《拄枴杖的小男孩》時，分析人物心境最應根據？",
+        "options": [
+          "人物行動與前後情境",
+          "自己任意想像",
+          "文章頁數"
+        ],
+        "answer": 0,
+        "explanation": "人物心理須依文本線索推論。",
+        "chapter": "自學二",
+        "topic": "自學二",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-024",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "分析故事的轉折，最重要的是辨認？",
+        "options": [
+          "事件前後的變化",
+          "生字筆畫",
+          "段落是否等長"
+        ],
+        "answer": 0,
+        "explanation": "情節轉折反映事件或人物狀態的改變。",
+        "chapter": "自學二",
+        "topic": "自學二",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
+      },
+      {
+        "id": "G7S1-國文-ADD-025",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "推論作者寫作目的，較可靠的方法是？",
+        "options": [
+          "綜合事件、人物與結尾",
+          "只看第一個字",
+          "只看標點"
+        ],
+        "answer": 0,
+        "explanation": "需依全文結構與情感脈絡判斷。",
+        "chapter": "自學二",
+        "topic": "自學二",
+        "scopeStatus": "topic_reference_verified_text_not_individually_verified"
       }
     ]
   },
