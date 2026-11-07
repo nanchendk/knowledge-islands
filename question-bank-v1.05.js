@@ -8689,6 +8689,330 @@ const questionBankV105=[
         "explanation": "山地距海近且落差大，河川多短急。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-055",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形剖面",
+        "question": "一條測線依序經過海拔100、350、600、350、100公尺的地點，剖面最接近哪種形狀？",
+        "options": [
+          "一路下降的斜坡",
+          "中央隆起的山丘",
+          "中間低陷的盆地"
+        ],
+        "answer": 1,
+        "explanation": "中間最高、兩端較低，呈隆起的山丘形態。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-056",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線計算",
+        "question": "某地圖相鄰等高線標示為250與300公尺，兩線間距代表的高度差為多少？",
+        "options": [
+          "250公尺",
+          "550公尺",
+          "50公尺"
+        ],
+        "answer": 2,
+        "explanation": "等高距是相鄰等高線的海拔差，300－250＝50公尺。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-057",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形與交通",
+        "question": "甲乙兩地直線距離短，但中間隔著高山；公路常繞行山谷，主要是為了什麼？",
+        "options": [
+          "減少過陡坡度",
+          "讓公路經過最高峰",
+          "確保道路全程筆直"
+        ],
+        "answer": 0,
+        "explanation": "沿山谷繞行通常可控制坡度，降低施工與通行難度。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-058",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形與聚落",
+        "question": "若同樣需要大面積平坦土地興建工廠，哪一處地形通常較有利？",
+        "options": [
+          "陡峭山稜",
+          "平原",
+          "狹窄峽谷"
+        ],
+        "answer": 1,
+        "explanation": "平原地勢平坦，較易取得連續土地與建設交通設施。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-059",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "河川地形",
+        "question": "河流從山地進入平地，河道坡度變緩時，通常最先出現哪種變化？",
+        "options": [
+          "流速必然大幅增加",
+          "河水立刻停止流動",
+          "流速下降、搬運能力減弱"
+        ],
+        "answer": 2,
+        "explanation": "坡度減緩通常降低流速與搬運能力，易形成堆積。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-060",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形災害判讀",
+        "question": "豪雨後坡面出現新裂縫、擋土牆外凸，最合理的初步應對是？",
+        "options": [
+          "遠離危險坡面並通報",
+          "站在裂縫旁觀察",
+          "立刻自行挖開坡腳"
+        ],
+        "answer": 0,
+        "explanation": "坡面變形可能是滑動徵兆，應先避險並交由專業評估。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-061",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸利用",
+        "question": "若要在海岸設置大型港口，除水深外還應優先考慮哪項自然條件？",
+        "options": [
+          "附近最高山的名稱",
+          "風浪遮蔽程度",
+          "內陸農作物顏色"
+        ],
+        "answer": 1,
+        "explanation": "港灣遮蔽性影響船舶進出及停泊安全。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-062",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸保育",
+        "question": "珊瑚礁海岸附近大量排入混濁泥水，最可能造成哪種影響？",
+        "options": [
+          "使珊瑚完全不需陽光",
+          "使海水永遠沒有波浪",
+          "降低透光、影響珊瑚共生藻"
+        ],
+        "answer": 2,
+        "explanation": "泥沙增加水體濁度，會減少光線到達珊瑚的程度。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-063",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖資訊",
+        "question": "同一地區的地形圖若等高距從100公尺改成20公尺，通常能呈現什麼差異？",
+        "options": [
+          "更多細部起伏",
+          "地區面積自動增加",
+          "所有山峰高度改變"
+        ],
+        "answer": 0,
+        "explanation": "等高距較小時可呈現更細緻的地形變化，實際地形不變。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-064",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "坡度比較",
+        "question": "兩段山路水平距離都為1公里，甲上升50公尺、乙上升200公尺，何者平均坡度較大？",
+        "options": [
+          "甲",
+          "乙",
+          "兩者相同"
+        ],
+        "answer": 1,
+        "explanation": "相同水平距離下，高差越大平均坡度越陡。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-065",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形與氣候",
+        "question": "同一山區迎風坡降雨較多，主要與哪種過程有關？",
+        "options": [
+          "山頂吸收所有雨水",
+          "背風坡海拔必然為零",
+          "濕潤氣流抬升冷卻凝結"
+        ],
+        "answer": 2,
+        "explanation": "迎風坡空氣受地形抬升而冷卻，較容易凝結降水。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-066",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "河川與人類活動",
+        "question": "在河流上游大量砍伐植被，對下游水庫可能產生什麼影響？",
+        "options": [
+          "泥沙淤積風險增加",
+          "水庫必然永不淤積",
+          "河流完全不再流動"
+        ],
+        "answer": 0,
+        "explanation": "坡面缺乏植被保護，侵蝕與泥沙輸送可能增加。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-067",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形觀察",
+        "question": "若衛星影像顯示山地有連續弧形陡崖及下方堆積物，最值得進一步調查什麼？",
+        "options": [
+          "海底珊瑚礁",
+          "崩塌或滑動地形",
+          "沙漠風蝕蘑菇岩"
+        ],
+        "answer": 1,
+        "explanation": "陡崖與坡腳堆積可能是山崩或地滑的地貌線索。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-068",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸變遷",
+        "question": "同一沙灘連續數年退縮，判斷原因時最需要比較哪組資料？",
+        "options": [
+          "遊客鞋子尺寸",
+          "當地門牌號碼",
+          "海岸線位置與波浪、供砂變化"
+        ],
+        "answer": 2,
+        "explanation": "海岸侵淤受波浪、沿岸漂沙及泥沙供應等因素影響。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-069",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形與水文",
+        "question": "兩流域降雨量相近，但甲流域坡陡且不透水面多，短時強降雨後可能有何差異？",
+        "options": [
+          "甲洪峰較快出現",
+          "甲永遠不會淹水",
+          "甲雨水全部滲入地下"
+        ],
+        "answer": 0,
+        "explanation": "陡坡與不透水面提高地表逕流速度，可能使洪峰較快到來。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-070",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線判讀",
+        "question": "等高線呈數個封閉同心圈，且標示海拔由外向內遞增，通常代表什麼？",
+        "options": [
+          "海面",
+          "山峰",
+          "河口三角洲"
+        ],
+        "answer": 1,
+        "explanation": "封閉等高線向內海拔升高，通常表示山丘或山峰。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-071",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形與防災",
+        "question": "若住家位於山谷出口的沖積扇，強降雨時除淹水還須特別留意什麼？",
+        "options": [
+          "海嘯直接穿越高山",
+          "沙漠化瞬間發生",
+          "土石流與泥沙堆積"
+        ],
+        "answer": 2,
+        "explanation": "沖積扇位於山谷出口，強降雨可能夾帶大量泥沙與土石。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261107-072",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海岸比較",
+        "question": "甲海岸多海蝕崖、乙海岸多沙洲，最合理的地形差異是？",
+        "options": [
+          "甲以岩岸侵蝕為主、乙較易堆積",
+          "兩者都是火山口",
+          "兩者完全不受海浪影響"
+        ],
+        "answer": 0,
+        "explanation": "海蝕崖常見於岩岸侵蝕環境；沙洲是沉積作用形成。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
