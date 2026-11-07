@@ -5470,6 +5470,366 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "法律兼具保障權利與維護秩序的功能。",
         "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-001",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭的功能",
+        "question": "小華生病時，家人陪伴就醫並安慰他，主要展現家庭的哪項功能？",
+        "options": [
+          "情感支持與照顧",
+          "商品定價",
+          "國防安全"
+        ],
+        "answer": 0,
+        "explanation": "家人提供陪伴、照顧與情緒支持，屬家庭的照顧與情感功能。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-002",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭的型態",
+        "question": "祖父母、父母與子女共同居住，通常稱為哪一種家庭型態？",
+        "options": [
+          "折衷家庭",
+          "單人家庭",
+          "核心家庭"
+        ],
+        "answer": 0,
+        "explanation": "三代共同生活的家庭通常稱折衷家庭，亦常稱三代家庭。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-003",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭的型態",
+        "question": "由父母及未婚子女組成的家庭，通常稱為？",
+        "options": [
+          "核心家庭",
+          "折衷家庭",
+          "隔代教養家庭"
+        ],
+        "answer": 0,
+        "explanation": "核心家庭主要由父母與未婚子女組成。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-004",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭的型態",
+        "question": "孩子主要由祖父母照顧、父母未共同居住，較符合哪種家庭型態？",
+        "options": [
+          "隔代教養家庭",
+          "核心家庭",
+          "單人家庭"
+        ],
+        "answer": 0,
+        "explanation": "由祖父母等祖輩擔任主要照顧者的情況常稱隔代教養。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-005",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭功能的改變",
+        "question": "現代家庭照顧長者時，可能尋求長照服務，反映什麼現象？",
+        "options": [
+          "部分家庭照顧功能與社會服務分工",
+          "家庭不再有任何功能",
+          "所有照顧只能由學校負責"
+        ],
+        "answer": 0,
+        "explanation": "家庭仍具照顧功能，但可由公共或民間服務共同分擔。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-006",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭中的平等",
+        "question": "家人討論家務分工時，哪種做法較符合性別平等？",
+        "options": [
+          "依能力與時間協商分工",
+          "規定只有女性做家事",
+          "規定只有男性能決策"
+        ],
+        "answer": 0,
+        "explanation": "家務分工不應只憑性別決定，應尊重成員的能力與實際情況。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-007",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭中的溝通",
+        "question": "家人對假日安排意見不同，最適當的處理方式是？",
+        "options": [
+          "聆聽彼此需求並協商",
+          "由聲音最大的人決定",
+          "拒絕任何討論"
+        ],
+        "answer": 0,
+        "explanation": "家庭成員可透過尊重、傾聽與協商處理不同意見。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-008",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭中的權利",
+        "question": "未成年子女對自身生活安排表達想法，家長較適當的態度是？",
+        "options": [
+          "考量年齡成熟度並聆聽意見",
+          "完全禁止表達",
+          "所有事情都不需討論"
+        ],
+        "answer": 0,
+        "explanation": "兒童有表達意見的權利，家長應依其成熟度適當尊重與考量。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-009",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭與法律",
+        "question": "關於家庭暴力，下列敘述何者正確？",
+        "options": [
+          "家人間的暴力也可能違法",
+          "只要是家人就不算暴力",
+          "受害者不得求助"
+        ],
+        "answer": 0,
+        "explanation": "家庭關係不使暴力合法化，受害者可以尋求保護與協助。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-010",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭與社會支持",
+        "question": "當家庭照顧者長期負荷過重，哪項措施較能提供協助？",
+        "options": [
+          "喘息服務",
+          "增加照顧者單獨負擔",
+          "禁止尋求外部資源"
+        ],
+        "answer": 0,
+        "explanation": "喘息服務可讓主要照顧者獲得暫時休息與支持。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-011",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "親屬關係",
+        "question": "下列何者屬於血親關係？",
+        "options": [
+          "兄弟姊妹",
+          "配偶雙方",
+          "朋友同學"
+        ],
+        "answer": 0,
+        "explanation": "兄弟姊妹因共同血緣而為血親；配偶屬配偶關係。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-012",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "親屬關係",
+        "question": "下列何者屬於姻親的例子？",
+        "options": [
+          "配偶的父母",
+          "自己的父母",
+          "自己的子女"
+        ],
+        "answer": 0,
+        "explanation": "配偶的父母因婚姻關係而形成姻親關係。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-013",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭中的尊重",
+        "question": "家人飲食習慣不同，最符合相互尊重的做法是？",
+        "options": [
+          "討論各自需求並安排可行選擇",
+          "強迫每個人吃相同食物",
+          "嘲笑他人的選擇"
+        ],
+        "answer": 0,
+        "explanation": "尊重差異並協調生活安排有助家庭和諧。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-014",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭責任",
+        "question": "青少年參與適齡家務，最能展現哪項觀念？",
+        "options": [
+          "共同承擔家庭責任",
+          "家務是懲罰",
+          "只有成年人需要合作"
+        ],
+        "answer": 0,
+        "explanation": "家庭成員可依能力與年齡共同分擔家務責任。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-015",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭與政府",
+        "question": "家庭遇到經濟困難時，政府提供社會救助，主要目的為何？",
+        "options": [
+          "協助維持基本生活",
+          "保證每戶收入完全相同",
+          "取代所有家庭關係"
+        ],
+        "answer": 0,
+        "explanation": "社會救助旨在協助符合資格者維持基本生活。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-016",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭與政府",
+        "question": "遇到疑似兒少受虐事件，哪種行動較合適？",
+        "options": [
+          "向可信任成人或保護機構求助",
+          "為避免麻煩完全不說",
+          "自行以暴力報復"
+        ],
+        "answer": 0,
+        "explanation": "及早向可信任成人或相關保護機構求助，可降低風險。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-017",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭功能",
+        "question": "家人教導孩子遵守約定與尊重他人，主要展現家庭哪項功能？",
+        "options": [
+          "社會化與價值教育",
+          "天氣預報",
+          "司法審判"
+        ],
+        "answer": 0,
+        "explanation": "家庭是個人學習規範與價值的重要社會化場域。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-018",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭型態與價值",
+        "question": "面對不同家庭型態，最適當的態度是？",
+        "options": [
+          "尊重多元家庭並避免刻板印象",
+          "認為只有一種家庭值得尊重",
+          "依家庭人數判斷人格"
+        ],
+        "answer": 0,
+        "explanation": "家庭組成多元，不宜以單一形式衡量成員價值。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-019",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭中的平等",
+        "question": "若家中每次都只讓年長者發言，最需要改善的是？",
+        "options": [
+          "讓不同年齡成員有適當表達機會",
+          "禁止討論",
+          "只依性別分配發言"
+        ],
+        "answer": 0,
+        "explanation": "家庭決策可依事項及成熟度聆聽不同成員意見。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-FAMILY-020",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（教材版本待核）",
+        "topic": "家庭中的衝突",
+        "question": "家人發生爭執時，哪種方法最可能降低衝突？",
+        "options": [
+          "先描述自身感受再討論解法",
+          "持續人身攻擊",
+          "公開散播對方隱私"
+        ],
+        "answer": 0,
+        "explanation": "以非攻擊方式表達感受、釐清需求有助於解決衝突。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   }
