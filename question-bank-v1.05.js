@@ -8389,6 +8389,186 @@ const questionBankV105 = [
         "explanation": "比較戰事時間與貿易紀錄有助於判斷關聯。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-091",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "貿易史料",
+        "question": "研究十七世紀臺灣某港口的貨物流向，哪一種史料最能直接提供證據？",
+        "options": [
+          "當時商船貨物清冊",
+          "現代旅遊廣告",
+          "今日衛星雲圖"
+        ],
+        "answer": 0,
+        "explanation": "貨物清冊記錄當時交易商品及數量，屬直接相關的一手史料。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-092",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料觀點",
+        "question": "為何不能只憑一位外國商人的日記，就斷定當時所有臺灣居民的生活方式？",
+        "options": [
+          "日記可能受作者身分與觀察範圍限制",
+          "日記一定是虛構",
+          "商人完全不會寫字"
+        ],
+        "answer": 0,
+        "explanation": "個人記述具有視角與取樣限制，須與其他史料交叉比對。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-093",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "歷史地名",
+        "question": "若史料中的『大員』與今日行政區名稱不同，研究者最適當的做法是？",
+        "options": [
+          "依史料年代查證地名所指位置",
+          "直接當成今日同名行政區",
+          "忽略地名與年代"
+        ],
+        "answer": 0,
+        "explanation": "歷史地名可能變動，須放回當時時空脈絡判讀。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-094",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "海上貿易",
+        "question": "十七世紀東亞海上貿易中，港口能成為交易據點的關鍵條件較可能是？",
+        "options": [
+          "具航運與轉運便利性",
+          "全年沒有季風",
+          "附近完全無居民"
+        ],
+        "answer": 0,
+        "explanation": "航線、港灣條件與商品轉運需求會影響貿易據點形成。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-095",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "史料比較",
+        "question": "比較兩份對同一事件記載不同的史料時，第一步應確認什麼？",
+        "options": [
+          "作者、成文時間與資料來源",
+          "哪份字數較多",
+          "哪份紙張顏色較深"
+        ],
+        "answer": 0,
+        "explanation": "釐清來源與寫作背景有助評估差異及可信度。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-096",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "制度影響",
+        "question": "研究荷蘭統治時期的土地制度，哪一項問題最需要區分不同群體的經驗？",
+        "options": [
+          "土地使用規範對各族群的影響是否相同",
+          "現代手機品牌市占率",
+          "當代高鐵班次"
+        ],
+        "answer": 0,
+        "explanation": "制度影響可能因族群與身分而異，不能以單一群體推論全部。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-097",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "歷史統計",
+        "question": "若要驗證某年臺灣港口貿易是否增加，下列哪種比較方式較合理？",
+        "options": [
+          "比較相同統計口徑的前後年度貨運紀錄",
+          "只看單日天氣",
+          "只比較不同時代的貨幣名稱"
+        ],
+        "answer": 0,
+        "explanation": "同口徑跨年紀錄可觀察變化，並避免統計基準不同造成誤判。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-098",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "多元史料",
+        "question": "為何研究十七世紀臺灣歷史時，需同時參考漢文與外文史料？",
+        "options": [
+          "不同記錄可能補足彼此遺漏的資訊",
+          "外文史料必然完全正確",
+          "漢文史料必然沒有價值"
+        ],
+        "answer": 0,
+        "explanation": "不同來源可呈現不同觀察角度，交叉核對較完整。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-099",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "古地圖判讀",
+        "question": "一份古地圖標示的海岸線與現代地圖不同，最審慎的解釋是？",
+        "options": [
+          "可能涉及測繪誤差或自然地形變遷，需再查證",
+          "古地圖必定造假",
+          "現代地圖一定沒有誤差"
+        ],
+        "answer": 0,
+        "explanation": "地圖差異可能來自製圖方法及地貌變化，不能直接下單一結論。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-HIS-QA-100",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上歷史第3～4章（115版待核）",
+        "topic": "宗教與文字",
+        "question": "研究十七世紀臺灣的宗教傳播，哪種證據組合較有助於交叉驗證？",
+        "options": [
+          "傳教書信與當地語言文獻",
+          "現代電影票房與廣告",
+          "今日交通流量與股價"
+        ],
+        "answer": 0,
+        "explanation": "傳教記述與語言文獻能從不同面向檢視傳播活動。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
