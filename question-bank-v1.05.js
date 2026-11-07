@@ -1,5 +1,5 @@
 /* 七上第二次段考原創題庫；各題仍需核對正式教材章節。 */
-const questionBankV105 = [
+const questionBankV105=[
   {
     "subject": "國文",
     "unit": "語文常識與閱讀",
@@ -11054,6 +11054,222 @@ const questionBankV105 = [
         ],
         "answer": 2,
         "explanation": "定期檢視分工可減少不公平的負擔。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-089",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親等計算",
+        "question": "小恩與父親的姊姊（姑姑）之間，依民法計算是幾親等旁系血親？",
+        "options": [
+          "二親等",
+          "三親等",
+          "四親等"
+        ],
+        "answer": 1,
+        "explanation": "從小恩上溯父親為一親等，再上溯祖父母為二親等，下降至姑姑為三親等。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-090",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親等計算",
+        "question": "小宇與表兄弟姊妹之間，依民法計算通常是幾親等旁系血親？",
+        "options": [
+          "三親等",
+          "四親等",
+          "五親等"
+        ],
+        "answer": 1,
+        "explanation": "雙方分別上溯至共同祖父母或外祖父母，各二代，合計四親等。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-091",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親等計算",
+        "question": "小美與自己的曾祖父之間屬於幾親等直系血親？",
+        "options": [
+          "三親等",
+          "二親等",
+          "四親等"
+        ],
+        "answer": 0,
+        "explanation": "從本人到父母、祖父母、曾祖父母依序為一、二、三親等。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-092",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親等計算",
+        "question": "自己與親姪女（兄弟的女兒）之間屬於幾親等旁系血親？",
+        "options": [
+          "二親等",
+          "四親等",
+          "三親等"
+        ],
+        "answer": 2,
+        "explanation": "上溯父母兩代關係的共同祖先，再下降至兄弟與其女兒，合計三親等。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-093",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親屬分類",
+        "question": "自己的繼父若未辦理收養，單憑母親再婚，是否當然成為法律上的養父？",
+        "options": [
+          "不會，收養須符合另外的法律程序",
+          "會，結婚即自動收養",
+          "只有同住滿一年就自動收養"
+        ],
+        "answer": 0,
+        "explanation": "婚姻與收養是不同法律關係；繼親不因再婚自動完成收養。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-094",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "親屬分類",
+        "question": "夫妻二人之間在民法親屬分類中屬於哪一種關係？",
+        "options": [
+          "旁系血親",
+          "配偶關係",
+          "直系姻親"
+        ],
+        "answer": 1,
+        "explanation": "配偶關係由婚姻成立，不屬血親，也不能直接歸類為彼此的姻親。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-095",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭經濟",
+        "question": "某家庭收入固定，卻將大部分預算用於非必要娛樂，可能最先面臨什麼風險？",
+        "options": [
+          "必要生活支出不足",
+          "所有支出自動減少",
+          "收入必然增加"
+        ],
+        "answer": 0,
+        "explanation": "預算若忽略食衣住行等基本需求，容易產生收支失衡。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-096",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭經濟",
+        "question": "家人討論購買昂貴手機時，先比較價格、保固與實際需求，最符合哪項原則？",
+        "options": [
+          "衝動消費",
+          "理性消費",
+          "炫耀性消費"
+        ],
+        "answer": 1,
+        "explanation": "考量效益、成本與自身需要，屬理性消費判斷。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-097",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭支持",
+        "question": "家人因失業暫時沒有收入，除了節流，還可優先尋求哪類協助？",
+        "options": [
+          "可信賴的就業服務與社會福利資源",
+          "網路陌生人保證獲利的投資",
+          "高利借款來維持娛樂開銷"
+        ],
+        "answer": 0,
+        "explanation": "可透過正式就業服務及符合資格的社會福利減輕衝擊。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-098",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭與隱私",
+        "question": "父母想在公開社群發布孩子的成績單，較尊重孩子的作法是？",
+        "options": [
+          "不問孩子直接公開全部資訊",
+          "先討論孩子意願並遮蔽個資",
+          "公布住址以證明資料真實"
+        ],
+        "answer": 1,
+        "explanation": "公開資料可能涉及個資與隱私，應充分溝通並減少不必要揭露。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-099",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭角色",
+        "question": "家庭成員因受傷短期無法工作，原本的家務安排應如何調整較合宜？",
+        "options": [
+          "其他成員協商暫時重新分工",
+          "要求受傷者照常完成所有工作",
+          "認定原分工永遠不能更動"
+        ],
+        "answer": 0,
+        "explanation": "家庭角色與分工可因健康、時間及能力變化而彈性協調。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CIV-NEW-100",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上公民第3～4章（115版待核）",
+        "topic": "家庭風險",
+        "question": "家庭若把所有緊急預備金投入高風險投資，最可能造成什麼問題？",
+        "options": [
+          "短期急用資金可能不足",
+          "投資必定獲利",
+          "日常支出從此消失"
+        ],
+        "answer": 0,
+        "explanation": "緊急預備金應考慮流動性與安全性，以應付突發需求。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
       }
