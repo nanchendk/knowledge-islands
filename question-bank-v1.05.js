@@ -5190,6 +5190,276 @@ const questionBankV105=[
         "answer": 0,
         "explanation": "時間軸能呈現事件的時間順序。",
         "scopeStatus": "provisional"
+      },
+      {
+        "id": "G7S1-HIST-NEW-001",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "17世紀初荷蘭人在臺灣南部建立的主要據點是？",
+        "options": [
+          "熱蘭遮城",
+          "聖薩爾瓦多城",
+          "紅毛城"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭東印度公司在大員興建熱蘭遮城，作為貿易與統治據點。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-002",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "西班牙人在臺灣北部最早的重要據點位於何處？",
+        "options": [
+          "雞籠",
+          "安平",
+          "鹿港"
+        ],
+        "answer": 0,
+        "explanation": "西班牙人1626年進入雞籠，建立據點。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-003",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "西班牙人進入北臺灣的原因之一是？",
+        "options": [
+          "牽制荷蘭人在東亞的貿易勢力",
+          "開闢臺灣高鐵",
+          "參加清廷科舉"
+        ],
+        "answer": 0,
+        "explanation": "西班牙人從菲律賓北上，與荷蘭勢力競爭。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-004",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "哪一個機構主導荷蘭在臺灣的商業與殖民活動？",
+        "options": [
+          "荷蘭東印度公司",
+          "英國國會",
+          "清朝戶部"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭東印度公司兼具貿易及殖民管理權力。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-005",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "荷蘭人鼓勵漢人移民臺灣耕作，主要與哪項經濟目的有關？",
+        "options": [
+          "擴大農業生產與稅收",
+          "推廣工業機器人",
+          "建立鐵路運輸"
+        ],
+        "answer": 0,
+        "explanation": "移民墾殖可增加農產與殖民政府的稅收。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-006",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "「新港文書」具有何種史料價值？",
+        "options": [
+          "保留原住民族語言與契約紀錄",
+          "記錄日治時期選舉",
+          "證明高鐵通車日期"
+        ],
+        "answer": 0,
+        "explanation": "新港文書以羅馬字記錄部分平埔族語言及契約內容。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-007",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "荷蘭人推動傳教教育時，使用羅馬字拼寫部分原住民族語，主要說明？",
+        "options": [
+          "文字系統可用來記錄口語",
+          "所有原住民族原本使用漢字",
+          "荷蘭人禁止任何書寫"
+        ],
+        "answer": 0,
+        "explanation": "羅馬字可記錄當地語音，成為歷史語言資料。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-008",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "1642年荷蘭人將哪一國勢力逐出北臺灣？",
+        "options": [
+          "西班牙",
+          "葡萄牙",
+          "法國"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭人1642年攻下西班牙在雞籠的據點。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-009",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "研究荷蘭時期的臺灣貿易，哪一類材料最適合當作第一手史料？",
+        "options": [
+          "當時商館的交易帳冊",
+          "現代虛構小說",
+          "沒有來源的網路傳言"
+        ],
+        "answer": 0,
+        "explanation": "當時留下的商業紀錄可直接反映交易情形。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "國際競爭時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-010",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "鄭成功於何年率軍登陸臺灣，展開對荷蘭人的攻勢？",
+        "options": [
+          "1661年",
+          "1624年",
+          "1683年"
+        ],
+        "answer": 0,
+        "explanation": "鄭成功1661年登陸，翌年迫使荷蘭人投降。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "鄭氏時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-011",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "荷蘭人在臺灣南部結束主要統治的年份是？",
+        "options": [
+          "1662年",
+          "1626年",
+          "1895年"
+        ],
+        "answer": 0,
+        "explanation": "荷蘭人在1662年向鄭成功投降。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "鄭氏時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-012",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "鄭氏政權推動軍屯，主要要解決哪一問題？",
+        "options": [
+          "軍隊糧食供應",
+          "增加遠洋郵輪",
+          "建立電力網"
+        ],
+        "answer": 0,
+        "explanation": "軍屯讓軍隊參與開墾，增加糧食供應。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "鄭氏時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-013",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "鄭成功在臺設置承天府，反映何種措施？",
+        "options": [
+          "建立行政組織",
+          "推行日治地方自治",
+          "設置現代立法院"
+        ],
+        "answer": 0,
+        "explanation": "承天府是鄭氏政權建立統治體制的一環。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "鄭氏時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-014",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "question": "鄭氏政權經營海外貿易的重要原因之一是？",
+        "options": [
+          "取得軍需物資與財政收入",
+          "完全不需要對外交流",
+          "以觀光為唯一收入"
+        ],
+        "answer": 0,
+        "explanation": "鄭氏依靠海上貿易支持軍政需求。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "鄭氏時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
+      },
+      {
+        "id": "G7S1-HIST-NEW-015",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "question": "比較荷蘭與鄭氏在臺治理，兩者都曾重視哪項活動？",
+        "options": [
+          "農業開墾",
+          "建造捷運",
+          "發展半導體"
+        ],
+        "answer": 0,
+        "explanation": "兩者都因經濟及糧食需求而推動開墾。",
+        "chapter": "第3～4章（章節對應待核）",
+        "topic": "鄭氏時期",
+        "scopeStatus": "chapter_pending_verification",
+        "sourceReference": "臺灣歷史公共史料與學校公開段考範例；題目原創"
       }
     ]
   },
