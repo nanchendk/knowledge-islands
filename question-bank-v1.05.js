@@ -1403,6 +1403,384 @@ const questionBankV105 = [
         "explanation": "改寫不代表原始資訊變成自己的研究成果，仍應標示來源。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-080",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "閱讀理解",
+        "question": "文章開頭先描寫寧靜街道，結尾才揭露街道即將拆除，這種安排主要產生何種效果？",
+        "options": [
+          "以先前平靜景象襯托後續變化",
+          "證明街道從未存在",
+          "使文章失去時間順序"
+        ],
+        "answer": 0,
+        "explanation": "前後景象形成反差，強化讀者對變遷的感受。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-081",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "閱讀理解",
+        "question": "一篇記敘文反覆提到祖父留下的舊手錶，最後以手錶停止走動作結。手錶最可能具有什麼作用？",
+        "options": [
+          "象徵親情與時間流逝",
+          "提供精確天文數據",
+          "證明所有鐘錶都故障"
+        ],
+        "answer": 0,
+        "explanation": "反覆出現的物件可承載情感與主題。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-082",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "閱讀理解",
+        "question": "文中說「他嘴上說不在意，卻把落選通知摺好收進抽屜」。最合理的推論是？",
+        "options": [
+          "他可能仍在意落選",
+          "他完全不認識通知內容",
+          "他一定打算搬家"
+        ],
+        "answer": 0,
+        "explanation": "言語與動作的反差暗示人物未說出的情緒。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-083",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "閱讀理解",
+        "question": "若作者先敘述事件結果，再回頭交代起因，這種敘事方式稱為？",
+        "options": [
+          "倒敘",
+          "順敘",
+          "列舉"
+        ],
+        "answer": 0,
+        "explanation": "先寫結果再追述先前經過，是倒敘。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-084",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "閱讀理解",
+        "question": "讀到「雨停後，他終於打開緊閉三年的窗」，結合全文的心境轉變，窗最可能象徵？",
+        "options": [
+          "重新接納外界的契機",
+          "天氣永遠晴朗",
+          "房屋必須拆除"
+        ],
+        "answer": 0,
+        "explanation": "具象的開窗行動可象徵內心重新開放。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-085",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "閱讀理解",
+        "question": "文章以不同人的訪談呈現同一事件，讀者最應注意什麼？",
+        "options": [
+          "不同敘述者的立場與證據",
+          "只採用最長的一段訪談",
+          "所有說法必定完全相同"
+        ],
+        "answer": 0,
+        "explanation": "多重觀點可能各有侷限，應比對證據。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-086",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "修辭",
+        "question": "「風把樹葉叫醒了」主要運用何種修辭？",
+        "options": [
+          "轉化（擬人）",
+          "設問",
+          "引用"
+        ],
+        "answer": 0,
+        "explanation": "將風寫成能叫醒事物的人，屬擬人。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-087",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "修辭",
+        "question": "「這一等，彷彿等了一千年」最明顯運用何種修辭？",
+        "options": [
+          "誇飾",
+          "借代",
+          "對偶"
+        ],
+        "answer": 0,
+        "explanation": "用極端延長的時間強調等待之久。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-088",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "修辭",
+        "question": "「書是窗，帶我看見遠方」主要運用何種修辭？",
+        "options": [
+          "譬喻",
+          "排比",
+          "層遞"
+        ],
+        "answer": 0,
+        "explanation": "將書比作窗，強調拓展視野的功能。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-089",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "修辭",
+        "question": "「不是為了被看見，而是為了看得更遠」運用對照句式，主要凸顯什麼？",
+        "options": [
+          "目的由求關注轉向求視野",
+          "兩個目的完全相同",
+          "主角拒絕所有觀察"
+        ],
+        "answer": 0,
+        "explanation": "相對的目的構成對照，凸顯價值選擇。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-090",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "詞語語意",
+        "question": "「他對每個細節都『錙銖必較』」若用於稱讚其精確度，應注意哪個問題？",
+        "options": [
+          "此成語常帶過分計較的貶義",
+          "此成語專指天氣",
+          "此成語只能形容速度"
+        ],
+        "answer": 0,
+        "explanation": "錙銖必較常指對細小利益或事情過度計較。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-091",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "詞語語意",
+        "question": "「事情尚未明朗，現在下結論恐怕『言之過早』。」此詞意為？",
+        "options": [
+          "說得太早、時機未到",
+          "說話速度太快",
+          "內容一定正確"
+        ],
+        "answer": 0,
+        "explanation": "言之過早指判斷或結論提出得太早。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-092",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文表達",
+        "question": "將「因為下雨，所以比賽延期」改寫為「比賽延期，因為下雨」，兩句的主要差異是？",
+        "options": [
+          "語序改變但因果關係相同",
+          "因果關係顛倒",
+          "兩句完全無關"
+        ],
+        "answer": 0,
+        "explanation": "兩句皆以降雨為原因、延期為結果。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-093",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文表達",
+        "question": "「他不但完成作業，還主動協助同學。」其中「不但……還……」表達何種關係？",
+        "options": [
+          "遞進",
+          "轉折",
+          "假設"
+        ],
+        "answer": 0,
+        "explanation": "後項在前項基礎上進一步補充表現。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-094",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文表達",
+        "question": "下列何句標點最適合表示說話者直接發問？",
+        "options": [
+          "你今天要去圖書館嗎？",
+          "你今天要去圖書館。",
+          "你今天要去圖書館！"
+        ],
+        "answer": 0,
+        "explanation": "直接疑問句末應使用問號。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-095",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文表達",
+        "question": "寫正式通知時，哪種表述最能減少時間歧義？",
+        "options": [
+          "11月12日（四）下午3時在圖書館集合",
+          "下週找時間集合",
+          "有空就到老地方"
+        ],
+        "answer": 0,
+        "explanation": "明確日期、時間與地點有助於讀者執行。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-096",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文天地二（上）",
+        "question": "閱讀一篇評論時，哪項最能區分「事實」與「意見」？",
+        "options": [
+          "查證敘述是否可由客觀資料驗證",
+          "看句子是否很長",
+          "看作者是否使用逗號"
+        ],
+        "answer": 0,
+        "explanation": "事實可藉資料檢驗；意見多包含主觀評價。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-097",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "語文天地二（上）",
+        "question": "摘要一篇文章時，哪種做法最恰當？",
+        "options": [
+          "保留核心論點與關鍵證據，刪除次要細節",
+          "逐字抄錄所有段落",
+          "只留下最有趣的形容詞"
+        ],
+        "answer": 0,
+        "explanation": "摘要應忠於原意並濃縮主要資訊。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-098",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "自學二",
+        "question": "自學文章出現不熟悉的詞語時，最合理的第一步是？",
+        "options": [
+          "先依上下文推測，再查工具書核對",
+          "直接跳過整篇",
+          "只依字形任意猜測"
+        ],
+        "answer": 0,
+        "explanation": "語境推論配合工具書核對能提高理解正確性。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-099",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "自學二",
+        "question": "閱讀後要檢查自己是否理解人物轉變，哪種提問最有效？",
+        "options": [
+          "人物在事件前後的選擇有何不同，原因是什麼？",
+          "文章共有幾個逗號？",
+          "封面是哪種顏色？"
+        ],
+        "answer": 0,
+        "explanation": "比較人物行為及原因可檢驗對情節與動機的理解。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-CHI-QA-100",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "康軒七上國文第4～6課、自學二、語文天地二（上）（版本待核）",
+        "topic": "自學二",
+        "question": "比較兩篇描寫離別的文章時，最適合的比較面向是？",
+        "options": [
+          "敘事視角、意象及情感表達",
+          "兩篇的紙張厚度",
+          "作者姓名筆畫數"
+        ],
+        "answer": 0,
+        "explanation": "比較表達手法與情感能分析作品異同。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
