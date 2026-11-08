@@ -10039,6 +10039,330 @@ const questionBankV105 = [
         "explanation": "強降雨提高坡地含水量，植被減少也可能降低坡面穩定性。",
         "scopeStatus": "chapter_pending_verification",
         "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-083",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖比例尺換算",
+        "question": "地圖比例尺1:50,000，圖上兩地相距4公分，實際直線距離約多少？",
+        "options": [
+          "200公尺",
+          "2公里",
+          "20公里"
+        ],
+        "answer": 1,
+        "explanation": "4×50,000公分＝200,000公分＝2公里。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-084",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖方向",
+        "question": "地圖未旋轉且北方朝上，甲地在乙地的右下方，甲相對乙位於何方？",
+        "options": [
+          "東南方",
+          "西北方",
+          "東北方"
+        ],
+        "answer": 0,
+        "explanation": "北朝上時右為東、下為南，因此右下為東南。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-085",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地圖圖例",
+        "question": "地圖上的藍色實線標示河流，判讀這個符號最應先查看什麼？",
+        "options": [
+          "圖例",
+          "出版價格",
+          "紙張厚度"
+        ],
+        "answer": 0,
+        "explanation": "圖例說明地圖符號的意義，是辨識地物的依據。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-086",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "等高線間距",
+        "question": "一張等高線圖相鄰兩條線分別為120與140公尺，等高距是多少？",
+        "options": [
+          "10公尺",
+          "20公尺",
+          "260公尺"
+        ],
+        "answer": 1,
+        "explanation": "相鄰等高線高程差140－120＝20公尺。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-087",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "山脊與山谷",
+        "question": "等高線跨越溪谷時形成V字形，V字尖端通常指向哪裡？",
+        "options": [
+          "上游較高處",
+          "下游較低處",
+          "固定朝向北方"
+        ],
+        "answer": 0,
+        "explanation": "溪谷處等高線的V字尖端一般指向上游高處。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-088",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形剖面",
+        "question": "沿地圖A至B線繪製地形剖面，橫軸通常表示什麼？",
+        "options": [
+          "沿線水平距離",
+          "岩石年齡",
+          "全年降雨量"
+        ],
+        "answer": 0,
+        "explanation": "地形剖面橫軸表示沿測線距離，縱軸表示高程。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-089",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "坡度與距離",
+        "question": "兩條登山路線升高相同高度，甲路線水平距離較短，哪條通常較陡？",
+        "options": [
+          "甲",
+          "乙",
+          "必定一樣"
+        ],
+        "answer": 0,
+        "explanation": "高差相同時，水平距離越短，坡度越大。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-090",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形與土地利用",
+        "question": "平原相較於陡峭山地，較常集中大型聚落的主要原因是什麼？",
+        "options": [
+          "地勢平坦較易建設",
+          "平原完全不會淹水",
+          "平原一定沒有地震"
+        ],
+        "answer": 0,
+        "explanation": "平坦地形通常有利交通、建築與土地利用。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-091",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "河川上中下游",
+        "question": "同一條河川由上游往下游，河道一般會出現哪種變化？",
+        "options": [
+          "流域匯水使水量通常增加",
+          "坡度必定持續增加",
+          "河水必定變成海水"
+        ],
+        "answer": 0,
+        "explanation": "支流陸續匯入，河川水量通常向下游增加。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-092",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "侵蝕基準面",
+        "question": "河流流入海洋時，海平面通常可視為河流侵蝕的哪一項參考？",
+        "options": [
+          "最終侵蝕基準面",
+          "最高山峰高度",
+          "地震震央"
+        ],
+        "answer": 0,
+        "explanation": "海平面常是河流下切侵蝕的最終基準面。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-093",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "河口沉積",
+        "question": "河水進入較平靜水域後流速減慢，較容易發生何種作用？",
+        "options": [
+          "泥沙沉積",
+          "冰川刨蝕",
+          "岩漿噴發"
+        ],
+        "answer": 0,
+        "explanation": "流速下降使搬運能力減弱，泥沙較易沉積。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-094",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "海蝕地形",
+        "question": "海浪長期侵蝕岩岸底部，可能逐漸形成哪一種地形？",
+        "options": [
+          "海蝕洞",
+          "沖積扇",
+          "河階"
+        ],
+        "answer": 0,
+        "explanation": "波浪侵蝕岩壁較脆弱部位，可能形成海蝕洞。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-095",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "沙洲形成",
+        "question": "沿岸流搬運砂粒並在海岸附近堆積，可能形成什麼？",
+        "options": [
+          "沙洲",
+          "火山口",
+          "冰斗"
+        ],
+        "answer": 0,
+        "explanation": "沿岸漂沙的沉積作用可形成沙洲等海積地形。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-096",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "河川洪氾",
+        "question": "河川洪水溢出河道，附近低平地區最需要留意哪項風險？",
+        "options": [
+          "淹水",
+          "火山熔岩",
+          "雪崩"
+        ],
+        "answer": 0,
+        "explanation": "河道容納不下洪水時，水可能漫淹鄰近低地。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-097",
+        "stage": 3,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "坡地開發",
+        "question": "在坡地開闢道路後，哪項措施較能降低暴雨時邊坡失穩風險？",
+        "options": [
+          "妥善排水與護坡",
+          "堵塞排水溝",
+          "大量移除植被"
+        ],
+        "answer": 0,
+        "explanation": "適當排水與邊坡保護有助降低含水及沖蝕造成的不穩定。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-098",
+        "stage": 4,
+        "type": "single_choice",
+        "difficulty": "基礎",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "遙測影像",
+        "question": "比較同一海岸不同年份的衛星影像，最適合分析哪種現象？",
+        "options": [
+          "海岸線位置變化",
+          "地下岩漿精確溫度",
+          "每個居民的姓名"
+        ],
+        "answer": 0,
+        "explanation": "多時期衛星影像可觀察海岸線退縮或淤積變化。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-099",
+        "stage": 1,
+        "type": "single_choice",
+        "difficulty": "中階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地理資訊圖層",
+        "question": "要找出低窪且鄰近河道的區域，最適合疊合哪兩種圖層？",
+        "options": [
+          "高程與河川分布",
+          "電影票房與歌單",
+          "星座與生肖"
+        ],
+        "answer": 0,
+        "explanation": "高程資料可辨識低地，河川圖層可顯示距河道遠近。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
+      },
+      {
+        "id": "G7S1-GEO-20261108-100",
+        "stage": 2,
+        "type": "single_choice",
+        "difficulty": "進階",
+        "chapter": "翰林七上地理第3～4章（115學年度版本待核）",
+        "topic": "地形與交通工程",
+        "question": "山區公路為降低坡度而採連續彎道，主要是為了什麼？",
+        "options": [
+          "增加路線長度以減緩爬升坡度",
+          "讓海拔瞬間降低",
+          "使山體停止風化"
+        ],
+        "answer": 0,
+        "explanation": "同樣高差下延長路線水平距離，可降低平均縱坡。",
+        "scopeStatus": "chapter_pending_verification",
+        "verifiedForExam": false
       }
     ]
   },
